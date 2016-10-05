@@ -1,0 +1,1151 @@
+﻿Log file open, 10/05/16 11:38:25
+LogInit:Display: Running engine for game: AmbientationTests
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2057977797) SRandInit(-2057977797).
+LogTaskGraph: Started task graph with 5 named threads and 10 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.093540
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.05-09.38.25:484][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.05-09.38.25:484][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.05-09.38.25:495][  0]LogInit: Computer: BAR-EGIMENEZ
+[2016.10.05-09.38.25:495][  0]LogInit: User: egimenez
+[2016.10.05-09.38.25:495][  0]LogInit: CPU Page size=65536, Cores=6
+[2016.10.05-09.38.25:495][  0]LogInit: High frequency timer resolution =3.409794 MHz
+[2016.10.05-09.38.25:495][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2016.10.05-09.38.25:495][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.05-09.38.25:495][  0]LogMemory: Process Physical Memory: 258.67 MB used, 258.67 MB peak
+[2016.10.05-09.38.25:495][  0]LogMemory: Process Virtual Memory: 263.11 MB used, 263.11 MB peak
+[2016.10.05-09.38.25:495][  0]LogMemory: Physical Memory: 8275.07 MB used, 65464.06 MB total
+[2016.10.05-09.38.25:495][  0]LogMemory: Virtual Memory: 594.10 MB used, 8388608.00 MB total
+[2016.10.05-09.38.25:524][  0]LogTextLocalizationManager: No specific translations for ('es-ES') exist, so ('es') translations will be used.
+[2016.10.05-09.38.25:908][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.05-09.38.25:930][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2016.10.05-09.38.25:930][  0]LogD3D11RHI:       4027/0/32476 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.05-09.38.25:930][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.05-09.38.32:801][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.05-09.38.32:801][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.05-09.38.32:801][  0]LogWindows: EnumDisplayDevices:
+[2016.10.05-09.38.32:802][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2016.10.05-09.38.32:802][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2016.10.05-09.38.32:802][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2016.10.05-09.38.32:802][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2016.10.05-09.38.32:802][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2016.10.05-09.38.32:803][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.10.05-09.38.32:803][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.10.05-09.38.32:803][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.10.05-09.38.32:803][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2016.10.05-09.38.32:803][  0]LogD3D11RHI:   Driver Version: 347.52 (internal:9.18.13.4752, unified:347.52)
+[2016.10.05-09.38.32:803][  0]LogD3D11RHI:      Driver Date: 2-5-2015
+[2016.10.05-09.38.32:803][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.05-09.38.32:811][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.05-09.38.32:834][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.10.05-09.38.32:834][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Intermediate/Shaders/WorkingDirectory/7520/).
+[2016.10.05-09.38.32:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/egimenez/AppData/Local/Temp/UnrealShaderWorkingDir/295ED6914E89D86CE9FCC48B29BF3BBD/'.
+[2016.10.05-09.38.32:834][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.05-09.38.33:951][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.05-09.38.33:960][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.05-09.38.33:969][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.05-09.38.33:977][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.05-09.38.33:986][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.05-09.38.33:993][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.05-09.38.34:001][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.05-09.38.34:008][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.05-09.38.34:018][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.05-09.38.34:028][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.05-09.38.34:036][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.05-09.38.34:051][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.05-09.38.34:051][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.05-09.38.34:052][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.05-09.38.34:072][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.05-09.38.34:079][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.05-09.38.34:086][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.05-09.38.34:093][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.05-09.38.34:100][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.05-09.38.34:110][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.05-09.38.34:110][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.05-09.38.34:190][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.05-09.38.34:264][  0]LogDerivedDataCache: Loaded boot cache 0.07s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.05-09.38.34:264][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.05-09.38.34:264][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.05-09.38.34:265][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.05-09.38.34:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.05-09.38.34:265][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.05-09.38.34:280][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.05-09.38.34:303][  0]LogDerivedDataCache: Using Local data cache path C:/Users/egimenez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.05-09.38.34:574][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.05-09.38.34:578][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.05-09.38.34:580][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.05-09.38.34:735][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.05-09.38.34:735][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.05-09.38.34:735][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.05-09.38.35:106][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: ambientationtests, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 65135378
+[2016.10.05-09.38.35:143][  0]LogAssetRegistry: FAssetRegistry took 0.0207 seconds to start up
+[2016.10.05-09.38.35:188][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.043023 seconds
+[2016.10.05-09.38.35:193][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.10.05-09.38.35:193][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.10.05-09.38.35:193][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.05-09.38.35:200][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.05-09.38.35:423][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.05-09.38.35:423][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.05-09.38.36:057][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.05-09.38.36:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.05-09.38.36:369][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.10.05-09.38.36:369][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.10.05-09.38.36:378][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.10.05-09.38.36:385][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.10.05-09.38.36:656][  0]LogEngine: Initializing Engine...
+[2016.10.05-09.38.36:656][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.05-09.38.36:805][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.38.36:814][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.38.36:825][  0]LogInit: FAudioDevice initialized.
+[2016.10.05-09.38.36:870][  0]LogDerivedDataCache: Saved boot cache 0.05s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.05-09.38.36:879][  0]LogInit: Texture streaming: Enabled
+[2016.10.05-09.38.36:905][  0]LogInit: Transaction tracking system initialized
+[2016.10.05-09.38.36:926][  0]BlueprintLog: New page: Cargar el editor
+[2016.10.05-09.38.37:103][  0]LocalizationService: Información Localization service is disabled
+[2016.10.05-09.38.37:233][  0]LogConsoleResponse:Display: 
+[2016.10.05-09.38.37:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/' took 0.01s
+[2016.10.05-09.38.37:345][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.05-09.38.37:345][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.05-09.38.37:518][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.10.05-09.38.37:518][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/StarterContent.upack)
+[2016.10.05-09.38.37:526][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2016.10.05-09.38.37:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2016.10.05-09.38.37:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2016.10.05-09.38.37:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2016.10.05-09.38.37:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2016.10.05-09.38.37:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2016.10.05-09.38.37:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2016.10.05-09.38.37:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2016.10.05-09.38.37:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2016.10.05-09.38.37:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2016.10.05-09.38.37:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2016.10.05-09.38.37:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2016.10.05-09.38.37:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Collapse01.uasset"
+[2016.10.05-09.38.37:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Collapse02.uasset"
+[2016.10.05-09.38.37:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2016.10.05-09.38.37:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Explosion01.uasset"
+[2016.10.05-09.38.37:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Explosion02.uasset"
+[2016.10.05-09.38.37:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2016.10.05-09.38.37:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Fire01.uasset"
+[2016.10.05-09.38.37:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2016.10.05-09.38.37:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2016.10.05-09.38.37:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2016.10.05-09.38.37:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Light01.uasset"
+[2016.10.05-09.38.37:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2016.10.05-09.38.37:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Light02.uasset"
+[2016.10.05-09.38.37:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2016.10.05-09.38.37:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Smoke01.uasset"
+[2016.10.05-09.38.38:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2016.10.05-09.38.38:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2016.10.05-09.38.38:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2016.10.05-09.38.38:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2016.10.05-09.38.38:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2016.10.05-09.38.38:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2016.10.05-09.38.38:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2016.10.05-09.38.39:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Steam01.uasset"
+[2016.10.05-09.38.39:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2016.10.05-09.38.39:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2016.10.05-09.38.39:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2016.10.05-09.38.39:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2016.10.05-09.38.39:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2016.10.05-09.38.39:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2016.10.05-09.38.39:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2016.10.05-09.38.39:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2016.10.05-09.38.39:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2016.10.05-09.38.39:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2016.10.05-09.38.39:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2016.10.05-09.38.40:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2016.10.05-09.38.40:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2016.10.05-09.38.40:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2016.10.05-09.38.40:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2016.10.05-09.38.40:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2016.10.05-09.38.40:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2016.10.05-09.38.41:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2016.10.05-09.38.41:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2016.10.05-09.38.41:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Maps/Minimal_Default.umap"
+[2016.10.05-09.38.41:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Maps/StarterMap.umap"
+[2016.10.05-09.38.41:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2016.10.05-09.38.41:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2016.10.05-09.38.41:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2016.10.05-09.38.41:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2016.10.05-09.38.41:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2016.10.05-09.38.41:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2016.10.05-09.38.41:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2016.10.05-09.38.41:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2016.10.05-09.38.41:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2016.10.05-09.38.41:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2016.10.05-09.38.41:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2016.10.05-09.38.41:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2016.10.05-09.38.41:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2016.10.05-09.38.41:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2016.10.05-09.38.41:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2016.10.05-09.38.41:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2016.10.05-09.38.41:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2016.10.05-09.38.41:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Glass.uasset"
+[2016.10.05-09.38.41:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2016.10.05-09.38.41:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2016.10.05-09.38.41:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2016.10.05-09.38.41:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2016.10.05-09.38.41:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2016.10.05-09.38.41:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2016.10.05-09.38.41:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2016.10.05-09.38.41:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2016.10.05-09.38.41:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2016.10.05-09.38.41:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2016.10.05-09.38.41:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2016.10.05-09.38.41:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2016.10.05-09.38.41:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2016.10.05-09.38.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2016.10.05-09.38.41:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2016.10.05-09.38.41:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2016.10.05-09.38.41:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2016.10.05-09.38.41:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2016.10.05-09.38.41:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2016.10.05-09.38.41:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2016.10.05-09.38.41:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2016.10.05-09.38.41:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2016.10.05-09.38.41:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2016.10.05-09.38.41:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2016.10.05-09.38.41:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2016.10.05-09.38.41:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2016.10.05-09.38.41:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Explosion.uasset"
+[2016.10.05-09.38.42:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Fire.uasset"
+[2016.10.05-09.38.42:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Smoke.uasset"
+[2016.10.05-09.38.42:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Sparks.uasset"
+[2016.10.05-09.38.42:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2016.10.05-09.38.42:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2016.10.05-09.38.42:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2016.10.05-09.38.42:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2016.10.05-09.38.42:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2016.10.05-09.38.42:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2016.10.05-09.38.42:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2016.10.05-09.38.42:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2016.10.05-09.38.42:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2016.10.05-09.38.42:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2016.10.05-09.38.42:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2016.10.05-09.38.42:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/MaterialSphere.uasset"
+[2016.10.05-09.38.42:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Bush.uasset"
+[2016.10.05-09.38.42:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Chair.uasset"
+[2016.10.05-09.38.42:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2016.10.05-09.38.42:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Couch.uasset"
+[2016.10.05-09.38.42:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Door.uasset"
+[2016.10.05-09.38.42:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2016.10.05-09.38.42:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2016.10.05-09.38.42:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2016.10.05-09.38.42:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2016.10.05-09.38.42:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2016.10.05-09.38.42:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2016.10.05-09.38.42:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2016.10.05-09.38.42:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Rock.uasset"
+[2016.10.05-09.38.42:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Shelf.uasset"
+[2016.10.05-09.38.42:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Stairs.uasset"
+[2016.10.05-09.38.42:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_Statue.uasset"
+[2016.10.05-09.38.42:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_TableRound.uasset"
+[2016.10.05-09.38.42:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2016.10.05-09.38.42:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2016.10.05-09.38.42:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2016.10.05-09.38.42:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2016.10.05-09.38.42:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2016.10.05-09.38.42:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2016.10.05-09.38.42:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2016.10.05-09.38.42:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2016.10.05-09.38.42:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2016.10.05-09.38.42:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2016.10.05-09.38.42:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2016.10.05-09.38.42:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2016.10.05-09.38.42:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2016.10.05-09.38.42:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2016.10.05-09.38.42:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2016.10.05-09.38.42:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2016.10.05-09.38.42:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2016.10.05-09.38.42:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2016.10.05-09.38.42:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2016.10.05-09.38.42:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2016.10.05-09.38.42:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2016.10.05-09.38.42:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2016.10.05-09.38.42:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2016.10.05-09.38.42:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2016.10.05-09.38.42:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2016.10.05-09.38.42:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2016.10.05-09.38.42:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2016.10.05-09.38.42:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2016.10.05-09.38.42:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2016.10.05-09.38.42:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2016.10.05-09.38.42:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2016.10.05-09.38.42:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2016.10.05-09.38.43:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2016.10.05-09.38.43:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2016.10.05-09.38.43:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2016.10.05-09.38.43:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2016.10.05-09.38.43:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2016.10.05-09.38.43:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2016.10.05-09.38.43:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2016.10.05-09.38.43:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2016.10.05-09.38.44:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2016.10.05-09.38.44:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2016.10.05-09.38.44:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2016.10.05-09.38.44:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2016.10.05-09.38.44:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2016.10.05-09.38.44:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2016.10.05-09.38.44:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2016.10.05-09.38.44:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2016.10.05-09.38.44:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2016.10.05-09.38.44:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2016.10.05-09.38.44:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2016.10.05-09.38.44:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2016.10.05-09.38.44:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2016.10.05-09.38.44:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2016.10.05-09.38.44:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2016.10.05-09.38.44:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2016.10.05-09.38.45:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2016.10.05-09.38.46:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2016.10.05-09.38.47:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2016.10.05-09.38.47:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2016.10.05-09.38.47:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2016.10.05-09.38.47:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2016.10.05-09.38.48:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2016.10.05-09.38.48:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2016.10.05-09.38.48:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2016.10.05-09.38.49:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2016.10.05-09.38.49:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2016.10.05-09.38.49:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2016.10.05-09.38.50:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2016.10.05-09.38.50:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2016.10.05-09.38.50:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2016.10.05-09.38.50:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Door_M.uasset"
+[2016.10.05-09.38.50:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Door_N.uasset"
+[2016.10.05-09.38.50:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2016.10.05-09.38.50:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2016.10.05-09.38.50:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2016.10.05-09.38.50:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2016.10.05-09.38.50:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2016.10.05-09.38.50:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2016.10.05-09.38.50:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2016.10.05-09.38.50:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2016.10.05-09.38.50:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2016.10.05-09.38.51:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2016.10.05-09.38.51:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2016.10.05-09.38.51:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2016.10.05-09.38.51:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2016.10.05-09.38.52:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2016.10.05-09.38.52:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2016.10.05-09.38.52:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2016.10.05-09.38.52:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2016.10.05-09.38.52:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2016.10.05-09.38.52:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2016.10.05-09.38.52:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2016.10.05-09.38.52:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2016.10.05-09.38.52:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2016.10.05-09.38.52:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2016.10.05-09.38.52:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2016.10.05-09.38.52:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2016.10.05-09.38.52:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2016.10.05-09.38.52:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2016.10.05-09.38.53:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2016.10.05-09.38.53:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2016.10.05-09.38.53:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2016.10.05-09.38.53:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2016.10.05-09.38.53:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2016.10.05-09.38.54:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2016.10.05-09.38.54:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2016.10.05-09.38.54:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2016.10.05-09.38.54:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2016.10.05-09.38.54:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2016.10.05-09.38.54:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2016.10.05-09.38.54:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2016.10.05-09.38.54:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2016.10.05-09.38.54:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2016.10.05-09.38.54:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2016.10.05-09.38.54:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2016.10.05-09.38.54:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2016.10.05-09.38.54:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2016.10.05-09.38.54:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2016.10.05-09.38.54:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2016.10.05-09.38.55:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2016.10.05-09.38.55:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2016.10.05-09.38.55:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2016.10.05-09.38.55:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2016.10.05-09.38.55:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Water_M.uasset"
+[2016.10.05-09.38.56:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Water_N.uasset"
+[2016.10.05-09.38.56:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2016.10.05-09.38.56:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2016.10.05-09.38.56:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2016.10.05-09.38.56:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2016.10.05-09.38.56:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2016.10.05-09.38.56:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2016.10.05-09.38.56:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2016.10.05-09.38.56:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2016.10.05-09.38.56:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2016.10.05-09.38.56:658][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2016.10.05-09.38.56:813][  0]LogSavePackage: Save=58.27ms
+[2016.10.05-09.38.56:813][  0]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Saved/Floor_400x40006C2262648AA231868CDD38DB3C40111.tmp' to '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2016.10.05-09.38.56:818][  0]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2016.10.05-09.38.56:818][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2016.10.05-09.38.56:821][  0]Cmd: MAP LOAD FILE="../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.05-09.38.56:848][  0]LightingResults: New page: Diseñar la iluminación
+[2016.10.05-09.38.56:851][  0]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.38.56:851][  0]LightingResults: New page: Diseñar la iluminación
+[2016.10.05-09.38.58:060][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.05-09.38.58:127][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.05-09.38.58:128][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.05-09.38.58:171][  0]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 43,262ms to complete.
+[2016.10.05-09.38.58:171][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.351
+[2016.10.05-09.38.58:274][  0]LogCollectionManager: Loaded 0 collections in 0.001501 seconds
+[2016.10.05-09.38.58:372][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Saved/Collections/' took 0.01s
+[2016.10.05-09.38.58:372][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/Developers/egimenez/Collections/' took 0.01s
+[2016.10.05-09.38.58:372][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/Collections/' took 0.01s
+[2016.10.05-09.38.58:372][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.10.05-09.38.58:382][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2141 classes and 415 folders.
+[2016.10.05-09.38.58:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.05-09.38.58:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.05-09.38.58:386][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2016.10.05-09.38.58:390][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.10.05-09.38.58:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.10.05-09.38.58:435][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.10.05-09.38.58:449][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.05-09.38.58:453][  0]LogUObjectGlobals:Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2016.10.05-09.38.58:479][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.10.05-09.38.58:479][  0]LogLoad: (Engine Initialization) Total time: 33.94 seconds
+[2016.10.05-09.38.58:479][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2016.10.05-09.38.58:479][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.10.05-09.38.58:819][  0]LogOcInput: OculusInput pre-init called
+[2016.10.05-09.38.58:852][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.05-09.38.59:025][  0]LogRenderer: Reallocating scene render targets to support 1056x556 (Frame:3).
+[2016.10.05-09.38.59:497][  2]LogAssetRegistry: Asset discovery search completed in 24.3739 seconds
+[2016.10.05-09.38.59:497][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.10.05-09.38.59:497][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2016.10.05-09.39.19:900][ 64]LogHttp:Warning: 0000000037521180: request failed, libcurl error: 7 (Couldn't connect to server)
+[2016.10.05-09.39.19:900][ 64]LogHttp:Warning: 0000000037521180: libcurl info message cache 6 (  Trying 52.85.172.99...)
+[2016.10.05-09.39.19:900][ 64]LogHttp:Warning: 0000000037521180: libcurl info message cache 7 (connect to 52.85.172.99 port 80 failed: Timed out)
+[2016.10.05-09.39.19:900][ 64]LogHttp:Warning: 0000000037521180: libcurl info message cache 8 (Failed to connect to cdn.unrealengine.com port 80: Timed out)
+[2016.10.05-09.39.19:900][ 64]LogHttp:Warning: 0000000037521180: libcurl info message cache 9 (Closing connection 0)
+[2016.10.05-09.39.41:154][128]LogHttp:Warning: 000000003988A080: request failed, libcurl error: 7 (Couldn't connect to server)
+[2016.10.05-09.39.41:154][128]LogHttp:Warning: 000000003988A080: libcurl info message cache 5 (Hostname cdn.unrealengine.com was found in DNS cache)
+[2016.10.05-09.39.41:154][128]LogHttp:Warning: 000000003988A080: libcurl info message cache 6 (  Trying 52.85.172.99...)
+[2016.10.05-09.39.41:154][128]LogHttp:Warning: 000000003988A080: libcurl info message cache 7 (connect to 52.85.172.99 port 80 failed: Timed out)
+[2016.10.05-09.39.41:154][128]LogHttp:Warning: 000000003988A080: libcurl info message cache 8 (Failed to connect to cdn.unrealengine.com port 80: Timed out)
+[2016.10.05-09.39.41:155][128]LogHttp:Warning: 000000003988A080: libcurl info message cache 9 (Closing connection 1)
+[2016.10.05-09.46.17:495][317]LightingResults: New page: Diseñar la iluminación
+[2016.10.05-09.46.17:497][317]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.46.17:497][317]LightingResults: New page: Diseñar la iluminación
+[2016.10.05-09.46.17:533][317]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.46.17:536][317]LoadErrors: New page: Mapa nuevo
+[2016.10.05-09.53.31:393][910]LogActorFactory: Actor Factory created Floor_400x400
+[2016.10.05-09.53.33:120][110]LogActorFactory: Actor Factory created Floor_400x400
+[2016.10.05-09.53.48:747][775]LogBlueprint:Warning: [Compiler VAN] Aviso El eje desconocido de referencias del eje de entrada 'PalLao' para  K2Node_InputAxisEvent_171
+[2016.10.05-09.53.48:747][775]LogBlueprint:Warning: [Compiler VAN] Aviso El eje desconocido de referencias del eje de entrada 'MoveForward' para  K2Node_InputAxisEvent_169
+[2016.10.05-09.53.48:755][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,17] Compile of VAN successful, but with 2 Warning(s) [in 23 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.48:755][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,17] Compile of VAN successful, but with 3 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.48:755][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,17] Compile of VAN successful, but with 4 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.48:768][775]LogBlueprint:Warning: [Compiler VAN] Aviso El eje desconocido de referencias del eje de entrada 'PalLao' para  K2Node_InputAxisEvent_171
+[2016.10.05-09.53.48:768][775]LogBlueprint:Warning: [Compiler VAN] Aviso El eje desconocido de referencias del eje de entrada 'MoveForward' para  K2Node_InputAxisEvent_169
+[2016.10.05-09.53.48:779][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,19] Compile of VAN successful, but with 2 Warning(s) [in 20 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.48:779][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,19] Compile of VAN successful, but with 3 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.48:779][775]LogBlueprint:Warning: [Compiler VAN] Aviso [0924,19] Compile of VAN successful, but with 4 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.10.05-09.53.51:433][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.53.51:435][  8]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:53:51)
+[2016.10.05-09.53.51:435][  8]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.53.51:436][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001182s)
+[2016.10.05-09.53.51:437][  8]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.53.51:437][  8]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2016.10.05-09.53.51:437][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002284s)
+[2016.10.05-09.53.51:454][  8]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.53.51:462][  8]LogInit: FAudioDevice initialized.
+[2016.10.05-09.53.51:510][  8]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.53.51:514][  8]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.53.51
+[2016.10.05-09.53.51:515][  8]LogWorld: Bringing up level for play took: 0.002763
+[2016.10.05-09.53.51:520][  8]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2016.10.05-09.53.51:520][  8]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.53.51:520][  8]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.53.51:520][  8]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.53.51:521][  8]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.53.51:521][  8]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 0,933
+[2016.10.05-09.53.59:870][835]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2016.10.05-09.54.18:904][828]LogActorFactory: Actor Factory created Pillar_50x500
+[2016.10.05-09.54.19:832][932]LogActorFactory: Actor Factory created Pillar_50x500
+[2016.10.05-09.54.20:809][ 19]LogActorFactory: Actor Factory created Pillar_50x500
+[2016.10.05-09.54.22:020][142]LogActorFactory: Actor Factory created Pillar_50x500
+[2016.10.05-09.54.25:495][492]LogActorFactory: Actor Factory created SM_AssetPlatform
+[2016.10.05-09.54.27:015][649]LogActorFactory: Actor Factory created SM_AssetPlatform
+[2016.10.05-09.54.35:489][340]LogTexture:Display: Generando texturas: T_Brick_Clay_Old_N (BC5)
+[2016.10.05-09.54.36:282][340]LogTexture:Display: Generando texturas: T_Brick_Clay_Old_D (AutoDXT)
+[2016.10.05-09.54.44:489][932]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.54.44:559][932]Cmd: MAP REBUILD ALLVISIBLE
+[2016.10.05-09.54.44:560][932]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.10.05-09.54.44:771][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Moss, compiling. 
+[2016.10.05-09.54.44:803][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2016.10.05-09.54.44:825][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2016.10.05-09.54.44:841][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2016.10.05-09.54.44:856][932]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.54.46:027][932]LogLevel:Display: Export Material TexCoord Scales took 0.064 seconds.
+[2016.10.05-09.54.46:048][932]TextureStreamingBuild:Display: Build Texture Streaming took 0.020 seconds.
+[2016.10.05-09.54.46:090][932]LightingResults: New page: Diseño de la iluminación - 5/10/2016 12:54:46
+[2016.10.05-09.54.46:579][932]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.05-09.54.46:754][932]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.05-09.54.46:859][932]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.05-09.54.49:255][932]LogSwarmInterface:Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2016.10.05-09.54.49:697][932]LogSwarmInterface:Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2016.10.05-09.54.55:073][932]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.05-09.54.55:073][932]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7520
+[2016.10.05-09.55.06:330][932]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.05-09.55.06:358][932]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.05-09.55.06:358][932]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.05-09.55.06:358][932]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.05-09.55.06:359][932]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.05-09.55.06:359][932]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.05-09.55.07:028][932]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.10.05-09.55.07:028][932]MapCheck: New page: Untitled_1 - 5/10/2016 12:55:07
+[2016.10.05-09.55.07:126][932]MapCheck:Error: Error WorldSettings Los mapas necesitan rediseñar la iluminación 
+[2016.10.05-09.55.07:242][932]MapCheck: Información Map check complete: 1 Error(s), 0 Warning(s), took 214,181ms to complete.
+[2016.10.05-09.55.07:263][932]LogEditorBuildUtils: Build time 0:22
+[2016.10.05-09.55.07:331][932]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2016.10.05-09.55.07:353][932]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2016.10.05-09.55.07:504][933]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.55.07:510][933]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.55.07:554][934]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.10.05-09.55.07:563][934]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.10.05-09.55.11:898][ 63]Job is a success!
+[2016.10.05-09.55.12:125][ 64]LogTexture:Display: Generando texturas: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.05-09.55.12:125][ 64]LogTexture:Display: Generando texturas: LQ_Lightmap_0_1 (DXT1)
+[2016.10.05-09.55.12:126][ 64]LogTexture:Display: Generando texturas: ShadowMapTexture2D_0 (G8)
+[2016.10.05-09.55.12:385][ 64]Lightmass on BAR-EGIMENEZ: 1.32 sec total, 184 ms importing, 20 ms setup, 455 ms photons, 657 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 6.70 sec total, 680 ms processing.
+[2016.10.05-09.55.12:446][ 64]LogStaticLightingSystem: Illumination: 26.3 sec (63 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2016.10.05-09.55.12:446][ 64]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.05-09.55.12:446][ 64]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.10.05-09.55.13:338][ 65]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.05-09.55.13:338][ 65]MapCheck: New page: Untitled_1 - 5/10/2016 12:55:13
+[2016.10.05-09.55.13:423][ 65]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 84,903ms to complete.
+[2016.10.05-09.55.15:396][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.55.15:397][266]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:55:15)
+[2016.10.05-09.55.15:397][266]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.55.15:398][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001534s)
+[2016.10.05-09.55.15:399][266]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.55.15:399][266]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2016.10.05-09.55.15:399][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002505s)
+[2016.10.05-09.55.15:409][266]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.55.15:424][266]LogInit: FAudioDevice initialized.
+[2016.10.05-09.55.15:453][266]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.55.15:459][266]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.55.15
+[2016.10.05-09.55.15:460][266]LogWorld: Bringing up level for play took: 0.005441
+[2016.10.05-09.55.15:461][266]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.55.15:461][266]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.55.15:462][266]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.55.15:462][266]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.55.15:462][266]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 0,87
+[2016.10.05-09.55.23:554][169]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2016.10.05-09.55.25:030][295]LogEditorViewport: Clicking Background
+[2016.10.05-09.55.29:166][774]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2016.10.05-09.55.41:528][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2016.10.05-09.55.42:140][934]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_AssetPlatform)
+[2016.10.05-09.55.43:031][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x501)
+[2016.10.05-09.57.00:194][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.57.00:194][ 19]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:57:00)
+[2016.10.05-09.57.00:194][ 19]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.57.00:196][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001563s)
+[2016.10.05-09.57.00:197][ 19]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.57.00:197][ 19]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2016.10.05-09.57.00:197][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002558s)
+[2016.10.05-09.57.00:210][ 19]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.57.00:219][ 19]LogInit: FAudioDevice initialized.
+[2016.10.05-09.57.00:248][ 19]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.57.00:253][ 19]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.57.00
+[2016.10.05-09.57.00:253][ 19]LogWorld: Bringing up level for play took: 0.004031
+[2016.10.05-09.57.00:255][ 19]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.00:255][ 19]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.00:255][ 19]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.00:256][ 19]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.00:256][ 19]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 -0,342
+[2016.10.05-09.57.06:639][723]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.57.06:648][723]Cmd: MAP REBUILD ALLVISIBLE
+[2016.10.05-09.57.06:648][723]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.10.05-09.57.06:666][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Moss, compiling. 
+[2016.10.05-09.57.06:673][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2016.10.05-09.57.06:681][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2016.10.05-09.57.06:688][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2016.10.05-09.57.06:696][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.57.07:247][723]LogLevel:Display: Export Material TexCoord Scales took 0.006 seconds.
+[2016.10.05-09.57.07:249][723]TextureStreamingBuild:Display: Build Texture Streaming took 0.002 seconds.
+[2016.10.05-09.57.07:256][723]LightingResults: New page: Diseño de la iluminación - 5/10/2016 12:57:07
+[2016.10.05-09.57.07:266][723]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.05-09.57.07:298][723]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.05-09.57.07:298][723]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.05-09.57.07:299][723]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.05-09.57.07:299][723]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7520
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.05-09.57.11:835][723]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.05-09.57.11:958][723]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.10.05-09.57.11:959][723]MapCheck: New page: Untitled_1 - 5/10/2016 12:57:11
+[2016.10.05-09.57.11:960][723]MapCheck:Error: Error WorldSettings Los mapas necesitan rediseñar la iluminación 
+[2016.10.05-09.57.12:027][723]MapCheck: Información Map check complete: 1 Error(s), 0 Warning(s), took 68,558ms to complete.
+[2016.10.05-09.57.12:048][723]LogEditorBuildUtils: Build time 0:05
+[2016.10.05-09.57.14:049][840]Job is a success!
+[2016.10.05-09.57.14:191][841]LogTexture:Display: Generando texturas: HQ_Lightmap1_1 (AutoDXT)
+[2016.10.05-09.57.14:191][841]LogTexture:Display: Generando texturas: LQ_Lightmap_1_1 (DXT1)
+[2016.10.05-09.57.14:191][841]LogTexture:Display: Generando texturas: ShadowMapTexture2D_1 (G8)
+[2016.10.05-09.57.14:207][841]Lightmass on BAR-EGIMENEZ: 1.18 sec total, 124 ms importing, 21 ms setup, 456 ms photons, 567 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.73 sec total, 694 ms processing.
+[2016.10.05-09.57.14:209][841]LogStaticLightingSystem: Illumination: 6.93 sec (61 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2016.10.05-09.57.14:209][841]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.05-09.57.14:209][841]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.10.05-09.57.14:852][842]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.05-09.57.14:853][842]MapCheck: New page: Untitled_1 - 5/10/2016 12:57:14
+[2016.10.05-09.57.14:944][842]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 91,638ms to complete.
+[2016.10.05-09.57.17:235][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.57.17:236][ 67]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:57:17)
+[2016.10.05-09.57.17:236][ 67]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.57.17:240][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003792s)
+[2016.10.05-09.57.17:241][ 67]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.57.17:241][ 67]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2016.10.05-09.57.17:242][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.005865s)
+[2016.10.05-09.57.17:262][ 67]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.57.17:273][ 67]LogInit: FAudioDevice initialized.
+[2016.10.05-09.57.17:305][ 67]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.57.17:313][ 67]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.57.17
+[2016.10.05-09.57.17:314][ 67]LogWorld: Bringing up level for play took: 0.006183
+[2016.10.05-09.57.17:316][ 67]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.17:316][ 67]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.17:316][ 67]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.17:317][ 67]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.17:317][ 67]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 0,718
+[2016.10.05-09.57.31:296][458]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.57.31:314][458]Cmd: MAP REBUILD ALLVISIBLE
+[2016.10.05-09.57.31:315][458]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.10.05-09.57.31:334][458]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Moss, compiling. 
+[2016.10.05-09.57.31:341][458]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2016.10.05-09.57.31:349][458]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2016.10.05-09.57.31:358][458]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2016.10.05-09.57.31:368][458]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.57.31:997][458]LogLevel:Display: Export Material TexCoord Scales took 0.006 seconds.
+[2016.10.05-09.57.32:001][458]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2016.10.05-09.57.32:009][458]LightingResults: New page: Diseño de la iluminación - 5/10/2016 12:57:32
+[2016.10.05-09.57.32:016][458]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.05-09.57.32:017][458]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.05-09.57.32:017][458]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.05-09.57.32:018][458]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.05-09.57.32:018][458]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7520
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.05-09.57.36:554][458]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.05-09.57.36:657][458]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.10.05-09.57.36:657][458]MapCheck: New page: Untitled_1 - 5/10/2016 12:57:36
+[2016.10.05-09.57.36:657][458]MapCheck:Error: Error WorldSettings Los mapas necesitan rediseñar la iluminación 
+[2016.10.05-09.57.36:724][458]MapCheck: Información Map check complete: 1 Error(s), 0 Warning(s), took 67,308ms to complete.
+[2016.10.05-09.57.36:745][458]LogEditorBuildUtils: Build time 0:05
+[2016.10.05-09.57.38:631][562]Job is a success!
+[2016.10.05-09.57.38:763][563]LogTexture:Display: Generando texturas: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.05-09.57.38:763][563]LogTexture:Display: Generando texturas: LQ_Lightmap_0_1 (DXT1)
+[2016.10.05-09.57.38:763][563]LogTexture:Display: Generando texturas: ShadowMapTexture2D_2 (G8)
+[2016.10.05-09.57.38:776][563]Lightmass on BAR-EGIMENEZ: 1.16 sec total, 125 ms importing, 21 ms setup, 457 ms photons, 553 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.52 sec total, 640 ms processing.
+[2016.10.05-09.57.38:781][563]LogStaticLightingSystem: Illumination: 6.75 sec (51 ms encoding lightmaps, 33 ms encoding shadowmaps)
+[2016.10.05-09.57.38:781][563]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.05-09.57.38:781][563]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.10.05-09.57.39:570][564]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.05-09.57.39:571][564]MapCheck: New page: Untitled_1 - 5/10/2016 12:57:39
+[2016.10.05-09.57.39:647][564]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 76,073ms to complete.
+[2016.10.05-09.57.43:368][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.57.43:368][917]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:57:43)
+[2016.10.05-09.57.43:368][917]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.57.43:370][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001488s)
+[2016.10.05-09.57.43:370][917]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.57.43:371][917]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2016.10.05-09.57.43:371][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002463s)
+[2016.10.05-09.57.43:380][917]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.57.43:388][917]LogInit: FAudioDevice initialized.
+[2016.10.05-09.57.43:418][917]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.57.43:421][917]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.57.43
+[2016.10.05-09.57.43:421][917]LogWorld: Bringing up level for play took: 0.002449
+[2016.10.05-09.57.43:422][917]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.43:422][917]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.57.43:422][917]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.43:422][917]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.57.43:423][917]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 0,822
+[2016.10.05-09.57.57:207][485]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2016.10.05-09.58.09:793][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.58.09:793][898]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:58:09)
+[2016.10.05-09.58.09:793][898]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.58.09:795][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001625s)
+[2016.10.05-09.58.09:796][898]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.58.09:796][898]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2016.10.05-09.58.09:796][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002586s)
+[2016.10.05-09.58.09:806][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.58.09:815][898]LogInit: FAudioDevice initialized.
+[2016.10.05-09.58.09:847][898]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.58.09:850][898]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.58.09
+[2016.10.05-09.58.09:850][898]LogWorld: Bringing up level for play took: 0.002982
+[2016.10.05-09.58.09:852][898]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.58.09:852][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.58.09:852][898]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.58.09:864][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.58.09:865][898]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 -0,737
+[2016.10.05-09.58.12:173][158]MapCheck: New page: Revisión del mapa
+[2016.10.05-09.58.12:195][158]Cmd: MAP REBUILD ALLVISIBLE
+[2016.10.05-09.58.12:195][158]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.10.05-09.58.12:225][158]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Moss, compiling. 
+[2016.10.05-09.58.12:232][158]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2016.10.05-09.58.12:240][158]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2016.10.05-09.58.12:247][158]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2016.10.05-09.58.12:254][158]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Old, compiling. 
+[2016.10.05-09.58.12:783][158]LogLevel:Display: Export Material TexCoord Scales took 0.005 seconds.
+[2016.10.05-09.58.12:785][158]TextureStreamingBuild:Display: Build Texture Streaming took 0.002 seconds.
+[2016.10.05-09.58.12:793][158]LightingResults: New page: Diseño de la iluminación - 5/10/2016 12:58:12
+[2016.10.05-09.58.12:799][158]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.05-09.58.12:801][158]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.05-09.58.12:801][158]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.05-09.58.12:802][158]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.05-09.58.12:802][158]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7520
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.05-09.58.17:355][158]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.05-09.58.17:433][158]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.10.05-09.58.17:433][158]MapCheck: New page: Untitled_1 - 5/10/2016 12:58:17
+[2016.10.05-09.58.17:434][158]MapCheck:Error: Error WorldSettings Los mapas necesitan rediseñar la iluminación 
+[2016.10.05-09.58.17:523][158]MapCheck: Información Map check complete: 1 Error(s), 0 Warning(s), took 90,204ms to complete.
+[2016.10.05-09.58.17:545][158]LogEditorBuildUtils: Build time 0:05
+[2016.10.05-09.58.19:852][326]Job is a success!
+[2016.10.05-09.58.19:982][327]LogTexture:Display: Generando texturas: HQ_Lightmap1_1 (AutoDXT)
+[2016.10.05-09.58.19:982][327]LogTexture:Display: Generando texturas: LQ_Lightmap_1_1 (DXT1)
+[2016.10.05-09.58.19:982][327]LogTexture:Display: Generando texturas: ShadowMapTexture2D_3 (G8)
+[2016.10.05-09.58.19:996][327]Lightmass on BAR-EGIMENEZ: 1.41 sec total, 125 ms importing, 157 ms setup, 456 ms photons, 544 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.48 sec total, 684 ms processing.
+[2016.10.05-09.58.20:001][327]LogStaticLightingSystem: Illumination: 7.19 sec (55 ms encoding lightmaps, 35 ms encoding shadowmaps)
+[2016.10.05-09.58.20:001][327]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.05-09.58.20:001][327]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.10.05-09.58.20:373][328]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.05-09.58.20:374][328]MapCheck: New page: Untitled_1 - 5/10/2016 12:58:20
+[2016.10.05-09.58.20:458][328]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 84,845ms to complete.
+[2016.10.05-09.58.24:601][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.05-09.58.24:601][779]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (5/10/2016 12:58:24)
+[2016.10.05-09.58.24:601][779]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.10.05-09.58.24:603][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002105s)
+[2016.10.05-09.58.24:604][779]LogAIModule: Creating AISystem for world Untitled
+[2016.10.05-09.58.24:604][779]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2016.10.05-09.58.24:604][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003030s)
+[2016.10.05-09.58.24:613][779]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.05-09.58.24:621][779]LogInit: FAudioDevice initialized.
+[2016.10.05-09.58.24:653][779]LogWorld: Game class is 'GameMode'
+[2016.10.05-09.58.24:661][779]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.10.05-11.58.24
+[2016.10.05-09.58.24:662][779]LogWorld: Bringing up level for play took: 0.006032
+[2016.10.05-09.58.24:664][779]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.58.24:664][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.05-09.58.24:664][779]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.58.24:665][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.05-09.58.24:665][779]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 0,063
+[2016.10.05-09.59.13:507][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestVan" FILE="../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/TestVan.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.05-09.59.13:599][552]LogSavePackage: Save=77.85ms
+[2016.10.05-09.59.13:600][552]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Saved/TestVan61E8939D44612BD9B8797A90934B3FF9.tmp' to '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/TestVan.umap'
+[2016.10.05-09.59.13:604][552]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/TestVan.umap
+[2016.10.05-09.59.13:640][552]LogFileHelpers: Saving map 'TestVan' took 1.708
+[2016.10.05-09.59.24:966][828]LogSavePackage: Save=66.61ms
+[2016.10.05-09.59.24:967][828]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Saved/TestVanEB15A6744E6CE4C1B61C4EBA90245A0A.tmp' to '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/LEVELS/TestVan.umap'
+[2016.10.05-09.59.24:969][828]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/LEVELS/TestVan.umap
+[2016.10.05-09.59.24:985][828]LogFileHelpers: Saving map 'TestVan' took 0.196
+[2016.10.05-09.59.34:754][908]Cmd: QUIT_EDITOR
+[2016.10.05-09.59.34:822][908]LogExit: Preparing to exit.
+[2016.10.05-09.59.35:356][908]LogDirectoryWatcher: A directory notification for 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/' was aborted.
+[2016.10.05-09.59.35:373][908]LogExit: Editor shut down
+[2016.10.05-09.59.35:373][908]LogExit: Transaction tracking system shut down
+[2016.10.05-09.59.35:502][908]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.05-09.59.35:502][908]LogExit: Object subsystem successfully closed.
+[2016.10.05-09.59.35:521][908]LogD3D11RHI: Shutdown
+[2016.10.05-09.59.35:522][908]LogD3D11RHI: CleanupD3DDevice
+[2016.10.05-09.59.35:568][908]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.05-09.59.35:584][908]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (237)
+[2016.10.05-09.59.35:584][908]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (236)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (235)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module NewLevelDialog (234)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.10.05-09.59.35:605][908]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.10.05-09.59.35:605][908]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.05-09.59.35:606][908]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.10.05-09.59.35:607][908]LogDirectoryWatcher: A directory notification for 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/Collections/' was aborted.
+[2016.10.05-09.59.35:607][908]LogDirectoryWatcher: A directory notification for 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/Developers/egimenez/Collections/' was aborted.
+[2016.10.05-09.59.35:607][908]LogDirectoryWatcher: A directory notification for 'C:/Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Saved/Collections/' was aborted.
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.10.05-09.59.35:607][908]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.10.05-09.59.35:608][908]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.10.05-09.59.36:297][908]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.10.05-09.59.36:298][908]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.10.05-09.59.36:338][908]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.10.05-09.59.36:339][908]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.10.05-09.59.36:507][908]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.10.05-09.59.36:508][908]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.10.05-09.59.36:509][908]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.10.05-09.59.36:509][908]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.10.05-09.59.36:510][908]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.10.05-09.59.36:510][908]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.10.05-09.59.36:510][908]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.10.05-09.59.36:610][908]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.05-09.59.36:710][908]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.05-09.59.36:711][908]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.05-09.59.36:713][908]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.05-09.59.36:713][908]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.05-09.59.36:713][908]LogDirectoryWatcher: A directory notification for '../../../../../../Users/egimenez/Desktop/VAN/VANsGame/Ambientation/AmbientationTests/Content/' was aborted.
+[2016.10.05-09.59.36:713][908]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.05-09.59.36:714][908]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.05-09.59.36:838][908]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.05-09.59.36:838][908]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.05-09.59.36:838][908]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.05-09.59.36:839][908]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.05-09.59.36:904][908]LogDerivedDataCache: Shutdown
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.05-09.59.36:904][908]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.05-09.59.36:904][908]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.05-09.59.36:904][908]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.05-09.59.36:904][908]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8B0A43D-4DD4-0A06-F141-41BFB4B27FF9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=2f021e9640f34e1b79125c885e74038b%7Ca87b32ece6994b04a16f0bd7f6ed0b63%7Ce7b4e52c-2add-4ef6-a14c-b99df0828af2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.05-09.59.36:923][908]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.05-09.59.36:923][908]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.05-09.59.36:923][908]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.05-09.59.36:923][908]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.05-09.59.36:923][908]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.05-09.59.36:924][908]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.05-09.59.36:925][908]LogExit: Exiting.
+[2016.10.05-09.59.36:937][908]Log file closed, 10/05/16 11:59:36
