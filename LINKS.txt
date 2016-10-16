@@ -3,3 +3,5 @@ INPUT in project settings: https://docs.unrealengine.com/latest/INT/Gameplay/How
 INPUT with KEY in the BLUEPRINT: https://www.youtube.com/watch?v=_NCtcHXJPjg&list=PLZlv_N0_O1gaG5BW72It4chjhypxIO9ZB&index=8
 
 TUTORIAL FOR BLUEPRINT PREFAB(Open Door): https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/ActorInput/Blueprints/
+
+TUTORIAL FOR MONSTER BEHAVIOUR(instead of references, get player pawn) https://www.youtube.com/watch?v=PeCVynCp5Bs
