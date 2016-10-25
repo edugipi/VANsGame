@@ -1,0 +1,1092 @@
+﻿Log file open, 10/25/16 15:34:20
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(2082008042) SRandInit(2082008042).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071430
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+OCULUS: Info: [CAPI] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll
+OCULUS: Debug: Connected to the server running version (prod = 1).1.6.0(build = 250620) feature version = 0. Client runs version (prod = 1).1.6.0(build = 250620) feature version = 0
+LogInit: Build: ++UE4+Release-4.13-CL-3106830
+LogInit: Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3106830
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug 30 2016 18:11:39
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.25-13.34.21:110][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.25-13.34.21:110][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.25-13.34.21:121][  0]LogInit: Computer: S3-13
+[2016.10.25-13.34.21:121][  0]LogInit: User: egimenez
+[2016.10.25-13.34.21:121][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.25-13.34.21:121][  0]LogInit: High frequency timer resolution =3.117185 MHz
+[2016.10.25-13.34.21:121][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.10.25-13.34.21:121][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.25-13.34.21:121][  0]LogMemory: Process Physical Memory: 261.16 MB used, 261.16 MB peak
+[2016.10.25-13.34.21:121][  0]LogMemory: Process Virtual Memory: 262.99 MB used, 262.99 MB peak
+[2016.10.25-13.34.21:121][  0]LogMemory: Physical Memory: 5055.55 MB used, 16346.68 MB total
+[2016.10.25-13.34.21:121][  0]LogMemory: Virtual Memory: 662.09 MB used, 134217728.00 MB total
+[2016.10.25-13.34.21:142][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.10.25-13.34.21:706][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.25-13.34.21:735][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2016.10.25-13.34.21:735][  0]LogD3D11RHI:       4010/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.25-13.34.21:736][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.25-13.34.21:736][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.25-13.34.21:736][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.25-13.34.21:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.25-13.34.21:740][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.25-13.34.21:740][  0]LogWindows: EnumDisplayDevices:
+[2016.10.25-13.34.21:740][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2016.10.25-13.34.21:741][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.25-13.34.21:741][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.25-13.34.21:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.25-13.34.21:741][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.10.25-13.34.21:741][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2016.10.25-13.34.21:741][  0]LogD3D11RHI:   Driver Version: 368.39 (internal:10.18.13.6839, unified:368.39)
+[2016.10.25-13.34.21:741][  0]LogD3D11RHI:      Driver Date: 6-2-2016
+[2016.10.25-13.34.21:741][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.25-13.34.21:755][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.25-13.34.21:766][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.10.25-13.34.21:767][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/4240/).
+[2016.10.25-13.34.21:767][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/egimenez/AppData/Local/Temp/UnrealShaderWorkingDir/A4F3C85B4D62B22FF7BE7CA9D4A07EEC/'.
+[2016.10.25-13.34.21:767][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.25-13.34.22:626][  0]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(1e0460ll)
+[2016.10.25-13.34.22:626][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.25-13.34.22:632][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.25-13.34.22:640][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.25-13.34.22:647][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.25-13.34.22:654][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.25-13.34.22:660][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.25-13.34.22:665][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.25-13.34.22:671][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.25-13.34.22:677][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.25-13.34.22:683][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.25-13.34.22:689][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.25-13.34.22:701][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.25-13.34.22:701][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.25-13.34.22:702][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.25-13.34.22:721][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.25-13.34.22:726][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.25-13.34.22:732][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.25-13.34.22:738][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.25-13.34.22:743][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.25-13.34.22:749][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.25-13.34.22:749][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.25-13.34.22:802][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache: Loaded boot cache 0.05s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.25-13.34.22:857][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.25-13.34.22:871][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.25-13.34.22:884][  0]LogDerivedDataCache: Using Local data cache path C:/Users/egimenez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.25-13.34.23:048][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.25-13.34.23:050][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.25-13.34.23:125][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.25-13.34.23:125][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.25-13.34.23:125][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.25-13.34.23:183][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.25-13.34.23:450][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2647762835
+[2016.10.25-13.34.23:487][  0]LogAssetRegistry: FAssetRegistry took 0.0223 seconds to start up
+[2016.10.25-13.34.23:512][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.022668 seconds
+[2016.10.25-13.34.23:516][  0]LogUObjectArray: 29782 objects as part of root set at end of initial load.
+[2016.10.25-13.34.23:516][  0]LogUObjectAllocator: 6126376 out of 0 bytes used by permanent object pool.
+[2016.10.25-13.34.23:516][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.25-13.34.23:520][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.25-13.34.23:691][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.25-13.34.23:691][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.25-13.34.24:420][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.25-13.34.24:629][  0]SourceControl: Info Source control is disabled
+[2016.10.25-13.34.24:664][  0]SourceControl: Info Source control is disabled
+[2016.10.25-13.34.24:677][  0]SourceControl: Info Source control is disabled
+[2016.10.25-13.34.24:682][  0]SourceControl: Info Source control is disabled
+[2016.10.25-13.34.24:727][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.10.25-13.34.24:727][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.10.25-13.34.24:727][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2016.10.25-13.34.24:876][  0]LogEngine: Initializing Engine...
+[2016.10.25-13.34.24:877][  0]LogHMD: Oculus plugin initialized. Version: 4.13.0-3106830+++UE4+Release-4.13, LibOVR: 1.6.0, SDK: 1.6.0, built Aug 30 2016, 18:13:21
+[2016.10.25-13.34.24:999][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.25-13.34.25:008][  0]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-13.34.25:025][  0]LogInit: FAudioDevice initialized.
+[2016.10.25-13.34.25:051][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.25-13.34.25:058][  0]LogInit: Texture streaming: Enabled
+[2016.10.25-13.34.25:076][  0]LogInit: Transaction tracking system initialized
+[2016.10.25-13.34.25:092][  0]BlueprintLog: New page: Editor Load
+[2016.10.25-13.34.25:147][  0]LocalizationService: Info Localization service is disabled
+[2016.10.25-13.34.25:205][  0]LogConsoleResponse:Display: 
+[2016.10.25-13.34.25:305][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.25-13.34.25:305][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.25-13.34.25:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/' took 0.01s
+[2016.10.25-13.34.25:414][  0]SourceControl: Info Source control is disabled
+[2016.10.25-13.34.25:415][  0]Cmd: MAP LOAD FILE="../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.25-13.34.25:415][  0]LightingResults: New page: Lighting Build
+[2016.10.25-13.34.25:417][  0]MapCheck: New page: Map Check
+[2016.10.25-13.34.25:417][  0]LightingResults: New page: Lighting Build
+[2016.10.25-13.34.25:701][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.25-13.34.25:708][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.25-13.34.25:708][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.25-13.34.25:742][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.53ms to complete.
+[2016.10.25-13.34.25:742][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.327
+[2016.10.25-13.34.25:842][  0]LogCollectionManager: Loaded 0 collections in 0.001693 seconds
+[2016.10.25-13.34.25:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2016.10.25-13.34.25:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Developers/egimenez/Collections/' took 0.01s
+[2016.10.25-13.34.25:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2016.10.25-13.34.25:880][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.10.25-13.34.25:887][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2148 classes and 417 folders.
+[2016.10.25-13.34.25:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.25-13.34.25:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.25-13.34.25:891][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.10.25-13.34.25:894][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.10.25-13.34.25:931][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.10.25-13.34.25:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.25-13.34.25:946][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.25-13.34.25:952][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.25-13.34.25:977][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.25-13.34.25:978][  0]LogLoad: (Engine Initialization) Total time: 6.11 seconds
+[2016.10.25-13.34.25:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.04 seconds
+[2016.10.25-13.34.25:978][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.25-13.34.25:978][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.25-13.34.25:987][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.25-13.34.25:987][  0]LogOcInput: OculusInput pre-init called
+[2016.10.25-13.34.25:996][  0]LogOcInput: OculusInput is initialized. Init status 0. Runtime version: 1.6.0
+[2016.10.25-13.34.26:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.25-13.34.26:154][  0]LogRenderer: Reallocating scene render targets to support 1100x632 (Frame:2).
+[2016.10.25-13.34.26:220][  1]LogAssetRegistry: Asset discovery search completed in 2.7550 seconds
+[2016.10.25-13.34.26:220][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2016.10.25-13.34.26:220][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2016.10.25-13.35.54:141][489]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-13.35.54:170][489]Cmd: MAP LOAD FILE="../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.25-13.35.54:170][489]LightingResults: New page: Lighting Build
+[2016.10.25-13.35.54:171][489]LoadErrors: New page: Loading map: Tests.umap
+[2016.10.25-13.35.54:171][489]MapCheck: New page: Map Check
+[2016.10.25-13.35.54:171][489]LightingResults: New page: Lighting Build
+[2016.10.25-13.35.54:191][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.25-13.35.54:224][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.25-13.35.54:264][489]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.211ms to complete.
+[2016.10.25-13.35.54:264][489]LogFileHelpers: Loading map 'Tests' took 0.095
+[2016.10.25-13.36.05:943][886]LogEditorViewport: Clicking on Actor (LMB): MirrorsRayTrace_C (MirrorsRayTrace)
+[2016.10.25-13.36.10:807][426]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 112 classes and 0 folders.
+[2016.10.25-13.45.54:241][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.022
+[2016.10.25-13.45.54:243][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/MirrorsRayTrace] ([1] browsable assets)...
+[2016.10.25-13.45.54:281][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace]
+[2016.10.25-13.45.54:281][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/MirrorsRayTrace]
+[2016.10.25-13.45.54:322][599]LogSavePackage: Save=27.68ms
+[2016.10.25-13.45.54:322][599]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/MirrorsRayTrace_Auto1FBB90F6F4CB542A05AFF74853F85F5E9.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/MirrorsRayTrace_Auto1.uasset'
+[2016.10.25-13.45.54:324][599]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/MirrorsRayTrace_Auto1.uasset
+[2016.10.25-13.45.54:324][599]LogFileHelpers: Auto-saving content packages took 0.082
+[2016.10.25-13.55.45:560][670]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.10.25-13.55.46:457][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.25-14.01.01:082][470]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.01.01:172][470]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.01.01:181][470]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.01.03:461][664]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.10.25-14.01.03:461][664]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.10.25-14.01.03:461][664]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.10.25-14.02.06:536][ 19]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.02.06:557][ 19]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.02.06:568][ 19]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.02.08:122][193]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.02.08:135][193]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.02.08:141][193]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.02.09:711][255]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.02.09:711][255]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.02.09:711][255]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.03.00:446][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.013
+[2016.10.25-14.03.00:448][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/LightRayMaterial] ([1] browsable assets)...
+[2016.10.25-14.03.00:462][579]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Elements/Mirrors/LightRayMaterial.LightRayMaterial]
+[2016.10.25-14.03.00:462][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/LightRayMaterial]
+[2016.10.25-14.03.00:477][579]LogSavePackage: Save=13.60ms
+[2016.10.25-14.03.00:477][579]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial_Auto260AEB06A49F87C8450AEC9847E4F0B00.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRayMaterial_Auto2.uasset'
+[2016.10.25-14.03.00:478][579]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRayMaterial_Auto2.uasset
+[2016.10.25-14.03.00:478][579]LogFileHelpers: Auto-saving content packages took 0.031
+[2016.10.25-14.03.41:167][860]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.03.41:172][860]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.03.42:453][999]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.03.42:453][999]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.03.42:453][999]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.03.51:561][  7]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.10.25-14.04.19:104][ 72]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.04.19:109][ 72]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.04.19:140][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.10.25-14.04.19:144][ 72]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.04.19:150][ 72]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.04.19:178][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.10.25-14.04.21:675][351]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.04.21:675][351]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.04.21:675][351]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.04.34:424][675]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.04.34:429][675]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.04.35:412][783]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.04.35:412][783]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.04.35:412][783]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.04.36:601][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2016.10.25-14.04.48:104][215]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.04.48:110][215]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.04.48:140][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2016.10.25-14.04.48:144][215]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.04.48:149][215]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.04.48:178][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2016.10.25-14.04.49:352][343]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.04.49:352][343]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.04.49:352][343]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.04.50:716][495]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2016.10.25-14.05.36:301][596]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.05.36:307][596]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.05.36:334][596]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2016.10.25-14.05.36:338][596]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.05.36:344][596]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.05.36:371][596]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2016.10.25-14.05.38:116][782]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.05.38:116][782]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.05.38:116][782]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.05.44:834][500]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.05.44:839][500]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.05.45:840][608]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.05.45:840][608]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.05.45:840][608]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.05.47:850][824]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.05.47:856][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.05.47:882][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2016.10.25-14.05.50:601][130]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.05.50:601][130]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.05.50:601][130]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.06.12:030][503]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.06.12:036][503]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.06.12:038][503]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.06.12:043][503]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.06.12:071][503]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2016.10.25-14.06.13:548][661]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.06.13:548][661]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.06.13:548][661]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.06.21:198][494]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.06.21:203][494]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.06.22:137][595]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.06.22:137][595]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.06.22:137][595]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.06.29:477][385]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.06.55:097][162]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.06.55:102][162]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.06.55:134][162]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.06.56:506][306]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.06.56:506][306]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.06.56:506][306]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.04:957][198]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.04:962][198]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.06:049][311]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.07.06:049][311]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.07.06:049][311]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.08:252][534]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.08:257][534]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.09:157][627]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.07.09:157][627]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.07.09:157][627]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.11:029][824]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.11:034][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.13:082][ 42]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.07.13:082][ 42]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.07.13:082][ 42]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.15:104][248]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.15:110][248]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.16:805][426]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.16:810][426]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.16:839][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.07.17:775][521]MaterialEditorStats: Info Base pass shader without light map: 4 instructions
+[2016.10.25-14.07.17:775][521]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.10.25-14.07.17:775][521]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.19:696][727]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.19:702][727]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.20:626][821]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2016.10.25-14.07.20:626][821]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.07.20:626][821]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.25:244][308]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.25:249][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.26:750][464]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.26:755][464]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.26:785][464]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.07.27:823][569]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2016.10.25-14.07.27:823][569]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.07.27:823][569]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.30:830][889]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.30:835][889]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.32:219][ 36]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.10.25-14.07.32:219][ 36]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.07.32:219][ 36]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.07.43:659][215]LogMaterialEditor: Saving and Compiling material LightRayMaterial
+[2016.10.25-14.07.44:044][215]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.44:053][215]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.44:072][215]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.44:082][215]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.07.44:090][215]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.07.45:277][215]LogSavePackage: Save=12.60ms
+[2016.10.25-14.07.45:277][215]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial049BD0CA41ECEC0E86104C83FBC41B52.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset'
+[2016.10.25-14.07.45:279][215]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset
+[2016.10.25-14.07.45:282][215]MaterialEditorStats: Info Base pass shader without light map: 33 instructions
+[2016.10.25-14.07.45:282][215]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.07.45:282][215]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.08.14:462][427]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2016.10.25-14.08.14:464][427]LogTexture:Display: Building textures: OrientParticle (AutoDXT)
+[2016.10.25-14.08.14:510][427]LogTexture:Display: Building textures: CASC_Normal (BC5)
+[2016.10.25-14.08.14:512][427]LogTexture:Display: Building textures: CASC_Point (AutoDXT)
+[2016.10.25-14.08.14:515][427]LogTexture:Display: Building textures: CASC_Lights (BC5)
+[2016.10.25-14.08.14:516][427]LogTexture:Display: Building textures: CASC_CurveEd (AutoDXT)
+[2016.10.25-14.08.14:524][427]LogTexture:Display: Building textures: CASC_ModuleDisable (AutoDXT)
+[2016.10.25-14.08.14:526][427]LogTexture:Display: Building textures: CASC_Solo_On (AutoDXT)
+[2016.10.25-14.08.14:528][427]LogTexture:Display: Building textures: CASC_Solo_Off (AutoDXT)
+[2016.10.25-14.08.14:530][427]LogTexture:Display: Building textures: CASC_DisabledModule (AutoDXT)
+[2016.10.25-14.09.29:224][164]LogMaterial:Warning: Material /Game/Elements/Mirrors/LightRayMaterial.LightRayMaterial needed to have new flag set bUsedWithBeamTrails !
+[2016.10.25-14.09.29:227][164]LogMaterial:Warning: Material /Engine/Transient.LightRayMaterial needed to have new flag set bUsedWithBeamTrails !
+[2016.10.25-14.09.29:228][164]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.09.29:234][164]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.09.29:237][164]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.09.29:248][164]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.09.31:549][311]MaterialEditorStats: Info Base pass shader without light map: 33 instructions
+[2016.10.25-14.09.31:549][311]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.09.31:549][311]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.13.20:429][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.013
+[2016.10.25-14.13.20:430][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Elements/Mirrors/LightRayMaterial] ([1] browsable assets)...
+[2016.10.25-14.13.20:430][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/LightRayMaterial]
+[2016.10.25-14.13.20:447][ 70]LogSavePackage: Save=5.56ms
+[2016.10.25-14.13.20:448][ 70]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial_Auto3EA3AFB654DFAD561509C0B87E44FEE7A.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRayMaterial_Auto3.uasset'
+[2016.10.25-14.13.20:448][ 70]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRayMaterial_Auto3.uasset
+[2016.10.25-14.13.20:449][ 70]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/LightRay] ([1] browsable assets)...
+[2016.10.25-14.13.20:454][ 70]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Elements/Mirrors/LightRay.LightRay]
+[2016.10.25-14.13.20:454][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/LightRay]
+[2016.10.25-14.13.20:465][ 70]LogSavePackage: Save=9.47ms
+[2016.10.25-14.13.20:465][ 70]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay_Auto374FD4F0E46DADB46800FA8AFE385E927.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRay_Auto3.uasset'
+[2016.10.25-14.13.20:466][ 70]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRay_Auto3.uasset
+[2016.10.25-14.13.20:466][ 70]LogFileHelpers: Auto-saving content packages took 0.037
+[2016.10.25-14.15.00:262][835]LogSavePackage: Save=18.24ms
+[2016.10.25-14.15.00:262][835]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/MirrorsRayTraceAB2BAFAE4B59EA5A8E05FDBBE2C4B5C8.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorsRayTrace.uasset'
+[2016.10.25-14.15.00:268][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorsRayTrace.uasset
+[2016.10.25-14.15.00:290][835]LogSavePackage: Save=6.07ms
+[2016.10.25-14.15.00:290][835]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial9EE6F1564CB863689CA984AAA8E043FD.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset'
+[2016.10.25-14.15.00:295][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset
+[2016.10.25-14.15.00:317][835]LogSavePackage: Save=9.65ms
+[2016.10.25-14.15.00:317][835]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayAF07ACA84C4796FD520C6D8EA24225E4.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.15.00:320][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.20.51:226][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.25-14.24.22:251][440]LogSavePackage: Save=222.47ms
+[2016.10.25-14.24.22:251][440]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests_Auto4C2A1DF544D24CBE89FA96EB8BA20B0F9.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto4.umap'
+[2016.10.25-14.24.22:253][440]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto4.umap
+[2016.10.25-14.24.22:255][440]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.257
+[2016.10.25-14.24.22:255][440]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2016.10.25-14.24.22:257][440]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/LightRay] ([1] browsable assets)...
+[2016.10.25-14.24.22:263][440]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Elements/Mirrors/LightRay.LightRay]
+[2016.10.25-14.24.22:263][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/LightRay]
+[2016.10.25-14.24.22:285][440]LogSavePackage: Save=10.23ms
+[2016.10.25-14.24.22:285][440]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay_Auto439ECA9B54F8DBEFE3A4C25BB8B89B3B7.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRay_Auto4.uasset'
+[2016.10.25-14.24.22:286][440]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/LightRay_Auto4.uasset
+[2016.10.25-14.24.22:286][440]LogFileHelpers: Auto-saving content packages took 0.029
+[2016.10.25-14.24.41:177][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.25-14.25.16:767][338]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.16:772][338]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.25.16:799][338]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.25.18:074][467]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.25.18:074][467]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.25.18:074][467]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.25.20:588][722]LogEditorTransaction: Undo Edit Const Exponent
+[2016.10.25-14.25.20:591][722]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.20:605][722]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.20:610][722]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.25.20:640][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.25.21:703][813]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.10.25-14.25.21:703][813]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.25.21:703][813]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.25.22:277][872]LogMaterialEditor: Saving and Compiling material LightRayMaterial
+[2016.10.25-14.25.22:654][872]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.22:664][872]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.25.22:682][872]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.22:696][872]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.25.22:706][872]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.25.23:935][872]LogSavePackage: Save=12.46ms
+[2016.10.25-14.25.23:935][872]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial63DADB6A4321753B7AB8178836C43733.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset'
+[2016.10.25-14.25.23:939][872]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset
+[2016.10.25-14.25.23:944][872]MaterialEditorStats: Info Base pass shader without light map: 33 instructions
+[2016.10.25-14.25.23:944][872]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.25.23:944][872]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.25.39:739][601]LogSavePackage: Save=8.78ms
+[2016.10.25-14.25.39:739][601]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay090475264E0C9CDA730B5E9EE5FA2EAF.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.25.39:745][601]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.25.41:148][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.25.41:148][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.25.41:149][752]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:25:41 PM)
+[2016.10.25-14.25.41:149][752]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.25.41:158][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008652s)
+[2016.10.25-14.25.41:158][752]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.25.41:158][752]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2016.10.25-14.25.41:159][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009769s)
+[2016.10.25-14.25.41:176][752]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.25.41:180][752]LogInit: FAudioDevice initialized.
+[2016.10.25-14.25.41:222][752]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.25.41:231][752]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.25.41
+[2016.10.25-14.25.41:232][752]LogWorld: Bringing up level for play took: 0.009727
+[2016.10.25-14.25.41:235][752]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.10.25-14.25.41:235][752]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.25.41:235][752]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.25.41:235][752]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.25.41:236][752]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.25.41:236][752]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.814
+[2016.10.25-14.25.41:236][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.25.42:315][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.25.42:366][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.27.06:937][375]LogEditorTransaction: Undo Edit Properties
+[2016.10.25-14.27.06:940][375]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.27.06:946][375]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.27.08:104][490]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.10.25-14.27.08:104][490]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.27.08:104][490]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.06:990][344]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.25-14.29.25:608][277]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.25:614][277]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.25:643][277]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2016.10.25-14.29.26:914][409]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.29.26:914][409]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.26:914][409]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.41:180][884]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.41:185][884]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.42:535][ 21]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.29.42:535][ 21]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.42:536][ 21]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.44:781][253]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.44:786][253]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.45:598][335]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.29.45:598][335]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.45:598][335]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.46:624][443]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.46:629][443]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.47:500][528]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.29.47:500][528]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.47:500][528]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.52:230][999]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.52:235][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.53:077][ 84]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.29.53:077][ 84]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.53:077][ 84]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.29.54:986][273]LogMaterialEditor: Saving and Compiling material LightRayMaterial
+[2016.10.25-14.29.55:361][273]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.55:370][273]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.55:387][273]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.55:400][273]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.29.55:411][273]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.29.56:684][273]LogSavePackage: Save=13.18ms
+[2016.10.25-14.29.56:684][273]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterialCDB948844141F3C5669C0CB294EDE463.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset'
+[2016.10.25-14.29.56:688][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset
+[2016.10.25-14.29.56:694][273]MaterialEditorStats: Info Base pass shader without light map: 34 instructions
+[2016.10.25-14.29.56:694][273]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.29.56:694][273]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.30.03:268][917]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.30.03:273][917]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.30.04:101][999]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2016.10.25-14.30.04:101][999]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.30.04:101][999]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.30.04:691][ 58]LogMaterialEditor: Saving and Compiling material LightRayMaterial
+[2016.10.25-14.30.05:060][ 58]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.30.05:069][ 58]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.30.05:085][ 58]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.30.05:098][ 58]LogMaterial: Missing cached shader map for material LightRayMaterial, compiling. 
+[2016.10.25-14.30.05:109][ 58]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.25-14.30.06:378][ 58]LogSavePackage: Save=12.73ms
+[2016.10.25-14.30.06:378][ 58]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayMaterial533AF4774E4B946C66F46FBD04B55CE3.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset'
+[2016.10.25-14.30.06:382][ 58]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRayMaterial.uasset
+[2016.10.25-14.30.06:388][ 58]MaterialEditorStats: Info Base pass shader without light map: 34 instructions
+[2016.10.25-14.30.06:388][ 58]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.10.25-14.30.06:388][ 58]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.10.25-14.30.11:165][475]LogSavePackage: Save=215.69ms
+[2016.10.25-14.30.11:165][475]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests1A94D8454CD2E1B3887CE59A066C935A.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap'
+[2016.10.25-14.30.11:168][475]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap
+[2016.10.25-14.30.11:205][475]LogFileHelpers: Saving map 'Tests' took 0.327
+[2016.10.25-14.30.11:234][475]LogSavePackage: Save=8.93ms
+[2016.10.25-14.30.11:234][475]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayC425D3DF4BD8EB05D6EA80B521F9565C.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.30.11:236][475]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.30.18:187][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.30.18:187][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.30.18:187][175]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:30:18 PM)
+[2016.10.25-14.30.18:187][175]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.30.18:196][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009083s)
+[2016.10.25-14.30.18:197][175]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.30.18:197][175]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2016.10.25-14.30.18:197][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010141s)
+[2016.10.25-14.30.18:216][175]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.30.18:221][175]LogInit: FAudioDevice initialized.
+[2016.10.25-14.30.18:253][175]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.30.18:263][175]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.30.18
+[2016.10.25-14.30.18:264][175]LogWorld: Bringing up level for play took: 0.010281
+[2016.10.25-14.30.18:265][175]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.30.18:265][175]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.30.18:265][175]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.30.18:265][175]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.30.18:265][175]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.228
+[2016.10.25-14.30.18:266][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.30.19:252][291]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.30.19:252][291]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.30.19:252][291]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.30.19:252][291]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.30.33:510][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.30.33:557][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.10:059][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.10:059][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.31.10:059][891]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:31:10 PM)
+[2016.10.25-14.31.10:060][891]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.31.10:069][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009379s)
+[2016.10.25-14.31.10:069][891]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.31.10:070][891]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2016.10.25-14.31.10:070][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010266s)
+[2016.10.25-14.31.10:086][891]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.31.10:091][891]LogInit: FAudioDevice initialized.
+[2016.10.25-14.31.10:119][891]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.31.10:129][891]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.31.10
+[2016.10.25-14.31.10:130][891]LogWorld: Bringing up level for play took: 0.009965
+[2016.10.25-14.31.10:131][891]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.31.10:131][891]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.31.10:131][891]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.31.10:132][891]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.31.10:132][891]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.099
+[2016.10.25-14.31.10:132][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.11:627][ 66]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.31.11:627][ 66]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.31.11:627][ 66]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.31.11:627][ 66]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.31.17:481][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.17:530][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.35:156][753]LogSavePackage: Save=8.58ms
+[2016.10.25-14.31.35:156][753]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayAB9D66CF4BA45EE1EC5F3B86E1E0A2F7.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.31.35:160][753]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.31.35:831][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.35:831][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.31.35:832][822]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:31:35 PM)
+[2016.10.25-14.31.35:832][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.31.35:841][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009038s)
+[2016.10.25-14.31.35:841][822]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.31.35:841][822]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2016.10.25-14.31.35:842][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010012s)
+[2016.10.25-14.31.35:858][822]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.31.35:862][822]LogInit: FAudioDevice initialized.
+[2016.10.25-14.31.35:893][822]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.31.35:902][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.31.35
+[2016.10.25-14.31.35:903][822]LogWorld: Bringing up level for play took: 0.009077
+[2016.10.25-14.31.35:904][822]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.31.35:904][822]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.31.35:904][822]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.31.35:904][822]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.31.35:904][822]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.127
+[2016.10.25-14.31.35:904][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.36:933][942]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.31.36:933][942]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.31.36:933][942]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.31.36:933][942]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.31.42:266][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.31.42:312][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.32.02:438][528]LogSavePackage: Save=6.56ms
+[2016.10.25-14.32.02:438][528]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay012A51B04CF91E1148B004A52AEF08BA.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.32.02:439][528]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.32.09:608][300]LogCascade: Quitting Cascade. FXSystem=0x000002B83A8627A0
+[2016.10.25-14.32.18:106][905]LogEditorViewport: Clicking on Actor (LMB): Emitter (LightRay)
+[2016.10.25-14.32.19:531][ 37]Cmd: DELETE
+[2016.10.25-14.32.19:531][ 37]Cmd: ACTOR DELETE
+[2016.10.25-14.32.19:532][ 37]LogEditorActor: Deleted Actor: Emitter
+[2016.10.25-14.32.19:545][ 37]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2016.10.25-14.37.24:682][900]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.37.26:491][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.37.26:492][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.37.26:492][ 23]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:37:26 PM)
+[2016.10.25-14.37.26:492][ 23]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.37.26:501][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009505s)
+[2016.10.25-14.37.26:502][ 23]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.37.26:502][ 23]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2016.10.25-14.37.26:502][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010500s)
+[2016.10.25-14.37.26:519][ 23]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.37.26:524][ 23]LogInit: FAudioDevice initialized.
+[2016.10.25-14.37.26:552][ 23]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.37.26:562][ 23]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.37.26
+[2016.10.25-14.37.26:563][ 23]LogWorld: Bringing up level for play took: 0.009932
+[2016.10.25-14.37.26:563][ 23]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.37.26:564][ 23]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.37.26:564][ 23]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.37.26:564][ 23]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.37.26:564][ 23]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.557
+[2016.10.25-14.37.26:564][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.37.27:891][147]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.37.27:891][147]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.37.27:891][147]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.37.27:891][147]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.37.36:653][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.37.36:693][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.41.03:516][ 73]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.42.28:920][834]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.42.30:391][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.42.30:391][955]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.25-14.42.30:391][955]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_Blueprint_0 before play...
+[2016.10.25-14.42.30:470][955]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2016.10.25-14.42.30:470][955]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:42:30 PM)
+[2016.10.25-14.42.30:470][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.42.30:479][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008796s)
+[2016.10.25-14.42.30:479][955]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.42.30:480][955]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2016.10.25-14.42.30:480][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009926s)
+[2016.10.25-14.42.30:497][955]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.42.30:501][955]LogInit: FAudioDevice initialized.
+[2016.10.25-14.42.30:536][955]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.42.30:545][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.42.30
+[2016.10.25-14.42.30:546][955]LogWorld: Bringing up level for play took: 0.009672
+[2016.10.25-14.42.30:547][955]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.42.30:547][955]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.42.30:547][955]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.42.30:547][955]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.42.30:547][955]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.558
+[2016.10.25-14.42.30:547][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.42.31:856][ 94]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.42.31:856][ 94]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.42.31:856][ 94]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.42.31:856][ 94]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.42.36:266][566]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.42.36:266][566]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.42.36:266][566]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.42.38:119][766]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.42.38:119][766]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.42.38:120][766]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.42.38:417][798]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.42.38:417][798]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.42.38:418][798]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.42.40:475][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.42.40:516][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.02:916][316]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.43.05:496][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.05:496][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.43.05:496][526]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:43:05 PM)
+[2016.10.25-14.43.05:496][526]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.43.05:506][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009344s)
+[2016.10.25-14.43.05:506][526]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.43.05:506][526]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2016.10.25-14.43.05:507][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010279s)
+[2016.10.25-14.43.05:523][526]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.43.05:527][526]LogInit: FAudioDevice initialized.
+[2016.10.25-14.43.05:557][526]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.43.05:566][526]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.43.05
+[2016.10.25-14.43.05:567][526]LogWorld: Bringing up level for play took: 0.009099
+[2016.10.25-14.43.05:567][526]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.43.05:567][526]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.43.05:567][526]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.43.05:568][526]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.43.05:568][526]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.419
+[2016.10.25-14.43.05:568][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.06:850][666]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.43.06:850][666]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.43.06:850][666]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.43.06:850][666]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.43.10:611][ 87]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.43.10:611][ 87]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.43.10:611][ 87]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.43.13:002][354]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.43.13:002][354]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.43.13:002][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.43.14:471][519]LogScript:Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2016.10.25-14.43.14:471][519]LogScript:Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	MirrorsRayTrace_C /Game/Levels/UEDPIE_0_Tests.Tests:PersistentLevel.MirrorsRayTrace_262
+	Function /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace_C:ExecuteUbergraph_MirrorsRayTrace:001A
+[2016.10.25-14.43.14:471][519]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue from function: 'ExecuteUbergraph_MirrorsRayTrace' from node: Set Relative Scale 3D in graph: EventGraph in object: MirrorsRayTrace with description: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+[2016.10.25-14.43.14:993][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.15:034][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.49:177][ 73]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.43.50:217][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.50:217][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.43.50:217][176]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:43:50 PM)
+[2016.10.25-14.43.50:218][176]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.43.50:227][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009100s)
+[2016.10.25-14.43.50:227][176]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.43.50:227][176]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2016.10.25-14.43.50:228][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010055s)
+[2016.10.25-14.43.50:244][176]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.43.50:248][176]LogInit: FAudioDevice initialized.
+[2016.10.25-14.43.50:278][176]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.43.50:289][176]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.43.50
+[2016.10.25-14.43.50:290][176]LogWorld: Bringing up level for play took: 0.010186
+[2016.10.25-14.43.50:290][176]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.43.50:291][176]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.43.50:291][176]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.43.50:291][176]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.43.50:291][176]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.306
+[2016.10.25-14.43.50:291][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.51:132][265]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.43.51:132][265]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.43.51:132][265]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.43.51:132][265]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.43.59:092][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.43.59:132][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.12:919][714]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.44.14:059][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.14:059][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.44.14:059][831]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:44:14 PM)
+[2016.10.25-14.44.14:060][831]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.44.14:069][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009086s)
+[2016.10.25-14.44.14:069][831]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.44.14:069][831]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2016.10.25-14.44.14:070][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010104s)
+[2016.10.25-14.44.14:086][831]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.44.14:091][831]LogInit: FAudioDevice initialized.
+[2016.10.25-14.44.14:118][831]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.44.14:128][831]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.44.14
+[2016.10.25-14.44.14:129][831]LogWorld: Bringing up level for play took: 0.010021
+[2016.10.25-14.44.14:130][831]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.44.14:130][831]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.44.14:130][831]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.44.14:130][831]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.44.14:131][831]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.147
+[2016.10.25-14.44.14:131][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.15:190][947]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.44.15:190][947]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.44.15:190][947]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.44.15:190][947]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.44.19:797][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.19:837][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.25:985][150]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.44.26:951][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.26:951][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.44.26:951][246]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:44:26 PM)
+[2016.10.25-14.44.26:951][246]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.44.26:960][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008687s)
+[2016.10.25-14.44.26:961][246]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.44.26:961][246]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2016.10.25-14.44.26:961][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009549s)
+[2016.10.25-14.44.26:978][246]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.44.26:982][246]LogInit: FAudioDevice initialized.
+[2016.10.25-14.44.27:011][246]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.44.27:022][246]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.44.27
+[2016.10.25-14.44.27:023][246]LogWorld: Bringing up level for play took: 0.010137
+[2016.10.25-14.44.27:023][246]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.44.27:023][246]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.44.27:023][246]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.44.27:024][246]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.44.27:024][246]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 1.041
+[2016.10.25-14.44.27:024][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.28:093][363]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.44.28:093][363]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.44.28:093][363]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.44.28:093][363]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.44.42:063][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.44.42:098][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.45.10:389][ 95]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.45.11:187][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.45.11:187][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.45.11:187][173]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:45:11 PM)
+[2016.10.25-14.45.11:187][173]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.45.11:196][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009120s)
+[2016.10.25-14.45.11:197][173]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.45.11:197][173]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2016.10.25-14.45.11:197][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010081s)
+[2016.10.25-14.45.11:214][173]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.45.11:219][173]LogInit: FAudioDevice initialized.
+[2016.10.25-14.45.11:248][173]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.45.11:257][173]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.45.11
+[2016.10.25-14.45.11:258][173]LogWorld: Bringing up level for play took: 0.009436
+[2016.10.25-14.45.11:259][173]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.45.11:259][173]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.45.11:259][173]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.45.11:259][173]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.45.11:259][173]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.721
+[2016.10.25-14.45.11:260][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.45.12:116][269]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.45.12:116][269]LogBlueprintUserMessages: [Tests_C_2] 2:
+[2016.10.25-14.45.12:116][269]LogBlueprintUserMessages: [Tests_C_2] false
+[2016.10.25-14.45.12:116][269]LogBlueprintUserMessages: [Tests_C_2] 1:
+[2016.10.25-14.45.29:169][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.45.29:209][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.46.14:829][526]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.14:829][526]LogEditorTransaction: Undo Set actor scale
+[2016.10.25-14.46.15:746][600]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.15:746][600]LogEditorTransaction: Undo Set actor scale
+[2016.10.25-14.46.16:172][643]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.16:172][643]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.46.16:725][699]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.16:725][699]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.46.17:234][751]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.17:234][751]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.46.18:598][892]Cmd: TRANSACTION UNDO
+[2016.10.25-14.46.18:598][892]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.46.56:866][817]LogSavePackage: Save=213.36ms
+[2016.10.25-14.46.56:866][817]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests_Auto567B668BA41A64A4F8540498FEBC21363.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto5.umap'
+[2016.10.25-14.46.56:869][817]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto5.umap
+[2016.10.25-14.46.56:871][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.245
+[2016.10.25-14.46.56:871][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2016.10.25-14.46.56:873][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/MirrorsRayTrace] ([1] browsable assets)...
+[2016.10.25-14.46.56:902][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Mirrors/MirrorsRayTrace.MirrorsRayTrace]
+[2016.10.25-14.46.56:902][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/MirrorsRayTrace]
+[2016.10.25-14.46.56:942][817]LogSavePackage: Save=27.20ms
+[2016.10.25-14.46.56:942][817]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/MirrorsRayTrace_Auto5D6EC48574DAF704C5EC5109EC2C5EA45.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/MirrorsRayTrace_Auto5.uasset'
+[2016.10.25-14.46.56:945][817]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/MirrorsRayTrace_Auto5.uasset
+[2016.10.25-14.46.56:945][817]LogFileHelpers: Auto-saving content packages took 0.072
+[2016.10.25-14.47.23:991][547]LogSavePackage: Save=8.90ms
+[2016.10.25-14.47.23:991][547]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayB470CC064337F7F5D1F4A68247219573.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.47.23:994][547]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.47.44:119][453]Cmd: TRANSACTION UNDO
+[2016.10.25-14.47.44:119][453]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.47.44:612][493]Cmd: TRANSACTION UNDO
+[2016.10.25-14.47.44:612][493]LogEditorTransaction: Undo Scale Actors
+[2016.10.25-14.47.45:233][557]Cmd: TRANSACTION UNDO
+[2016.10.25-14.47.45:233][557]LogEditorTransaction: Undo Move Actors
+[2016.10.25-14.48.19:084][954]LogSavePackage: Save=6.31ms
+[2016.10.25-14.48.19:084][954]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay776AC41347E8F6BF32C16D9439F763E1.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.48.19:087][954]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.48.20:860][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.48.20:861][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.48.20:861][108]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:48:20 PM)
+[2016.10.25-14.48.20:861][108]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.48.20:870][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009345s)
+[2016.10.25-14.48.20:871][108]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.48.20:871][108]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2016.10.25-14.48.20:871][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010293s)
+[2016.10.25-14.48.20:890][108]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.48.20:895][108]LogInit: FAudioDevice initialized.
+[2016.10.25-14.48.20:922][108]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.48.20:931][108]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.48.20
+[2016.10.25-14.48.20:933][108]LogWorld: Bringing up level for play took: 0.009374
+[2016.10.25-14.48.20:933][108]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.48.20:933][108]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.48.20:933][108]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.48.20:934][108]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.48.20:934][108]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.962
+[2016.10.25-14.48.20:934][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.48.22:261][263]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.48.22:261][263]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.10.25-14.48.22:261][263]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.48.22:261][263]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.10.25-14.48.28:285][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.48.28:328][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.48.59:508][221]LogSavePackage: Save=9.41ms
+[2016.10.25-14.48.59:508][221]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRayDA1FD4AC49850248321EAD841ADDDCD5.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.48.59:512][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.49.59:306][793]BlueprintLog: New page: Compile MirrorsRayTrace
+[2016.10.25-14.50.06:951][394]LogEditorViewport: Clicking on Actor (LMB): Emitter (LightRay)
+[2016.10.25-14.50.07:703][468]Cmd: DELETE
+[2016.10.25-14.50.07:703][468]Cmd: ACTOR DELETE
+[2016.10.25-14.50.07:704][468]LogEditorActor: Deleted Actor: Emitter
+[2016.10.25-14.50.07:718][468]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2016.10.25-14.50.09:754][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.09:754][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.50.09:754][694]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:50:09 PM)
+[2016.10.25-14.50.09:755][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.50.09:763][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008762s)
+[2016.10.25-14.50.09:764][694]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.50.09:764][694]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2016.10.25-14.50.09:764][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009802s)
+[2016.10.25-14.50.09:782][694]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.50.09:787][694]LogInit: FAudioDevice initialized.
+[2016.10.25-14.50.09:819][694]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.50.09:827][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.50.09
+[2016.10.25-14.50.09:829][694]LogWorld: Bringing up level for play took: 0.009488
+[2016.10.25-14.50.09:829][694]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.09:829][694]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.09:829][694]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.09:830][694]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.09:830][694]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.142
+[2016.10.25-14.50.09:830][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.11:641][887]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.50.11:641][887]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.10.25-14.50.11:641][887]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.50.11:641][887]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.10.25-14.50.17:130][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.17:168][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.26:343][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.26:343][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.50.26:344][523]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:50:26 PM)
+[2016.10.25-14.50.26:344][523]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.50.26:353][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009346s)
+[2016.10.25-14.50.26:353][523]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.50.26:354][523]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2016.10.25-14.50.26:354][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010140s)
+[2016.10.25-14.50.26:370][523]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.50.26:374][523]LogInit: FAudioDevice initialized.
+[2016.10.25-14.50.26:405][523]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.50.26:414][523]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.50.26
+[2016.10.25-14.50.26:416][523]LogWorld: Bringing up level for play took: 0.009740
+[2016.10.25-14.50.26:416][523]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.26:416][523]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.26:416][523]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.26:417][523]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.26:417][523]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.445
+[2016.10.25-14.50.26:417][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.31:272][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.31:307][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.48:937][847]LogSavePackage: Save=8.86ms
+[2016.10.25-14.50.48:937][847]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LightRay39DD6B034D7AE7685566539DE1B07230.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset'
+[2016.10.25-14.50.48:941][847]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/LightRay.uasset
+[2016.10.25-14.50.50:819][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.50:819][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.50.50:819][ 21]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:50:50 PM)
+[2016.10.25-14.50.50:819][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.50.50:828][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008868s)
+[2016.10.25-14.50.50:828][ 21]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.50.50:829][ 21]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2016.10.25-14.50.50:829][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009799s)
+[2016.10.25-14.50.50:845][ 21]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.50.50:849][ 21]LogInit: FAudioDevice initialized.
+[2016.10.25-14.50.50:878][ 21]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.50.50:888][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.50.50
+[2016.10.25-14.50.50:889][ 21]LogWorld: Bringing up level for play took: 0.009411
+[2016.10.25-14.50.50:890][ 21]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.50:890][ 21]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.50.50:890][ 21]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.50:890][ 21]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.50.50:890][ 21]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.918
+[2016.10.25-14.50.50:890][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.51:666][111]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.50.51:667][111]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.10.25-14.50.51:667][111]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.50.51:667][111]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.10.25-14.50.57:474][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.50.57:514][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.51.13:071][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.51.13:071][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.25-14.51.13:072][539]PIE: New page: PIE session: Tests (Oct 25, 2016, 5:51:13 PM)
+[2016.10.25-14.51.13:072][539]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.10.25-14.51.13:081][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008926s)
+[2016.10.25-14.51.13:081][539]LogAIModule: Creating AISystem for world Tests
+[2016.10.25-14.51.13:081][539]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2016.10.25-14.51.13:082][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009955s)
+[2016.10.25-14.51.13:098][539]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.25-14.51.13:102][539]LogInit: FAudioDevice initialized.
+[2016.10.25-14.51.13:139][539]LogWorld: Game class is 'GameMode'
+[2016.10.25-14.51.13:149][539]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.10.25-16.51.13
+[2016.10.25-14.51.13:150][539]LogWorld: Bringing up level for play took: 0.009683
+[2016.10.25-14.51.13:150][539]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.51.13:150][539]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.25-14.51.13:150][539]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.51.13:151][539]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.25-14.51.13:151][539]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.82
+[2016.10.25-14.51.13:151][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.10.25-14.51.15:350][787]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.51.15:350][787]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.10.25-14.51.15:350][787]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.10.25-14.51.15:350][787]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.10.25-14.51.20:424][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' wi
