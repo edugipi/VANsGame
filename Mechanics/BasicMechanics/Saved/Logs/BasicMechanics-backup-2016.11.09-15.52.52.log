@@ -1,0 +1,930 @@
+﻿Log file open, 11/09/16 15:12:59
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1925478869) SRandInit(1925478869).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.129565
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+OCULUS: Info: [CAPI] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll
+OCULUS: Debug: Connected to the server running version (prod = 1).1.6.0(build = 250620) feature version = 0. Client runs version (prod = 1).1.6.0(build = 250620) feature version = 0
+LogInit: Build: ++UE4+Release-4.13-CL-3106830
+LogInit: Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3106830
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug 30 2016 18:11:39
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.09-14.13.00:208][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.09-14.13.00:208][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.09-14.13.00:232][  0]LogInit: Computer: S3-13
+[2016.11.09-14.13.00:232][  0]LogInit: User: egimenez
+[2016.11.09-14.13.00:232][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.09-14.13.00:232][  0]LogInit: High frequency timer resolution =3.117186 MHz
+[2016.11.09-14.13.00:234][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.11.09-14.13.00:234][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.09-14.13.00:234][  0]LogMemory: Process Physical Memory: 261.19 MB used, 261.19 MB peak
+[2016.11.09-14.13.00:234][  0]LogMemory: Process Virtual Memory: 263.07 MB used, 263.07 MB peak
+[2016.11.09-14.13.00:234][  0]LogMemory: Physical Memory: 2772.91 MB used, 16346.68 MB total
+[2016.11.09-14.13.00:234][  0]LogMemory: Virtual Memory: 662.09 MB used, 134217728.00 MB total
+[2016.11.09-14.13.00:550][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.09-14.13.02:723][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.09-14.13.02:755][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2016.11.09-14.13.02:755][  0]LogD3D11RHI:       4010/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.09-14.13.02:757][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.09-14.13.02:757][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.09-14.13.02:757][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.09-14.13.02:760][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.09-14.13.02:760][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.09-14.13.02:760][  0]LogWindows: EnumDisplayDevices:
+[2016.11.09-14.13.02:760][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2016.11.09-14.13.02:761][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.11.09-14.13.02:761][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.11.09-14.13.02:761][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.11.09-14.13.02:761][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.09-14.13.02:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2016.11.09-14.13.02:761][  0]LogD3D11RHI:   Driver Version: 368.39 (internal:10.18.13.6839, unified:368.39)
+[2016.11.09-14.13.02:761][  0]LogD3D11RHI:      Driver Date: 6-2-2016
+[2016.11.09-14.13.02:761][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.09-14.13.02:775][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.09-14.13.02:831][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.09-14.13.02:846][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/9132/).
+[2016.11.09-14.13.02:846][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/egimenez/AppData/Local/Temp/UnrealShaderWorkingDir/6375811041DBF9C3DFD564A0FF8732BD/'.
+[2016.11.09-14.13.02:846][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.09-14.13.05:320][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.09-14.13.05:327][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.09-14.13.05:334][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.09-14.13.05:340][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.09-14.13.05:347][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.09-14.13.05:356][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.09-14.13.05:362][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.09-14.13.05:369][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.09-14.13.05:375][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.09-14.13.05:381][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.09-14.13.05:387][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.09-14.13.05:400][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.09-14.13.05:400][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.09-14.13.05:401][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.09-14.13.05:455][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.09-14.13.05:461][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.09-14.13.05:467][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.09-14.13.05:473][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.09-14.13.05:479][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.09-14.13.05:488][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.09-14.13.05:488][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.09-14.13.05:846][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache: Loaded boot cache 0.26s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.09-14.13.06:110][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.09-14.13.06:139][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.09-14.13.06:152][  0]LogDerivedDataCache: Using Local data cache path C:/Users/egimenez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.09-14.13.09:116][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.09-14.13.09:140][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.09-14.13.09:241][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.09-14.13.09:241][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.09-14.13.09:241][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.09-14.13.09:608][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.09-14.13.09:746][  0]LogLinker:Warning: Can't find file '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1'
+[2016.11.09-14.13.09:746][  0]LogLinker: Can't find file '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1'
+[2016.11.09-14.13.10:571][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2647762835
+[2016.11.09-14.13.10:640][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2016.11.09-14.13.10:685][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.036471 seconds
+[2016.11.09-14.13.10:690][  0]LogUObjectArray: 29783 objects as part of root set at end of initial load.
+[2016.11.09-14.13.10:690][  0]LogUObjectAllocator: 6126752 out of 0 bytes used by permanent object pool.
+[2016.11.09-14.13.10:690][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.09-14.13.10:697][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.09-14.13.11:550][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.09-14.13.11:550][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.09-14.13.13:802][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.09-14.13.14:205][  0]SourceControl: Info Source control is disabled
+[2016.11.09-14.13.14:364][  0]SourceControl: Info Source control is disabled
+[2016.11.09-14.13.14:379][  0]SourceControl: Info Source control is disabled
+[2016.11.09-14.13.14:388][  0]SourceControl: Info Source control is disabled
+[2016.11.09-14.13.14:492][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.11.09-14.13.14:492][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.11.09-14.13.14:492][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2016.11.09-14.13.14:762][  0]LogEngine: Initializing Engine...
+[2016.11.09-14.13.14:765][  0]LogHMD: Oculus plugin initialized. Version: 4.13.0-3106830+++UE4+Release-4.13, LibOVR: 1.6.0, SDK: 1.6.0, built Aug 30 2016, 18:13:21
+[2016.11.09-14.13.14:952][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.09-14.13.14:986][  0]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.13.15:013][  0]LogInit: FAudioDevice initialized.
+[2016.11.09-14.13.15:046][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/egimenez/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.09-14.13.15:058][  0]LogInit: Texture streaming: Enabled
+[2016.11.09-14.13.15:178][  0]LogInit: Transaction tracking system initialized
+[2016.11.09-14.13.15:286][  0]BlueprintLog: New page: Editor Load
+[2016.11.09-14.13.15:483][  0]LocalizationService: Info Localization service is disabled
+[2016.11.09-14.13.15:617][  0]LogConsoleResponse:Display: 
+[2016.11.09-14.13.15:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/' took 0.02s
+[2016.11.09-14.13.15:942][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.09-14.13.15:942][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.09-14.13.16:240][  0]SourceControl: Info Source control is disabled
+[2016.11.09-14.13.16:243][  0]Cmd: MAP LOAD FILE="../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.09-14.13.16:250][  0]LightingResults: New page: Lighting Build
+[2016.11.09-14.13.16:269][  0]MapCheck: New page: Map Check
+[2016.11.09-14.13.16:269][  0]LightingResults: New page: Lighting Build
+[2016.11.09-14.13.16:980][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.11.09-14.13.17:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.09-14.13.17:200][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.09-14.13.17:235][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 34.661ms to complete.
+[2016.11.09-14.13.17:235][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.993
+[2016.11.09-14.13.17:488][  0]LogCollectionManager: Loaded 0 collections in 0.001276 seconds
+[2016.11.09-14.13.17:554][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2016.11.09-14.13.17:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Developers/egimenez/Collections/' took 0.01s
+[2016.11.09-14.13.17:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2016.11.09-14.13.17:555][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.09-14.13.17:567][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2148 classes and 417 folders.
+[2016.11.09-14.13.17:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.09-14.13.17:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.09-14.13.17:576][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2016.11.09-14.13.17:585][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.09-14.13.18:222][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.09-14.13.18:234][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.09-14.13.18:307][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.09-14.13.18:325][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.09-14.13.18:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.09-14.13.18:360][  0]LogLoad: (Engine Initialization) Total time: 20.66 seconds
+[2016.11.09-14.13.18:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.16 seconds
+[2016.11.09-14.13.18:361][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.09-14.13.18:361][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.09-14.13.18:370][  0]LogOcInput: OculusInput pre-init called
+[2016.11.09-14.13.18:380][  0]LogOcInput: OculusInput is initialized. Init status 0. Runtime version: 1.6.0
+[2016.11.09-14.13.18:408][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.09-14.13.18:600][  0]LogRenderer: Reallocating scene render targets to support 1060x632 (Frame:2).
+[2016.11.09-14.13.19:798][115]LogAssetRegistry: Asset discovery search completed in 9.1842 seconds
+[2016.11.09-14.13.19:798][115]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2016.11.09-14.13.19:798][115]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000497 seconds (updated 0 objects)
+[2016.11.09-14.13.32:624][559]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.13.32:674][559]Cmd: MAP LOAD FILE="../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.09-14.13.32:674][559]LightingResults: New page: Lighting Build
+[2016.11.09-14.13.32:675][559]LoadErrors: New page: Loading map: Tests.umap
+[2016.11.09-14.13.32:676][559]MapCheck: New page: Map Check
+[2016.11.09-14.13.32:676][559]LightingResults: New page: Lighting Build
+[2016.11.09-14.13.32:714][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.09-14.13.32:751][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.09-14.13.32:792][559]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.74ms to complete.
+[2016.11.09-14.13.32:792][559]LogFileHelpers: Loading map 'Tests' took 0.118
+[2016.11.09-14.13.42:803][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.13.42:806][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.13.42:807][687]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:13:42 PM)
+[2016.11.09-14.13.42:808][687]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.13.42:816][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008697s)
+[2016.11.09-14.13.42:817][687]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.13.42:817][687]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2016.11.09-14.13.42:817][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009877s)
+[2016.11.09-14.13.42:830][687]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.13.42:835][687]LogInit: FAudioDevice initialized.
+[2016.11.09-14.13.42:878][687]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.13.42:890][687]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.13.42
+[2016.11.09-14.13.42:896][687]LogWorld: Bringing up level for play took: 0.015032
+[2016.11.09-14.13.42:902][687]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.11.09-14.13.42:902][687]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.13.42:902][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.13.42:902][687]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.13.42:903][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.13.42:903][687]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.821
+[2016.11.09-14.13.42:903][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.15.16:803][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.15.16:847][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.15.39:429][571]Cmd: SELECT NONE
+[2016.11.09-14.16.43:811][226]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 112 classes and 0 folders.
+[2016.11.09-14.18.08:127][493]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.20.37:449][797]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.24.23:816][786]LogEditorTransaction: Undo Add Node
+[2016.11.09-14.24.39:902][627]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.25.41:126][715]LogSavePackage: Save=227.08ms
+[2016.11.09-14.25.41:126][715]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests_Auto14326D95D49241FFDB132528BCDE729E1.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto1.umap'
+[2016.11.09-14.25.41:128][715]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto1.umap
+[2016.11.09-14.25.41:132][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.275
+[2016.11.09-14.25.41:132][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
+[2016.11.09-14.25.41:135][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Monster/ReturnMonster] ([1] browsable assets)...
+[2016.11.09-14.25.41:167][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Monster/ReturnMonster.ReturnMonster]
+[2016.11.09-14.25.41:167][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Monster/ReturnMonster]
+[2016.11.09-14.25.41:221][715]LogSavePackage: Save=30.51ms
+[2016.11.09-14.25.41:221][715]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ReturnMonster_Auto1EEFACCDF4C5C35619E8A4D994F0369AF.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Monster/ReturnMonster_Auto1.uasset'
+[2016.11.09-14.25.41:222][715]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Monster/ReturnMonster_Auto1.uasset
+[2016.11.09-14.25.41:223][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VAN/TopDownBP/Blueprints/VAN] ([1] browsable assets)...
+[2016.11.09-14.25.41:259][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VAN/TopDownBP/Blueprints/VAN.VAN]
+[2016.11.09-14.25.41:259][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/VAN/TopDownBP/Blueprints/VAN]
+[2016.11.09-14.25.41:327][715]LogSavePackage: Save=46.26ms
+[2016.11.09-14.25.41:327][715]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/VAN_Auto1BEE0DD5244AC98B9777407B9E34093FA.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/VAN/TopDownBP/Blueprints/VAN_Auto1.uasset'
+[2016.11.09-14.25.41:329][715]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/VAN/TopDownBP/Blueprints/VAN_Auto1.uasset
+[2016.11.09-14.25.41:329][715]LogFileHelpers: Auto-saving content packages took 0.195
+[2016.11.09-14.26.11:005][915]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.26.11:112][915]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  else
+[2016.11.09-14.26.17:306][595]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.26.20:126][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.20:126][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.26.20:126][887]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:26:20 PM)
+[2016.11.09-14.26.20:126][887]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.26.20:135][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008466s)
+[2016.11.09-14.26.20:135][887]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.26.20:135][887]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2016.11.09-14.26.20:136][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009356s)
+[2016.11.09-14.26.20:154][887]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.26.20:159][887]LogInit: FAudioDevice initialized.
+[2016.11.09-14.26.20:190][887]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.26.20:199][887]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.26.20
+[2016.11.09-14.26.20:200][887]LogWorld: Bringing up level for play took: 0.010035
+[2016.11.09-14.26.20:201][887]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.26.20:201][887]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.26.20:201][887]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.26.20:201][887]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.26.20:202][887]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.165
+[2016.11.09-14.26.20:202][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.20:978][978]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.11.09-14.26.20:978][978]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.11.09-14.26.20:978][978]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.11.09-14.26.20:978][978]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.11.09-14.26.37:923][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.37:979][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.49:479][  1]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.26.50:882][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.50:882][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.26.50:882][115]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:26:50 PM)
+[2016.11.09-14.26.50:882][115]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.26.50:891][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008884s)
+[2016.11.09-14.26.50:891][115]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.26.50:891][115]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2016.11.09-14.26.50:892][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009718s)
+[2016.11.09-14.26.50:910][115]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.26.50:914][115]LogInit: FAudioDevice initialized.
+[2016.11.09-14.26.50:945][115]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.26.50:955][115]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.26.50
+[2016.11.09-14.26.50:957][115]LogWorld: Bringing up level for play took: 0.010451
+[2016.11.09-14.26.50:957][115]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.26.50:957][115]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.26.50:957][115]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.26.50:958][115]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.26.50:958][115]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.921
+[2016.11.09-14.26.50:958][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.26.51:947][223]LogBlueprintUserMessages: [Tests_C_0] true
+[2016.11.09-14.26.51:947][223]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.11.09-14.26.51:947][223]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.11.09-14.26.51:947][223]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.11.09-14.27.03:633][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.27.03:672][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.28.15:639][590]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.28.31:097][305]LogSavePackage: Save=217.57ms
+[2016.11.09-14.28.31:097][305]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests620F56DC4F496E5B928F4499E185BECB.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap'
+[2016.11.09-14.28.31:102][305]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap
+[2016.11.09-14.28.31:137][305]LogFileHelpers: Saving map 'Tests' took 0.334
+[2016.11.09-14.28.31:205][305]LogSavePackage: Save=32.41ms
+[2016.11.09-14.28.31:205][305]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ReturnMonster3BE07727407D79979498C1877F70286B.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset'
+[2016.11.09-14.28.31:209][305]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset
+[2016.11.09-14.28.31:292][305]LogSavePackage: Save=47.47ms
+[2016.11.09-14.28.31:292][305]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/VANE18961E643ED60FD5CAD659EF4B9C1F5.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset'
+[2016.11.09-14.28.31:297][305]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset
+[2016.11.09-14.28.33:378][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.28.33:378][547]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.09-14.28.33:378][547]LogPlayLevel: [PlayLevel] Compiling VAN before play...
+[2016.11.09-14.28.33:403][547]LogBlueprint:Error: [Compiler VAN] Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.28.33:527][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 135 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:527][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:527][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:527][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:532][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 4 Warning(s) [in 4 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:532][547]LogBlueprint:Warning: [Compiler VAN] Warning [0935.88] Compile of VAN failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.28.33:549][547]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2016.11.09-14.28.33:550][547]BlueprintLog: Info Blueprint VAN failed to compile
+[2016.11.09-14.28.43:374][233]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.28.45:372][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.28.45:372][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.28.45:372][454]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:28:45 PM)
+[2016.11.09-14.28.45:372][454]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.28.45:382][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010258s)
+[2016.11.09-14.28.45:383][454]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.28.45:383][454]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2016.11.09-14.28.45:383][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.011196s)
+[2016.11.09-14.28.45:402][454]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.28.45:406][454]LogInit: FAudioDevice initialized.
+[2016.11.09-14.28.45:439][454]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.28.45:449][454]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.28.45
+[2016.11.09-14.28.45:450][454]LogWorld: Bringing up level for play took: 0.010276
+[2016.11.09-14.28.45:451][454]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.28.45:451][454]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.28.45:451][454]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.28.45:451][454]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.28.45:451][454]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.584
+[2016.11.09-14.28.45:451][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.28.46:361][561]LogBlueprintUserMessages: [Tests_C_1] true
+[2016.11.09-14.28.46:361][561]LogBlueprintUserMessages: [Tests_C_1] 2:
+[2016.11.09-14.28.46:361][561]LogBlueprintUserMessages: [Tests_C_1] false
+[2016.11.09-14.28.46:361][561]LogBlueprintUserMessages: [Tests_C_1] 1:
+[2016.11.09-14.28.51:278][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.28.51:319][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.08:389][982]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.29.09:960][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.09:960][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.29.09:960][113]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:29:09 PM)
+[2016.11.09-14.29.09:960][113]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.29.09:968][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007941s)
+[2016.11.09-14.29.09:968][113]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.29.09:969][113]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2016.11.09-14.29.09:969][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.008928s)
+[2016.11.09-14.29.09:988][113]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.29.09:992][113]LogInit: FAudioDevice initialized.
+[2016.11.09-14.29.10:025][113]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.29.10:034][113]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.29.10
+[2016.11.09-14.29.10:035][113]LogWorld: Bringing up level for play took: 0.009423
+[2016.11.09-14.29.10:036][113]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.29.10:036][113]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.29.10:036][113]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.29.10:036][113]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.29.10:036][113]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests 0.002
+[2016.11.09-14.29.10:036][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.10:866][200]LogBlueprintUserMessages: [Tests_C_1] true
+[2016.11.09-14.29.10:866][200]LogBlueprintUserMessages: [Tests_C_1] 2:
+[2016.11.09-14.29.10:866][200]LogBlueprintUserMessages: [Tests_C_1] false
+[2016.11.09-14.29.10:866][200]LogBlueprintUserMessages: [Tests_C_1] 1:
+[2016.11.09-14.29.26:849][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.26:885][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.27:912][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.27:912][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.29.27:913][ 52]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:29:27 PM)
+[2016.11.09-14.29.27:913][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.29.27:921][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008038s)
+[2016.11.09-14.29.27:921][ 52]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.29.27:922][ 52]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2016.11.09-14.29.27:922][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.009078s)
+[2016.11.09-14.29.27:940][ 52]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.29.27:944][ 52]LogInit: FAudioDevice initialized.
+[2016.11.09-14.29.27:974][ 52]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.29.27:984][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.29.27
+[2016.11.09-14.29.27:985][ 52]LogWorld: Bringing up level for play took: 0.010067
+[2016.11.09-14.29.27:986][ 52]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.29.27:986][ 52]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.29.27:986][ 52]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.29.27:986][ 52]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.29.27:986][ 52]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.048
+[2016.11.09-14.29.27:986][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.28:547][109]LogBlueprintUserMessages: [Tests_C_1] true
+[2016.11.09-14.29.28:547][109]LogBlueprintUserMessages: [Tests_C_1] 2:
+[2016.11.09-14.29.28:547][109]LogBlueprintUserMessages: [Tests_C_1] false
+[2016.11.09-14.29.28:547][109]LogBlueprintUserMessages: [Tests_C_1] 1:
+[2016.11.09-14.29.40:660][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.40:700][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.29.53:020][736]LogSavePackage: Save=216.58ms
+[2016.11.09-14.29.53:020][736]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/TestsF21301BC4FBD22EA5DCC17AA9C9C87B3.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap'
+[2016.11.09-14.29.53:023][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap
+[2016.11.09-14.29.53:056][736]LogFileHelpers: Saving map 'Tests' took 0.326
+[2016.11.09-14.29.53:140][736]LogSavePackage: Save=32.29ms
+[2016.11.09-14.29.53:140][736]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ReturnMonster275216984BC9233B00F4269F49A3424A.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset'
+[2016.11.09-14.29.53:143][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset
+[2016.11.09-14.29.53:243][736]LogSavePackage: Save=47.53ms
+[2016.11.09-14.29.53:243][736]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/VAN4447128A4190A264E3D55C9C2D4B2487.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset'
+[2016.11.09-14.29.53:245][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset
+[2016.11.09-14.37.25:910][478]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.37.25:936][478]LogBlueprint:Error: [Compiler VAN] Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.37.26:079][478]BlueprintEditorCompileResults:Error: Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.37.26:079][478]LogBlueprint:Warning: [Compiler VAN] Warning [1468.44] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.37.39:437][994]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.37.39:461][994]LogBlueprint:Error: [Compiler VAN] Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.37.39:596][994]BlueprintEditorCompileResults:Error: Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.37.39:597][994]LogBlueprint:Warning: [Compiler VAN] Warning [1481.96] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 159 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.37.43:825][496]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.37.57:164][ 74]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.37.57:188][ 74]LogBlueprint:Error: [Compiler VAN] Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.37.57:325][ 74]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.37.57:325][ 74]LogBlueprint:Warning: [Compiler VAN] Warning [1499.69] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.38.20:371][793]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.38.37:435][799]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.40.43:761][ 62]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.09-14.40.45:923][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.09-14.40.46:662][365]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.09-14.40.55:378][230]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.40.59:955][686]LogBlueprint:Warning: Reparenting blueprint Blueprint /Game/Elements/Monster/ReturnMonster.ReturnMonster from Character to Monster_C...
+[2016.11.09-14.40.59:966][686]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.41.46:883][448]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.41.54:768][368]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.41.54:793][368]LogBlueprint:Error: [Compiler VAN] Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.41.54:933][368]BlueprintEditorCompileResults:Error: Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.41.54:933][368]LogBlueprint:Warning: [Compiler VAN] Warning [1737.35] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 165 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.42.18:877][ 90]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.42.18:902][ 90]LogBlueprint:Error: [Compiler VAN] Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.42.19:049][ 90]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.42.19:049][ 90]LogBlueprint:Warning: [Compiler VAN] Warning [1761.47] Compile of VAN failed. 1 Fatal Issue(s) 0 Warning(s) [in 172 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.42.22:573][493]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.42.30:766][438]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.42.37:112][ 74]Cmd: TRANSACTION UNDO
+[2016.11.09-14.42.37:112][ 74]LogEditorTransaction: Undo Create Pin Link
+[2016.11.09-14.42.38:726][225]Cmd: TRANSACTION UNDO
+[2016.11.09-14.42.38:726][225]LogEditorTransaction: Undo Change Class Pin Value
+[2016.11.09-14.42.39:719][318]Cmd: TRANSACTION UNDO
+[2016.11.09-14.42.39:719][318]LogEditorTransaction: Undo Create Pin Link
+[2016.11.09-14.42.41:845][531]Cmd: TRANSACTION UNDO
+[2016.11.09-14.42.41:845][531]LogEditorTransaction: Undo Delete current selection
+[2016.11.09-14.42.44:526][805]Cmd: TRANSACTION UNDO
+[2016.11.09-14.42.44:526][805]LogEditorTransaction: Undo Add Node
+[2016.11.09-14.42.47:233][ 74]Cmd: TRANSACTION REDO
+[2016.11.09-14.42.47:233][ 74]LogEditorTransaction: Redo Add Node
+[2016.11.09-14.42.53:120][669]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.42.59:573][942]LogBlueprint:Warning: Reparenting blueprint Blueprint /Game/Elements/Monster/ReturnMonster.ReturnMonster from Monster_C to Character...
+[2016.11.09-14.42.59:585][942]BlueprintLog: New page: Compile ReturnMonster
+[2016.11.09-14.42.59:596][942]LogBlueprint:Warning: ValidateTemplates '/Game/Elements/Monster/ReturnMonster.ReturnMonster_C:InheritableComponentHandler': overridden template is invalid - component 'SK_Mannequin' from '/Game/Elements/Monster/Monster.Monster_C'
+[2016.11.09-14.42.59:621][942]LogBlueprint:Error: [Compiler VAN] Error This blueprint (self) is not a ReturnMonster_C, therefore ' self ' must have a connection.
+[2016.11.09-14.43.05:018][445]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.09-14.43.05:079][445]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'K2Node_CallFunction_258' or package '/Game/VAN/TopDownBP/Blueprints/VAN'.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Monster_C_188' or package '/Engine/Transient'.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Monster_C_1' or package '/Engine/Transient'.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Monster_C_0' or package '/Engine/Transient'.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Monster_C_251' or package '/Engine/Transient'.
+[2016.11.09-14.43.12:795][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Monster_C_250' or package '/Engine/Transient'.
+[2016.11.09-14.43.15:209][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.43.15:209][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.43.30:677][413]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.43.35:902][ 25]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.43.37:614][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.43.37:614][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.09-14.43.37:614][185]PIE: New page: PIE session: Tests (Nov 9, 2016, 4:43:37 PM)
+[2016.11.09-14.43.37:614][185]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tests
+[2016.11.09-14.43.37:624][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010084s)
+[2016.11.09-14.43.37:625][185]LogAIModule: Creating AISystem for world Tests
+[2016.11.09-14.43.37:625][185]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2016.11.09-14.43.37:625][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tests.Tests to /Game/Levels/UEDPIE_0_Tests.Tests (0.010965s)
+[2016.11.09-14.43.37:642][185]LogInit: XAudio2 using 'BenQ GL2250H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.09-14.43.37:647][185]LogInit: FAudioDevice initialized.
+[2016.11.09-14.43.37:675][185]LogWorld: Game class is 'GameMode'
+[2016.11.09-14.43.37:684][185]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tests.Tests up for play (max tick rate 0) at 2016.11.09-15.43.37
+[2016.11.09-14.43.37:686][185]LogWorld: Bringing up level for play took: 0.009852
+[2016.11.09-14.43.37:686][185]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.43.37:686][185]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.09-14.43.37:686][185]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.43.37:687][185]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.09-14.43.37:687][185]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Tests -0.276
+[2016.11.09-14.43.37:687][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.43.38:478][277]LogBlueprintUserMessages: [Tests_C_0] true
+[2016.11.09-14.43.38:478][277]LogBlueprintUserMessages: [Tests_C_0] 2:
+[2016.11.09-14.43.38:478][277]LogBlueprintUserMessages: [Tests_C_0] false
+[2016.11.09-14.43.38:478][277]LogBlueprintUserMessages: [Tests_C_0] 1:
+[2016.11.09-14.43.47:188][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.43.47:225][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tests.Tests:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tests.Tests:PersistentLevel.Tests' with GeneratedClass '/Game/Levels/Tests.Tests_C' with ClassGeneratedBy '/Game/Levels/Tests.Tests:PersistentLevel.Tests'
+[2016.11.09-14.44.15:829][744]LogSavePackage: Save=212.10ms
+[2016.11.09-14.44.15:829][744]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests_Auto2201BC51A46DD31DEC03A698DE39EBC03.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto2.umap'
+[2016.11.09-14.44.15:831][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Tests_Auto2.umap
+[2016.11.09-14.44.15:833][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tests' took 0.250
+[2016.11.09-14.44.15:833][744]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.250
+[2016.11.09-14.44.15:835][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Monster/ReturnMonster] ([1] browsable assets)...
+[2016.11.09-14.44.15:868][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Monster/ReturnMonster.ReturnMonster]
+[2016.11.09-14.44.15:868][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Monster/ReturnMonster]
+[2016.11.09-14.44.15:922][744]LogSavePackage: Save=31.64ms
+[2016.11.09-14.44.15:922][744]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ReturnMonster_Auto28E482D504ADFC261B99111B4F1EDD91E.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Monster/ReturnMonster_Auto2.uasset'
+[2016.11.09-14.44.15:924][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Monster/ReturnMonster_Auto2.uasset
+[2016.11.09-14.44.15:925][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VAN/TopDownBP/Blueprints/VAN] ([1] browsable assets)...
+[2016.11.09-14.44.15:956][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VAN/TopDownBP/Blueprints/VAN.VAN]
+[2016.11.09-14.44.15:957][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/VAN/TopDownBP/Blueprints/VAN]
+[2016.11.09-14.44.16:025][744]LogSavePackage: Save=46.78ms
+[2016.11.09-14.44.16:025][744]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/VAN_Auto225630A3D4016D5D8B39040BBF0A60872.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/VAN/TopDownBP/Blueprints/VAN_Auto2.uasset'
+[2016.11.09-14.44.16:027][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/VAN/TopDownBP/Blueprints/VAN_Auto2.uasset
+[2016.11.09-14.44.16:027][744]LogFileHelpers: Auto-saving content packages took 0.193
+[2016.11.09-14.45.42:751][774]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.46.02:153][996]LogSavePackage: Save=216.50ms
+[2016.11.09-14.46.02:153][996]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Tests162C6132429051192395F9B805A83CA4.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap'
+[2016.11.09-14.46.02:159][996]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Levels/Tests.umap
+[2016.11.09-14.46.02:194][996]LogFileHelpers: Saving map 'Tests' took 0.337
+[2016.11.09-14.46.02:240][996]LogSavePackage: Save=25.60ms
+[2016.11.09-14.46.02:240][996]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ReturnMonsterC4350651417DBD4C29118FB8904349DF.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset'
+[2016.11.09-14.46.02:244][996]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/Elements/Monster/ReturnMonster.uasset
+[2016.11.09-14.46.02:328][996]LogSavePackage: Save=50.64ms
+[2016.11.09-14.46.02:328][996]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/VAND4C7CF3B426EF43AE73F068FA753F9C3.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset'
+[2016.11.09-14.46.02:331][996]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/VAN/TopDownBP/Blueprints/VAN.uasset
+[2016.11.09-14.46.29:347][  0]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.09-14.47.43:370][474]BlueprintLog: New page: Compile VAN
+[2016.11.09-14.47.43:400][474]LogBlueprint:Error: [Compiler VAN] Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.47.43:400][474]LogBlueprint:Error: [Compiler VAN] Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.47.43:544][474]BlueprintEditorCompileResults:Error: Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.47.43:544][474]BlueprintEditorCompileResults:Error: Error Invalid pin connection from ' OutActors ' to ' self '. You may have changed the type after the connections were made.
+[2016.11.09-14.47.43:544][474]LogBlueprint:Warning: [Compiler VAN] Warning [2085.98] Compile of VAN failed. 2 Fatal Issue(s) 0 Warning(s) [in 173 ms] (/Game/VAN/TopDownBP/Blueprints/VAN.VAN)
+[2016.11.09-14.48.26:475][900]LogBlueprint:Warning: [ZoneMonster] 'Life' variable not found. Base class was probably changed.
+[2016.11.09-14.48.26:475][900]LogBlueprint:Warning: [ZoneMonster] 'Life' variable not found. Base class was probably changed.
+[2016.11.09-14.48.26:475][900]LogBlueprint:Warning: [ZoneMonster] 'Life' variable not found. Base class was probably changed.
+[2016.11.09-14.49.13:659][209]LogTexture:Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F)
+[2016.11.09-14.49.20:864][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:918][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:933][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:936][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:938][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:941][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:943][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:947][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:957][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:960][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:962][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:964][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:969][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:979][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:982][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:985][209]LogSavePackage: Save=164.83ms
+[2016.11.09-14.49.20:986][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:986][209]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/BP_LightStudio52B1BF8344A1309CB37D689E0CE11E99.tmp' to '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2016.11.09-14.49.20:989][209]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.20:991][209]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2016.11.09-14.49.21:195][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:203][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:205][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:208][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:209][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:212][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:214][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:215][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:218][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:220][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:222][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:224][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:226][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:228][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:230][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:237][210]LogSavePackage: Save=152.60ms
+[2016.11.09-14.49.21:238][210]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/TutorialTPP_AnimBlueprint183D459040E124DC1348A0A38312A161.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset'
+[2016.11.09-14.49.21:240][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:242][210]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:243][210]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset
+[2016.11.09-14.49.21:313][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:317][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:320][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:323][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:326][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:328][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:331][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:332][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:336][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:337][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:339][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:341][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:344][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:348][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:349][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:355][211]LogSavePackage: Save=61.80ms
+[2016.11.09-14.49.21:355][211]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/TutorialAnimationBlueprintDDCFDD90493384F0C05B24906351844E.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset'
+[2016.11.09-14.49.21:358][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:359][211]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:360][211]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset
+[2016.11.09-14.49.21:376][212]LogTexture:Display: Building textures: icon_ShowSkeletalMeshes_40x (BGRA8)
+[2016.11.09-14.49.21:418][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:420][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:423][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:425][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:428][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:430][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:433][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:435][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:437][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:438][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:440][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:442][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:444][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:446][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:448][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:452][212]LogSavePackage: Save=54.78ms
+[2016.11.09-14.49.21:452][212]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/PersonaWalkthrough5F9C562F421BFE38C75B179AC51F2E1D.tmp' to '../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset'
+[2016.11.09-14.49.21:454][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:456][212]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:456][212]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset
+[2016.11.09-14.49.21:512][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:514][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:516][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:518][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:521][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:522][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:524][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:527][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:529][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:531][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:532][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:534][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:536][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:539][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:541][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:544][213]LogSavePackage: Save=52.47ms
+[2016.11.09-14.49.21:545][213]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/PersonaAnimEditorWalkthrough15D884A5491E4477D8123E82C3B9AE6A.tmp' to '../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset'
+[2016.11.09-14.49.21:546][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:548][213]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:548][213]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset
+[2016.11.09-14.49.21:605][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:608][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:610][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:612][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:614][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:616][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:618][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:619][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:621][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:623][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:625][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:627][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:629][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:632][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:634][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:637][214]LogSavePackage: Save=52.52ms
+[2016.11.09-14.49.21:637][214]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ParticleSystemEditorTutorial9BD275B24607D047C81FD98FC1CD316A.tmp' to '../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset'
+[2016.11.09-14.49.21:640][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:642][214]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:642][214]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset
+[2016.11.09-14.49.21:699][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:702][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:705][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:707][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:710][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:712][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:714][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:716][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:718][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:720][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:722][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:724][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:726][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:733][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:735][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:738][215]LogSavePackage: Save=59.44ms
+[2016.11.09-14.49.21:739][215]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/MaterialEditorTutorial1F2455B44A9CC0123620A097DDBD4811.tmp' to '../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset'
+[2016.11.09-14.49.21:741][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:743][215]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:743][215]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset
+[2016.11.09-14.49.21:794][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:796][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:798][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:800][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:802][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:805][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:806][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:808][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:811][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:813][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:815][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:817][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:819][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:822][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:824][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:828][216]LogSavePackage: Save=49.39ms
+[2016.11.09-14.49.21:829][216]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/LevelBlueprintEditorOverview9EAA0CE9472CA02A721329A2370F531E.tmp' to '../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset'
+[2016.11.09-14.49.21:831][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:834][216]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:834][216]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset
+[2016.11.09-14.49.21:891][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:894][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:896][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:898][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:900][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:902][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:904][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:906][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:908][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:910][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:912][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:914][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:917][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:920][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:922][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:927][217]LogSavePackage: Save=56.14ms
+[2016.11.09-14.49.21:928][217]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/ClassBlueprintsEditorOverview29395A5A431B316DCF6DF89B06CFAF97.tmp' to '../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset'
+[2016.11.09-14.49.21:929][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:931][217]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.21:932][217]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset
+[2016.11.09-14.49.21:993][218]LogAIModule: Creating AISystem for world Template_Default
+[2016.11.09-14.49.22:055][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:057][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:062][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:065][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:067][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:069][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:070][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:073][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:082][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:083][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:085][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:087][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:089][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:093][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:098][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:102][218]LogSavePackage: Save=65.73ms
+[2016.11.09-14.49.22:103][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:103][218]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Template_Default11BF6E424E956AF48C786B918E95D860.tmp' to '../../../Engine/Content/Maps/Templates/Template_Default.umap'
+[2016.11.09-14.49.22:107][218]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:109][218]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Maps/Templates/Template_Default.umap
+[2016.11.09-14.49.22:147][219]LogAIModule: Creating AISystem for world Entry
+[2016.11.09-14.49.22:198][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:200][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:204][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:206][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:208][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:210][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:213][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:215][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:221][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:223][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:224][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:227][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:228][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:231][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:233][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:236][219]LogSavePackage: Save=53.59ms
+[2016.11.09-14.49.22:236][219]LogSavePackage: Moving '../../../../../../Users/egimenez/Desktop/ENTI/VAN/VANsGame/Mechanics/BasicMechanics/Saved/Entry555B031543BB57D18E07AE82F7C8DA26.tmp' to '../../../Engine/Content/Maps/Entry.umap'
+[2016.11.09-14.49.22:239][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:241][219]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.09-14.49.22:241][219]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/Maps/Entry.umap
+[2016.11.09-14.49.22:768][220]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_N (BC5)
+[2016.11.09-14.49.23:606][220]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_M (AutoDXT)
+[2016.11.09-14.49.29:085][220]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_D (AutoDXT)
+[2016.11.09-14.49.34:352][220]LogTexture:Display: Building textures: T_Brick_Clay_New_D (AutoDXT)
+[2016.11.09-14.49.39:479][220]LogTexture:Display: Building textures: T_Brick_Clay_New_M (AutoDXT)
+[2016.11.09-14.49.45:096][220]LogTexture:Display: Building textures: T_Brick_Clay_New_N (BC5)
+[2016.11.09-14.49.45:803][220]LogTexture:Display: Building textures: T_Detail_Rocky_N (BC5)
+[2016.11.09-14.49.46:155][220]LogTexture:Display: Building textures: T_Concrete_Panels_D (AutoDXT)
+[2016.11.09-14.49.51:454][220]LogTexture:Display: Building textures: T_Concrete_Panels_N (BC5)
+[2016.11.09-14.49.52:211][220]LogTexture:Display: Building textures: T_Perlin_Noise_M (AutoDXT)
+[2016.11.09-14.49.57:134][220]LogTexture:Display: Building textures: T_CobbleStone_Rough_D (AutoDXT)
+[2016.11.09-14.49.58:584][220]LogTexture:Display: Building textures: T_CobbleStone_Rough_N (BC5)
+[2016.11.09-14.49.58:949][220]LogTexture:Display: Building textures: T_Rock_Smooth_Granite_D (AutoDXT)
+[2016.11.09-14.50.04:382][220]LogTexture:Display: Building textures: T_Gradinet_01 (AutoDXT)
+[2016.11.09-14.50.04:568][220]LogTexture:Display: Building textures: T_CobbleStone_Pebble_N (BC5)
+[2016.11.09-14.50.05:328][220]LogTexture:Display: Building textures: T_CobbleStone_Pebble_M (AutoDXT)
+[2016.11.09-14.50.06:321][220]LogTexture:Display: Building textures: T_CobbleStone_Pebble_D (AutoDXT)
+[2016.11.09-14.50.11:646][220]LogTexture:Display: Building textures: T_Rock_Marble_Polished_D (AutoDXT)
+[2016.11.09-14.50.14:246][220]LogTexture:Display: Building textures: T_Ceramic_Tile_N (BC5)
+[2016.11.09-14.50.14:680][220]LogTexture:Display: Building textures: T_Ceramic_Tile_M (DXT1)
+[2016.11.09-14.50.15:318][220]LogTexture:Display: Building textures: T_Water_N (BC5)
+[2016.11.09-14.50.15:769][220]LogTexture:Display: Building textures: T_Fire_Tiled_D (AutoDXT)
+[2016.11.09-14.50.16:170][220]LogTexture:Display: Building textures: T_Lamp_N (BC5)
+[2016.11.09-14.50.16:672][220]LogTexture:Display: Building textures: T_Lamp_M (AutoDXT)
+[2016.11.09-14.50.18:516][220]LogTexture:Display: Building textures: T_Brick_Clay_Old_D (AutoDXT)
+[2016.11.09-14.50.23:787][220]LogTexture:Display: Building textures: T_Brick_Clay_Old_N (BC5)
+[2016.11.09-14.50.24:412][220]LogTexture:Display: Building textures: T_Spark_Core (AutoDXT)
+[2016.11.09-14.50.24:473][220]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2016.11.09-14.50.24:550][220]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2016.11.09-14.50.24:579][220]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2016.11.09-14.50.24:648][220]LogTexture:Display: Building textures: T_Fire_SubUV (AutoDXT)
+[2016.11.09-14.50.25:133][220]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_N (BC5)
+[2016.11.09-14.50.25:953][220]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_M (AutoDXT)
+[2016.11.09-14.50.31:256][220]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_D (AutoDXT)
+[2016.11.09-14.50.36:420][220]LogTexture:Display: Building textures: T_Brick_Cut_Stone_N (BC5)
+[2016.11.09-14.50.37:173][220]LogTexture:Display: Building textures: T_Brick_Cut_Stone_D (AutoDXT)
+[2016.11.09-14.50.42:363][220]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2016.11.09-14.50.42:614][220]LogTexture:Display: Building textures: T_CobbleStone_Smooth_M (AutoDXT)
+[2016.11.09-14.50.47:658][220]LogTexture:Display: Building textures: T_CobbleStone_Smooth_D (AutoDXT)
+[2016.11.09-14.50.53:026][220]LogTexture:Display: Building textures: T_CobbleStone_Smooth_N (BC5)
+[2016.11.09-14.50.53:870][220]LogTexture:Display: Building textures: T_Metal_Rust_N (BC5)
+[2016.11.09-14.50.54:698][220]LogTexture:Display: Building textures: T_Concrete_Grime_D (AutoDXT)
+[2016.11.09-14.50.59:859][220]LogTexture:Display: Building textures: T_Frame_N (BC5)
+[2016.11.09-14.51.00:341][220]LogTexture:Display: Building textures: T_Frame_M (DXT1)
+[2016.11.09-14.51.00:938][220]LogTexture:Display: Building textures: T_Dust_Particle_D (AutoDXT)
+[2016.11.09-14.51.01:092][220]LogTexture:Display: Building textures: T_Wood_Walnut_N (BC5)
+[2016.11.09-14.51.01:747][220]LogTexture:Display: Building textures: T_Wood_Walnut_D (AutoDXT)
+[2016.11.09-14.51.06:935][220]LogTexture:Display: Building textures: T_Wood_Pine_N (BC5)
+[2016.11.09-14.51.07:659][220]LogTexture:Display: Building textures: T_Wood_Pine_D (AutoDXT)
+[2016.11.09-14.51.12:866][220]LogTexture:Display: Building textures: T_Wood_Oak_N (BC5)
+[2016.11.09-14.51.13:587][220]LogTexture:Display: Building textures: T_Wood_Oak_D (AutoDXT)
+[2016.11.09-14.51.18:776][220]LogTexture:Display: Building textures: T_Wood_Floor_Walnut_D (AutoDXT)
+[2016.11.09-14.51.23:955][220]LogTexture:Display: Building textures: T_Wood_Floor_Walnut_N (BC5)
+[2016.11.09-14.51.24:574][220]LogTexture:Display: Building textures: T_Wood_Floor_Walnut_M (AutoDXT)
+[2016.11.09-14.51.29:657][220]LogTexture:Display: Building textures: T_Water_M (AutoDXT)
+[2016.11.09-14.51.30:758][220]LogTexture:Display: Building textures: T_Tech_Panel_N (BC5)
+[2016.11.09-14.51.31:240][220]LogTexture:Display: Building textures: T_Tech_Panel_M (AutoDXT)
+[2016.11.09-14.51.32:466][220]LogTexture:Display: Building textures: T_Metal_Steel_D (AutoDXT)
+[2016.11.09-14.51.35:443][220]LogTexture:Display: Building textures: T_Tech_Hex_Tile_N (BC5)
+[2016.11.09-14.51.35:574][220]LogTexture:Display: Building textures: T_Tech_Hex_Tile_M (AutoDXT)
+[2016.11.09-14.51.36:020][220]LogTexture:Display: Building textures: T_Tech_Dot_N (BC5)
+[2016.11.09-14.51.36:050][220]LogTexture:Display: Building textures: T_Tech_Dot_M (AutoDXT)
+[2016.11.09-14.51.36:289][220]LogTexture:Display: Building textures: T_Rock_Slate_N (BC5)
+[2016.11.09-14.51.37:134][220]LogTexture:Display: Building textures: T_Rock_Slate_D (AutoDXT)
+[2016.11.09-14.51.42:481][220]LogTexture:Display: Building textures: T_Rock_Sandstone_N (BC5)
+[2016.11.09-14.51.43:277][220]LogTexture:Display: Building textures: T_Rock_Sandstone_D (AutoDXT)
+[2016.11.09-14.51.48:590][220]LogTexture:Display: Building textures: T_Rock_Basalt_N (BC5)
+[2016.11.09-14.51.49:406][220]LogTexture:Display: Building textures: T_Rock_Basalt_D (AutoDXT)
+[2016.11.09-14.51.54:650][220]LogTexture:Display: Building textures: T_Metal_Steel_N (BC5)
+[2016.11.09-14.51.55:414][220]LogTexture:Display: Building textures: T_Metal_Rust_D (AutoDXT)
+[2016.11.09-14.52.00:670][220]LogTexture:Display: Building textures: T_Metal_Gold_D (AutoDXT)
+[2016.11.09-14.52.05:999][220]LogTexture:Display: Building textures: T_Ground_Moss_N (BC5)
+[2016.11.09-14.52.06:816][220]LogTexture:Display: Building textures: T_ground_Moss_D (AutoDXT)
+[2016.11.09-14.52.12:212][220]LogTexture:Display: Building textures: T_Ground_Gravel_N (BC5)
+[2016.11.09-14.52.13:027][220]LogTexture:Display: Building textures: T_Ground_Gravel_D (AutoDXT)
+[2016.11.09-14.52.18:332][220]LogTexture:Display: Building textures: T_Ground_Grass_N (BC5)
+[2016.11.09-14.52.19:175][220]LogTexture:Display: Building textures: T_Ground_Grass_D (AutoDXT)
+[2016.11.09-14.52.24:881][220]LogTexture:Display: Building textures: T_Concrete_Tiles_Variation_M (AutoDXT)
+[2016.11.09-14.52.25:046][220]LogTexture:Display: Building textures: T_Concrete_Tiles_N (BC5)
+[2016.11.09-14.52.25:775][220]LogTexture:Display: Building textures: T_Concrete_Tiles_M (AutoDXT)
+[2016.11.09-14.52.30:587][220]LogTexture:Display: Building textures: T_Concrete_Tiles_D (AutoDXT)
+[2016.11.09-14.52.34:608][220]LogTexture:Display: Building textures: T_Concrete_Poured_N (BC5)
+[2
