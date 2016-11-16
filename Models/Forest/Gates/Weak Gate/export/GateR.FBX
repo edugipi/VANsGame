@@ -10,11 +10,11 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2016
 		Month: 11
-		Day: 15
-		Hour: 16
-		Minute: 24
-		Second: 29
-		Millisecond: 71
+		Day: 16
+		Hour: 18
+		Minute: 34
+		Second: 59
+		Millisecond: 566
 	}
 	Creator: "FBX SDK/FBX Plugins version 2016.0"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -36,13 +36,13 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "3ds Max"
 			P: "Original|ApplicationVersion", "KString", "", "", "2014"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "15/11/2016 15:24:29.070"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "16/11/2016 17:34:59.566"
 			P: "Original|FileName", "KString", "", "", "C:\Users\egimenez\Desktop\ENTI\VAN\VANsGame\Models\Forest\Gates\Weak Gate\export\GateR.FBX"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "3ds Max"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "2014"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "15/11/2016 15:24:29.070"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "16/11/2016 17:34:59.566"
 		}
 	}
 }
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 1600648768, "", "Scene" {
+	Document: 1050488672, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -226,7 +226,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 1756423520, "Geometry::", "Mesh" {
+	Geometry: 1687543872, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.0235294117647059,0.529411764705882,0.227450980392157
 		}
@@ -1315,7 +1315,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 1739814688, "Model::ExportFrameSmoothR", "Mesh" {
+	Model: 1686708160, "Model::ExportFrameSmoothR", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -1323,9 +1323,9 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-277.945129394531,104.298370361328,2.65381050109863
-			P: "Lcl Rotation", "Lcl Rotation", "", "A",90.0000093346674,-0,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",2.80781292915344,4.18995189666748,2.80781292915344
+			P: "Lcl Translation", "Lcl Translation", "", "A",-323.752075195313,121.608963012695,3.10275506973267
+			P: "Lcl Rotation", "Lcl Rotation", "", "A",90.000009334668,-0,0
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",3.26962780952454,4.87909412384033,3.26962780952454
 			P: "mr displacement use global settings", "Bool", "", "AU",1
 			P: "mr displacement view dependent", "Bool", "", "AU",1
 			P: "mr displacement method", "Integer", "", "AU",6,6,6
@@ -1338,13 +1338,13 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	AnimationStack: 1952507744, "AnimStack::Take 001", "" {
+	AnimationStack: 1686369936, "AnimStack::Take 001", "" {
 		Properties70:  {
 			P: "LocalStop", "KTime", "Time", "",153953860000
 			P: "ReferenceStop", "KTime", "Time", "",153953860000
 		}
 	}
-	AnimationLayer: 1757331184, "AnimLayer::BaseLayer", "" {
+	AnimationLayer: 1600697952, "AnimLayer::BaseLayer", "" {
 	}
 }
 
@@ -1354,13 +1354,13 @@ Objects:  {
 Connections:  {
 	
 	;Model::ExportFrameSmoothR, Model::RootNode
-	C: "OO",1739814688,0
+	C: "OO",1686708160,0
 	
 	;AnimLayer::BaseLayer, AnimStack::Take 001
-	C: "OO",1757331184,1952507744
+	C: "OO",1600697952,1686369936
 	
 	;Geometry::, Model::ExportFrameSmoothR
-	C: "OO",1756423520,1739814688
+	C: "OO",1687543872,1686708160
 }
 ;Takes section
 ;----------------------------------------------------
