@@ -1,0 +1,1351 @@
+﻿Log file open, 12/20/16 01:03:39
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(357442559) SRandInit(357442559).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.077148
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.20-00.03.39:684][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.20-00.03.39:684][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.20-00.03.39:709][  0]LogInit: Computer: MEDION-PC
+[2016.12.20-00.03.39:709][  0]LogInit: User: usuario
+[2016.12.20-00.03.39:710][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.12.20-00.03.39:710][  0]LogInit: High frequency timer resolution =3.411596 MHz
+[2016.12.20-00.03.39:711][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.12.20-00.03.39:711][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.20-00.03.39:711][  0]LogMemory: Process Physical Memory: 257.25 MB used, 257.25 MB peak
+[2016.12.20-00.03.39:711][  0]LogMemory: Process Virtual Memory: 259.78 MB used, 259.78 MB peak
+[2016.12.20-00.03.39:711][  0]LogMemory: Physical Memory: 5887.37 MB used, 16301.30 MB total
+[2016.12.20-00.03.39:711][  0]LogMemory: Virtual Memory: 607.44 MB used, 134217728.00 MB total
+[2016.12.20-00.03.39:767][  0]LogInit: Overriding culture en w/ editor configuration.
+[2016.12.20-00.03.42:324][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.20-00.03.42:963][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2016.12.20-00.03.42:963][  0]LogD3D11RHI:       4034/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.12.20-00.03.42:965][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.20-00.03.42:965][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.20-00.03.42:965][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.20-00.03.42:975][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.20-00.03.42:975][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.20-00.03.42:975][  0]LogWindows: EnumDisplayDevices:
+[2016.12.20-00.03.42:975][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2016.12.20-00.03.42:977][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:1)
+[2016.12.20-00.03.42:978][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2016.12.20-00.03.42:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2016.12.20-00.03.42:978][  0]LogD3D11RHI:   Driver Version: 368.39 (internal:10.18.13.6839, unified:368.39)
+[2016.12.20-00.03.42:978][  0]LogD3D11RHI:      Driver Date: 6-2-2016
+[2016.12.20-00.03.42:978][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.20-00.03.43:571][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.20-00.03.43:642][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.12.20-00.03.43:643][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/12212/).
+[2016.12.20-00.03.43:643][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usuario/AppData/Local/Temp/UnrealShaderWorkingDir/4765114D424CE9A8886E5EBE28F07BA2/'.
+[2016.12.20-00.03.43:644][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.20-00.03.46:441][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.20-00.03.46:454][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.20-00.03.46:467][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.20-00.03.46:480][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.20-00.03.46:493][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.20-00.03.46:514][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.20-00.03.46:523][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.20-00.03.46:533][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.20-00.03.46:543][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.20-00.03.46:553][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.20-00.03.46:562][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.20-00.03.46:586][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.20-00.03.46:586][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.20-00.03.46:587][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.20-00.03.46:621][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.20-00.03.46:629][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.20-00.03.46:640][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.20-00.03.46:649][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.20-00.03.46:659][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.20-00.03.46:679][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.20-00.03.46:679][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.20-00.03.46:798][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.20-00.03.46:931][  0]LogDerivedDataCache: Loaded boot cache 0.13s 62MB C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.20-00.03.46:931][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.20-00.03.46:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.20-00.03.46:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.20-00.03.46:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.20-00.03.46:932][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.20-00.03.46:954][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.20-00.03.46:967][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.20-00.03.47:288][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.20-00.03.47:291][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.20-00.03.47:427][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.20-00.03.47:427][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.20-00.03.47:427][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.20-00.03.47:539][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.20-00.03.48:166][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 4162402595
+[2016.12.20-00.03.48:217][  0]LogAssetRegistry: FAssetRegistry took 0.0222 seconds to start up
+[2016.12.20-00.03.48:257][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.035368 seconds
+[2016.12.20-00.03.48:266][  0]LogUObjectArray: 29780 objects as part of root set at end of initial load.
+[2016.12.20-00.03.48:266][  0]LogUObjectAllocator: 6126008 out of 0 bytes used by permanent object pool.
+[2016.12.20-00.03.48:266][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.20-00.03.48:280][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.20-00.03.49:176][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.20-00.03.49:176][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.20-00.04.07:820][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.20-00.04.07:847][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.20-00.04.08:492][  0]SourceControl: Info Source control is disabled
+[2016.12.20-00.04.08:494][  0]SourceControl: Info Source control is disabled
+[2016.12.20-00.04.08:509][  0]SourceControl: Info Source control is disabled
+[2016.12.20-00.04.08:523][  0]SourceControl: Info Source control is disabled
+[2016.12.20-00.04.09:299][  0]LogEngine: Initializing Engine...
+[2016.12.20-00.04.09:300][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.20-00.04.09:493][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.20-00.04.09:505][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.20-00.04.09:527][  0]LogInit: FAudioDevice initialized.
+[2016.12.20-00.04.09:599][  0]LogDerivedDataCache: Saved boot cache 0.07s 62MB C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.20-00.04.09:618][  0]LogInit: Texture streaming: Enabled
+[2016.12.20-00.04.09:733][  0]LogInit: Transaction tracking system initialized
+[2016.12.20-00.04.09:770][  0]BlueprintLog: New page: Editor Load
+[2016.12.20-00.04.09:962][  0]LocalizationService: Info Localization service is disabled
+[2016.12.20-00.04.10:151][  0]LogConsoleResponse:Display: 
+[2016.12.20-00.04.10:333][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.20-00.04.10:333][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.20-00.04.10:885][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.02s
+[2016.12.20-00.04.10:896][  0]SourceControl: Info Source control is disabled
+[2016.12.20-00.04.10:897][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.20-00.04.10:897][  0]LightingResults: New page: Lighting Build
+[2016.12.20-00.04.10:902][  0]MapCheck: New page: Map Check
+[2016.12.20-00.04.10:902][  0]LightingResults: New page: Lighting Build
+[2016.12.20-00.04.11:416][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.12.20-00.04.11:443][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.20-00.04.11:444][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.20-00.04.11:509][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 64.605ms to complete.
+[2016.12.20-00.04.11:509][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.613
+[2016.12.20-00.04.11:722][  0]LogCollectionManager: Loaded 0 collections in 0.002751 seconds
+[2016.12.20-00.04.11:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2016.12.20-00.04.11:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/usuario/Collections/' took 0.01s
+[2016.12.20-00.04.11:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2016.12.20-00.04.11:772][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.12.20-00.04.11:785][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2148 classes and 417 folders.
+[2016.12.20-00.04.11:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.20-00.04.11:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.20-00.04.11:792][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 12 classes and 0 folders.
+[2016.12.20-00.04.11:799][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.20-00.04.12:399][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.20-00.04.12:406][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.12.20-00.04.12:477][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.20-00.04.12:486][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.20-00.04.12:516][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.12.20-00.04.12:517][  0]LogLoad: (Engine Initialization) Total time: 34.40 seconds
+[2016.12.20-00.04.12:517][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.18 seconds
+[2016.12.20-00.04.12:517][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.20-00.04.12:517][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.20-00.04.12:857][  0]LogOcInput: OculusInput pre-init called
+[2016.12.20-00.04.12:877][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.12.20-00.04.13:069][  0]LogRenderer: Reallocating scene render targets to support 1116x664 (Frame:2).
+[2016.12.20-00.04.13:540][  2]LogAssetRegistry: Asset discovery search completed in 25.3459 seconds
+[2016.12.20-00.04.13:540][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.20-00.04.13:540][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2016.12.20-00.07.16:800][678]LogAIModule: Creating AISystem for world DarkForest
+[2016.12.20-00.07.16:844][678]Cmd: MAP LOAD FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.20-00.07.16:844][678]LightingResults: New page: Lighting Build
+[2016.12.20-00.07.16:845][678]LoadErrors: New page: Loading map: DarkForest.umap
+[2016.12.20-00.07.16:846][678]MapCheck: New page: Map Check
+[2016.12.20-00.07.16:846][678]LightingResults: New page: Lighting Build
+[2016.12.20-00.07.16:930][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.20-00.07.17:009][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.20-00.07.17:092][678]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 82.771ms to complete.
+[2016.12.20-00.07.17:092][678]LogFileHelpers: Loading map 'DarkForest' took 0.250
+[2016.12.20-00.07.20:456][989]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.20:613][989]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.20:626][989]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.07.20:653][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.07.24:919][ 72]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.20-00.07.24:920][ 72]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.07.24:920][ 72]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.07.49:210][333]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.49:236][333]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.49:243][333]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.07.54:969][592]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.54:974][592]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.07.57:764][718]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.07.57:769][718]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.07.57:801][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.08.00:884][854]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-00.08.00:885][854]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.08.00:885][854]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.08.09:337][ 95]LogMaterialEditor: Saving and Compiling material MoonMat
+[2016.12.20-00.08.10:216][ 95]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.08.10:223][ 95]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.08.10:254][ 95]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.08.10:272][ 95]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.08.10:282][ 95]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.08.12:526][ 95]LogSavePackage: Save=24.41ms
+[2016.12.20-00.08.12:526][ 95]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MoonMatA45656804D9B0C7EFA7FAE951C459A30.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/MoonMat.uasset'
+[2016.12.20-00.08.12:537][ 95]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/MoonMat.uasset
+[2016.12.20-00.08.12:544][ 95]MaterialEditorStats: Info Base pass shader without light map: 31 instructions
+[2016.12.20-00.08.12:544][ 95]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.08.12:545][ 95]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.08.15:445][274]LogActorFactory: Actor Factory created Moon
+[2016.12.20-00.08.17:077][418]LogActorFactory: Actor Factory created Moon
+[2016.12.20-00.08.38:388][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.10.59:578][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.11.27:820][874]LogEditorViewport: Clicking Background
+[2016.12.20-00.12.13:760][149]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2016.12.20-00.12.13:784][149]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2016.12.20-00.13.53:582][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.14.14:662][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.14.26:206][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.14.35:660][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.15.06:430][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.15.11:001][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.15.20:473][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.15.43:595][864]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.15.46:808][ 85]MapCheck: New page: Map Check
+[2016.12.20-00.15.46:823][ 85]LightingResults: New page: Lighting Build - Dec 20, 2016, 2:15:46 AM
+[2016.12.20-00.15.46:993][ 85]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-00.15.47:168][ 85]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-00.15.47:268][ 85]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-00.15.48:622][ 85]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-00.15.48:622][ 85]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-00.15.53:195][ 85]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-00.15.53:195][ 85]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-00.15.53:195][ 85]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-00.15.53:195][ 85]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-00.15.53:195][ 85]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-00.15.53:195][ 85]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-00.15.53:635][ 85]LogEditorBuildUtils: Build time 0:06
+[2016.12.20-00.15.53:642][ 85]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MoonMat, compiling. 
+[2016.12.20-00.15.53:648][ 85]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MoonMat, compiling. 
+[2016.12.20-00.15.57:627][199]Job is a success!
+[2016.12.20-00.15.57:712][200]LogMaterial:Warning: Material /Game/Elements/ForestElements/MoonMat.MoonMat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.20-00.15.57:714][200]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.15.57:721][200]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.12.20-00.15.57:763][200]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.12.20-00.15.57:834][200]Lightmass on MEDION-PC: 1.36 sec total, 285 ms importing, 27 ms setup, 408 ms photons, 600 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.29 sec total, 671 ms processing.
+[2016.12.20-00.15.57:898][200]LogStaticLightingSystem: Illumination: 11.0 sec (21 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2016.12.20-00.15.57:898][200]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.12.20-00.15.57:898][200]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.20-00.15.58:222][201]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-00.15.58:222][201]MapCheck: New page: DarkForest - Dec 20, 2016, 2:15:58 AM
+[2016.12.20-00.15.58:338][201]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 115.934ms to complete.
+[2016.12.20-00.16.06:147][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.20-00.16.06:147][727]PIE: New page: PIE session: DarkForest (Dec 20, 2016, 2:16:06 AM)
+[2016.12.20-00.16.06:147][727]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DarkForest
+[2016.12.20-00.16.06:151][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003760s)
+[2016.12.20-00.16.06:153][727]LogAIModule: Creating AISystem for world DarkForest
+[2016.12.20-00.16.06:153][727]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2016.12.20-00.16.06:154][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DarkForest.DarkForest to /Game/Levels/UEDPIE_0_DarkForest.DarkForest (0.006127s)
+[2016.12.20-00.16.06:195][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.20-00.16.06:217][727]LogInit: FAudioDevice initialized.
+[2016.12.20-00.16.06:277][727]LogWorld: Game class is 'GameMode'
+[2016.12.20-00.16.06:280][727]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DarkForest.DarkForest up for play (max tick rate 0) at 2016.12.20-01.16.06
+[2016.12.20-00.16.06:280][727]LogWorld: Bringing up level for play took: 0.002002
+[2016.12.20-00.16.06:303][727]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2016.12.20-00.16.06:303][727]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.20-00.16.06:303][727]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.20-00.16.06:303][727]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.20-00.16.06:319][727]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.20-00.16.06:319][727]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_DarkForest 0.905
+[2016.12.20-00.16.17:985][802]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.16.18:166][802]LogMaterial: Missing cached shader map for material MoonMat, compiling. 
+[2016.12.20-00.16.18:172][802]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.16.18:213][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.16.21:022][914]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-00.16.21:022][914]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.16.21:022][914]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.16.35:974][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.16.43:773][ 56]LogSavePackage: Save=34.35ms
+[2016.12.20-00.16.43:773][ 56]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForest091181724CA096E8F81CB393BDCA0636.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap'
+[2016.12.20-00.16.43:780][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap
+[2016.12.20-00.16.43:865][ 56]LogFileHelpers: Saving map 'DarkForest' took 0.277
+[2016.12.20-00.16.43:921][ 56]LogSavePackage: Save=4.69ms
+[2016.12.20-00.16.43:921][ 56]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MoonMatAC149836451E0661764D1EB8AEE35E6D.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/MoonMat.uasset'
+[2016.12.20-00.16.43:929][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/MoonMat.uasset
+[2016.12.20-00.16.48:588][336]LogMaterial:Warning: Material /Game/Elements/ForestElements/02_-_Default.02_-_Default needed to have new flag set bUsedWithStaticLighting !
+[2016.12.20-00.16.48:590][336]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2016.12.20-00.16.48:647][336]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.16.49:110][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.17.00:346][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.17.02:520][180]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.12.20-00.17.02:694][180]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.12.20-00.17.02:700][180]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.17.02:741][180]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.25.06:222][261]AssetReimport: New page: Outstanding source content changes 2:25:06 AM
+[2016.12.20-00.25.09:346][472]AssetReimport:Error: Error Failed to reimport asset Moon.
+[2016.12.20-00.26.44:155][820]LogSavePackage: Save=35.74ms
+[2016.12.20-00.26.44:155][820]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForest_Auto10F1A523346644A75A44C82BD3F12F976.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/DarkForest_Auto1.umap'
+[2016.12.20-00.26.44:159][820]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/DarkForest_Auto1.umap
+[2016.12.20-00.26.44:163][820]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DarkForest' took 0.193
+[2016.12.20-00.26.44:163][820]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2016.12.20-00.26.44:170][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/ForestElements/Moon] ([1] browsable assets)...
+[2016.12.20-00.26.44:190][820]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Elements/ForestElements/Moon.Moon]
+[2016.12.20-00.26.44:190][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/ForestElements/Moon]
+[2016.12.20-00.26.44:267][820]LogSavePackage: Save=19.22ms
+[2016.12.20-00.26.44:267][820]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon_Auto176987C8D425E7C74C02EFAB36997666F.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/ForestElements/Moon_Auto1.uasset'
+[2016.12.20-00.26.44:274][820]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/ForestElements/Moon_Auto1.uasset
+[2016.12.20-00.26.44:277][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/ForestElements/02_-_Default] ([1] browsable assets)...
+[2016.12.20-00.26.44:297][820]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Elements/ForestElements/02_-_Default.02_-_Default]
+[2016.12.20-00.26.44:297][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/ForestElements/02_-_Default]
+[2016.12.20-00.26.44:426][820]LogSavePackage: Save=31.01ms
+[2016.12.20-00.26.44:426][820]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/02_-_Default_Auto151F1AF854550379F07B1E88773F21559.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/ForestElements/02_-_Default_Auto1.uasset'
+[2016.12.20-00.26.44:429][820]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/ForestElements/02_-_Default_Auto1.uasset
+[2016.12.20-00.26.44:429][820]LogFileHelpers: Auto-saving content packages took 0.264
+[2016.12.20-00.28.14:527][ 91]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.29.40:830][159]Cmd: UpdateLandscapeSetup
+[2016.12.20-00.29.45:167][449]Cmd: UpdateLandscapeSetup
+[2016.12.20-00.30.03:144][639]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2016.12.20-00.31.59:552][521]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.32.01:518][639]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2016.12.20-00.36.45:286][347]LogSavePackage: Save=34.39ms
+[2016.12.20-00.36.45:286][347]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForest_Auto28DCA2BE9499DB0A82BF47CBB9BE5B188.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/DarkForest_Auto2.umap'
+[2016.12.20-00.36.45:288][347]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/DarkForest_Auto2.umap
+[2016.12.20-00.36.45:292][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DarkForest' took 0.120
+[2016.12.20-00.36.45:292][347]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.120
+[2016.12.20-00.49.41:635][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.56.06:858][233]AssetReimport: New page: Outstanding source content changes 2:56:06 AM
+[2016.12.20-00.56.06:859][233]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.FBX)
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.20-00.56.06:867][233]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.20-00.56.06:877][233]LogFbx: Loading FBX Scene from C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.FBX
+[2016.12.20-00.56.06:891][233]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.20-00.56.08:258][233]LogFbx: Loading FBX Scene from C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.FBX
+[2016.12.20-00.56.08:272][233]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.20-00.56.08:972][233]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2016.12.20-00.56.09:749][233]LogStaticMesh: Building static mesh Moon2...
+[2016.12.20-00.56.09:778][233]LogStaticMesh: Built static mesh [0.03s] /Game/Elements/ForestElements/Moon2.Moon2
+[2016.12.20-00.56.09:974][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elements/ForestElements/Moon2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset" SILENT=true
+[2016.12.20-00.56.09:996][234]LogSavePackage: Save=17.92ms
+[2016.12.20-00.56.09:996][234]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon28523EEB54855AF7307CE9E8CA5A2282B.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset'
+[2016.12.20-00.56.10:009][234]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset
+[2016.12.20-00.56.13:023][352]AssetReimport: Info Importing new asset /Game/Elements/ForestElements/Moon2.
+[2016.12.20-00.56.26:544][131]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.28:065][209]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.28:204][209]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.28:220][209]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.56.28:252][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.56.38:514][600]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.38:536][600]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.38:541][600]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.56.40:692][679]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2016.12.20-00.56.40:692][679]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.20-00.56.40:692][679]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.20-00.56.40:874][686]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.40:878][686]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.56.40:918][686]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-00.56.42:157][735]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-00.56.42:157][735]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.56.42:157][735]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.56.45:819][904]LogMaterialEditor: Saving and Compiling material Moon2Mat
+[2016.12.20-00.56.47:802][904]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.47:810][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.56.47:819][904]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.47:833][904]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.56.47:841][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.56.48:990][904]LogSavePackage: Save=17.84ms
+[2016.12.20-00.56.48:990][904]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat688DEC45438E3BF13351C680E66D934B.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-00.56.48:996][904]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-00.56.48:998][904]MaterialEditorStats: Info Base pass shader without light map: 31 instructions
+[2016.12.20-00.56.48:998][904]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-00.56.48:998][904]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-00.57.03:823][665]LogActorFactory: Actor Factory created Moon2
+[2016.12.20-00.57.04:859][735]LogActorFactory: Actor Factory created Moon2
+[2016.12.20-00.57.14:151][371]MapCheck: New page: Map Check
+[2016.12.20-00.57.14:165][371]LightingResults: New page: Lighting Build - Dec 20, 2016, 2:57:14 AM
+[2016.12.20-00.57.14:194][371]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-00.57.14:197][371]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-00.57.14:198][371]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-00.57.14:199][371]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-00.57.14:200][371]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-00.57.18:837][371]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-00.57.18:837][371]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-00.57.18:837][371]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-00.57.18:837][371]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-00.57.18:837][371]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-00.57.18:837][371]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-00.57.19:160][371]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-00.57.19:173][371]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2016.12.20-00.57.19:179][371]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2016.12.20-00.57.22:621][482]Job is a success!
+[2016.12.20-00.57.28:875][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.57.29:197][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.57.29:899][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.57.30:862][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.57.33:193][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.57.41:743][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.57.44:960][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.57.57:027][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.58.00:474][ 33]LogMaterial:Warning: Material /Game/Elements/ForestElements/Moon2Mat.Moon2Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.20-00.58.00:476][ 33]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-00.58.00:482][ 33]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.12.20-00.58.00:560][ 33]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.12.20-00.58.00:601][ 33]LogStaticLightingSystem: Illumination: 8.60 sec (54 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2016.12.20-00.58.00:601][ 33]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2016.12.20-00.58.00:601][ 33]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.12.20-00.58.00:882][ 34]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-00.58.00:882][ 34]MapCheck: New page: DarkForest - Dec 20, 2016, 2:58:00 AM
+[2016.12.20-00.58.01:016][ 34]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 133.561ms to complete.
+[2016.12.20-00.58.04:012][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.58.14:853][  8]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.58.16:160][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.58.26:378][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.58.28:540][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.58.29:111][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.58.30:459][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2016.12.20-00.58.31:281][141]Cmd: DELETE
+[2016.12.20-00.58.31:281][141]Cmd: ACTOR DELETE
+[2016.12.20-00.58.31:282][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.20-00.58.31:307][141]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2016.12.20-00.58.32:674][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.59.23:096][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.59.24:326][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-00.59.32:772][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-00.59.49:911][491]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2016.12.20-00.59.49:912][491]LogMaterial:Warning: Failed to compile Material /Game/Elements/ForestElements/02_-_Default.02_-_Default for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.20-00.59.49:912][491]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.12.20-00.59.49:920][491]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2016.12.20-00.59.49:920][491]LogMaterial:Warning: Failed to compile Material /Game/Elements/ForestElements/02_-_Default.02_-_Default for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.20-00.59.49:920][491]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.12.20-00.59.56:202][661]LogSavePackage: Save=31.95ms
+[2016.12.20-00.59.56:202][661]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForestE2F0E67747E0AAB885C4FD83783559AB.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap'
+[2016.12.20-00.59.56:210][661]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap
+[2016.12.20-00.59.56:340][661]LogFileHelpers: Saving map 'DarkForest' took 0.317
+[2016.12.20-00.59.56:453][661]LogSavePackage: Save=17.62ms
+[2016.12.20-00.59.56:453][661]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/02_-_Default22B57E404DA981EDE4C0F5B4BEE71E92.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/02_-_Default.uasset'
+[2016.12.20-00.59.56:462][661]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/02_-_Default.uasset
+[2016.12.20-00.59.56:502][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elements/ForestElements/Moon2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset" SILENT=true
+[2016.12.20-00.59.56:576][661]LogSavePackage: Save=17.29ms
+[2016.12.20-00.59.56:576][661]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2FEC5A0A04384BDC0CF851FAC260C3946.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset'
+[2016.12.20-00.59.56:584][661]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset
+[2016.12.20-00.59.56:594][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elements/ForestElements/moon3" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/moon3.uasset" SILENT=true
+[2016.12.20-00.59.56:866][661]LogSavePackage: Save=268.78ms
+[2016.12.20-00.59.56:866][661]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/moon35603BCEB4D28EBE72033BAB3A794B723.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/moon3.uasset'
+[2016.12.20-00.59.56:873][661]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/moon3.uasset
+[2016.12.20-00.59.56:930][661]LogSavePackage: Save=4.82ms
+[2016.12.20-00.59.56:930][661]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat8140B08642828AD31C7A1D9C4C130021.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-00.59.56:938][661]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-00.59.59:362][805]MapCheck: New page: Map Check
+[2016.12.20-00.59.59:377][805]LightingResults: New page: Lighting Build - Dec 20, 2016, 2:59:59 AM
+[2016.12.20-00.59.59:401][805]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-00.59.59:405][805]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-00.59.59:405][805]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-00.59.59:406][805]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-00.59.59:406][805]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.00.03:930][805]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.00.03:930][805]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.00.03:930][805]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.00.03:930][805]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.00.03:930][805]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.00.03:930][805]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.00.04:149][805]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.00.04:158][805]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moon2Mat, compiling. 
+[2016.12.20-01.00.04:163][805]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moon2Mat, compiling. 
+[2016.12.20-01.00.19:526][363]Job is a success!
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.12.20-01.00.23:904][376]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.12.20-01.00.23:938][376]Lightmass on MEDION-PC: 17.6 sec total, 256 ms importing, 20 ms setup, 12.4 sec photons, 4.86 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 19.4 sec total, 418 ms processing.
+[2016.12.20-01.00.23:938][376]LogStaticLightingSystem: Illumination: 20.2 sec (23 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2016.12.20-01.00.23:938][376]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.12.20-01.00.23:938][376]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.20-01.00.24:953][377]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-01.00.24:954][377]MapCheck: New page: DarkForest - Dec 20, 2016, 3:00:24 AM
+[2016.12.20-01.00.25:029][377]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 74.97ms to complete.
+[2016.12.20-01.00.31:354][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.00.35:992][ 91]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.36:135][ 91]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.36:140][ 91]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.00.36:169][ 91]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.00.39:078][201]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-01.00.39:078][201]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.00.39:078][201]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.00.46:795][559]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.46:816][559]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.46:820][559]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.00.48:487][624]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-01.00.48:487][624]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.00.48:487][624]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.00.50:722][727]LogMaterialEditor: Saving and Compiling material Moon2Mat
+[2016.12.20-01.00.51:494][727]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.51:502][727]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.00.51:536][727]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.51:578][727]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.00.51:600][727]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.00.54:924][727]LogSavePackage: Save=19.68ms
+[2016.12.20-01.00.54:924][727]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat37AC6E65480BBD536479D2B363DFF52E.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-01.00.54:932][727]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-01.00.54:935][727]MaterialEditorStats: Info Base pass shader without light map: 31 instructions
+[2016.12.20-01.00.54:935][727]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.00.54:935][727]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.20-01.00.56:229][783]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.00.57:123][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.01.02:512][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.02.01:246][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.02.04:417][800]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.04:549][800]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.04:555][800]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.04:586][800]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.02.07:039][884]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.07:062][884]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.07:068][884]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.09:031][954]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-01.02.09:031][954]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.02.09:031][954]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.02.11:118][ 55]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.11:122][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.12:113][ 96]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-01.02.12:113][ 96]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.02.12:113][ 96]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.02.13:467][148]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.13:471][148]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.14:577][193]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2016.12.20-01.02.14:577][193]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.20-01.02.14:577][193]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.20-01.02.15:057][216]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.15:061][216]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.15:090][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.02.16:469][272]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2016.12.20-01.02.16:469][272]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.20-01.02.16:469][272]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.20-01.02.29:226][874]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.29:278][874]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.29:298][874]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.37:912][215]MaterialEditorStats: Info Base pass shader with static lighting: 49 instructions
+[2016.12.20-01.02.37:912][215]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.20-01.02.37:912][215]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.02.37:912][215]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.20-01.02.40:090][315]LogMaterialEditor: Saving and Compiling material Moon2Mat
+[2016.12.20-01.02.40:939][315]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2016.12.20-01.02.40:968][315]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.40:978][315]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.02.41:027][315]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.02.41:062][315]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.46:463][315]LogSavePackage: Save=18.52ms
+[2016.12.20-01.02.46:463][315]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2MatC4CC3B134B402A4DF9FB2995467274A6.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-01.02.46:471][315]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-01.02.46:475][315]MaterialEditorStats: Info Base pass shader with static lighting: 86 instructions
+[2016.12.20-01.02.46:475][315]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2016.12.20-01.02.46:475][315]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.02.46:475][315]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.20-01.02.55:227][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.02.56:662][909]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.02.56:824][909]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.02.56:843][909]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.02.56:871][909]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.03.04:447][188]MaterialEditorStats: Info Base pass shader with static lighting: 49 instructions
+[2016.12.20-01.03.04:447][188]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.20-01.03.04:447][188]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.03.04:447][188]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.20-01.03.07:170][302]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.03.07:189][302]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.03.07:194][302]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.03.08:804][362]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2016.12.20-01.03.08:804][362]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.20-01.03.08:804][362]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.20-01.03.09:769][404]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.03.09:774][404]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.03.09:802][404]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.03.10:876][446]MaterialEditorStats: Info Base pass shader without light map: 10 instructions
+[2016.12.20-01.03.10:876][446]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.03.10:876][446]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.03.36:039][605]LogMaterialEditor: Saving and Compiling material Moon2Mat
+[2016.12.20-01.03.36:895][605]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.20-01.03.36:901][605]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.03.36:908][605]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.03.36:920][605]LogMaterial: Missing cached shader map for material Moon2Mat, compiling. 
+[2016.12.20-01.03.36:928][605]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.03.38:426][605]LogSavePackage: Save=17.76ms
+[2016.12.20-01.03.38:426][605]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat056EEB8142DBC01874D942882797D529.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-01.03.38:433][605]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-01.03.38:439][605]MaterialEditorStats: Info Base pass shader without light map: 31 instructions
+[2016.12.20-01.03.38:439][605]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.20-01.03.38:439][605]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.20-01.04.05:411][710]LogSavePackage: Save=18.15ms
+[2016.12.20-01.04.05:411][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/02_-_DefaultA3E9AD114FD823991B1852BD6BD9D978.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/02_-_Default.uasset'
+[2016.12.20-01.04.05:419][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/02_-_Default.uasset
+[2016.12.20-01.04.05:458][710]LogSavePackage: Save=16.19ms
+[2016.12.20-01.04.05:458][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2589923874B9D25C033596FB344329E96.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/Moon2.uasset'
+[2016.12.20-01.04.05:466][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/Moon2.uasset
+[2016.12.20-01.04.05:467][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elements/ForestElements/Moon2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset" SILENT=true
+[2016.12.20-01.04.05:513][710]LogSavePackage: Save=2.78ms
+[2016.12.20-01.04.05:514][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon21E5254F34C58BA1982F3529387F21AC3.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset'
+[2016.12.20-01.04.05:523][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2.uasset
+[2016.12.20-01.04.05:565][710]LogSavePackage: Save=18.02ms
+[2016.12.20-01.04.05:565][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat64932AB6477D5489F1AE359B83BB81EC.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/Moon2Mat.uasset'
+[2016.12.20-01.04.05:573][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/Moon2Mat.uasset
+[2016.12.20-01.04.05:629][710]LogSavePackage: Save=2.73ms
+[2016.12.20-01.04.05:629][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Moon2Mat3913337F411A836C46132896230F2208.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset'
+[2016.12.20-01.04.05:638][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon2Mat.uasset
+[2016.12.20-01.04.05:765][710]LogSavePackage: Save=113.75ms
+[2016.12.20-01.04.05:765][710]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/moon3BF0E96784400994FE06D69A3D77BB68C.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/moon3.uasset'
+[2016.12.20-01.04.05:775][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/moon3.uasset
+[2016.12.20-01.04.48:413][550]Cmd: SELECT NONE
+[2016.12.20-01.05.50:603][191]AssetReimport: New page: Outstanding source content changes 3:05:50 AM
+[2016.12.20-01.05.50:604][191]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon.jpg)
+[2016.12.20-01.05.51:003][192]LogSavePackage: Save=37.90ms
+[2016.12.20-01.05.51:003][192]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atmosphericMoon524AD3B740A0221B68B451A594D1DF55.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon.uasset'
+[2016.12.20-01.05.51:009][192]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon.uasset
+[2016.12.20-01.05.54:023][350]AssetReimport: Info Importing new asset /Game/Elements/ForestElements/Moon/atmosphericMoon.
+[2016.12.20-01.06.35:541][950]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.06.38:400][ 74]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.06.38:499][ 74]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.06.38:518][ 74]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.06.38:550][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.07.09:515][137]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.07.09:564][137]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.07.09:589][137]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.07.15:848][351]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.07.15:873][351]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.07.23:853][628]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.07.23:879][628]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.07.52:864][679]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.07.52:887][679]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.07.52:888][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.12.20-01.08.00:145][933]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.00:168][933]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.00:199][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.12.20-01.08.01:779][986]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.01:803][986]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.01:836][986]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.12.20-01.08.05:219][102]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.05:244][102]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.05:278][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.12.20-01.08.07:288][175]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.07:323][175]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.07:354][175]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.08.12:181][314]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.12:206][314]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.15:530][435]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.15:556][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.15:590][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.20-01.08.26:845][794]LogMaterialEditor: Applying material atmosphericMoon_Mat
+[2016.12.20-01.08.27:903][794]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.27:946][794]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.27:957][794]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.27:996][794]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.08.28:026][794]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.08.30:332][886]LogMaterialEditor: Saving and Compiling material atmosphericMoon_Mat
+[2016.12.20-01.08.37:384][886]LogSavePackage: Save=14.02ms
+[2016.12.20-01.08.37:384][886]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atmosphericMoon_Mat1C2318A74A52EF59738DB1B11C749155.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon_Mat.uasset'
+[2016.12.20-01.08.37:392][886]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon_Mat.uasset
+[2016.12.20-01.08.37:398][886]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 52 instructions
+[2016.12.20-01.08.37:398][886]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 88 instructions
+[2016.12.20-01.08.37:398][886]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.12.20-01.08.37:398][886]MaterialEditorStats: Info Texture samplers: 5/16
+[2016.12.20-01.09.03:618][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.10.43:492][213]LogActorFactory: Actor Factory created Shape_Plane
+[2016.12.20-01.10.45:627][356]LogActorFactory: Actor Factory created Shape_Plane
+[2016.12.20-01.11.22:916][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.11.42:441][845]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.11.43:419][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.11.44:211][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.11.53:781][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.12.11:204][805]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.12.12:315][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.12.52:613][392]LogEditorViewport: Clicking Background
+[2016.12.20-01.12.56:541][679]MapCheck: New page: Map Check
+[2016.12.20-01.12.56:563][679]LightingResults: New page: Lighting Build - Dec 20, 2016, 3:12:56 AM
+[2016.12.20-01.12.56:590][679]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-01.12.56:594][679]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-01.12.56:594][679]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-01.12.56:596][679]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-01.12.56:596][679]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.13.01:114][679]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.13.01:114][679]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.13.01:114][679]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.13.01:114][679]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.13.01:114][679]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.13.01:114][679]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.13.01:344][679]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.13.01:351][679]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moon2Mat, compiling. 
+[2016.12.20-01.13.01:356][679]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moon2Mat, compiling. 
+[2016.12.20-01.13.01:375][680]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.13.01:383][680]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.13.05:555][829]Job is a success!
+[2016.12.20-01.13.35:140][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.13.54:940][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.03:268][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.43:785][817]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.44:840][887]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.47:787][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.57:305][763]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.14.59:238][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.15.20:285][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.15.45:793][212]MapCheck: New page: Map Check
+[2016.12.20-01.15.45:854][212]LogEditorBuildUtils: Build time 0:00
+[2016.12.20-01.18.55:545][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.20.17:254][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.20.20:909][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.20.23:038][839]MapCheck: New page: Map Check
+[2016.12.20-01.20.23:091][839]LogEditorBuildUtils: Build time 0:00
+[2016.12.20-01.20.30:750][303]MapCheck: New page: Map Check
+[2016.12.20-01.20.30:769][303]LightingResults: New page: Lighting Build - Dec 20, 2016, 3:20:30 AM
+[2016.12.20-01.20.30:797][303]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-01.20.30:802][303]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-01.20.30:802][303]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-01.20.30:803][303]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-01.20.30:803][303]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.20.35:323][303]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.20.35:324][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.20.35:324][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.20.35:324][303]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.20.35:324][303]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.20.35:324][303]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.20.35:566][303]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.20.52:479][ 44]Job is a success!
+[2016.12.20-01.20.57:053][230]LogMaterial:Warning: Material /Game/Elements/ForestElements/Moon/atmosphericMoon_Mat.atmosphericMoon_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.20-01.20.57:057][230]LogMaterial: Missing cached shader map for material atmosphericMoon_Mat, compiling. 
+[2016.12.20-01.20.57:102][230]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2016.12.20-01.20.57:154][230]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2016.12.20-01.20.57:220][230]LogStaticLightingSystem: Illumination: 21.9 sec (27 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2016.12.20-01.20.57:220][230]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2016.12.20-01.20.57:220][230]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.12.20-01.20.57:360][231]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-01.20.57:360][231]MapCheck: New page: DarkForest - Dec 20, 2016, 3:20:57 AM
+[2016.12.20-01.20.57:495][231]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 135.763ms to complete.
+[2016.12.20-01.21.06:532][712]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.21.07:073][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon2)
+[2016.12.20-01.21.07:866][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.21.10:323][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.22.00:351][342]LogEditorViewport: Clicking Background
+[2016.12.20-01.22.00:860][376]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.22.03:898][540]MapCheck: New page: Map Check
+[2016.12.20-01.22.03:917][540]LightingResults: New page: Lighting Build - Dec 20, 2016, 3:22:03 AM
+[2016.12.20-01.22.03:942][540]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-01.22.03:947][540]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-01.22.03:947][540]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-01.22.03:949][540]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-01.22.03:949][540]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.22.08:461][540]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.22.08:461][540]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.22.08:461][540]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.22.08:461][540]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.22.08:461][540]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.22.08:461][540]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.22.08:669][540]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.22.39:833][848]Job is a success!
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2016.12.20-01.22.48:484][ 61]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2016.12.20-01.22.48:518][ 61]Lightmass on MEDION-PC: 38.5 sec total, 268 ms importing, 25 ms setup, 29.1 sec photons, 9.08 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 36.2 sec total, 574 ms processing.
+[2016.12.20-01.22.48:519][ 61]LogStaticLightingSystem: Illumination: 36.0 sec (25 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2016.12.20-01.22.48:519][ 61]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2016.12.20-01.22.48:519][ 61]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.12.20-01.22.49:507][ 62]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-01.22.49:508][ 62]MapCheck: New page: DarkForest - Dec 20, 2016, 3:22:49 AM
+[2016.12.20-01.22.49:590][ 62]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 82.837ms to complete.
+[2016.12.20-01.23.43:363][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.24.18:145][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.24.24:290][100]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2016.12.20-01.24.58:916][652]LogStaticMesh: Building static mesh VAN_Size...
+[2016.12.20-01.24.58:923][652]LogStaticMesh: Built static mesh [0.01s] /Game/Models/VAN_Size.VAN_Size
+[2016.12.20-01.24.59:030][657]LogActorFactory: Actor Factory created VAN_Size
+[2016.12.20-01.24.59:667][702]LogActorFactory: Actor Factory created VAN_Size
+[2016.12.20-01.25.11:784][574]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2016.12.20-01.25.11:811][574]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2016.12.20-01.25.21:995][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VAN_Size)
+[2016.12.20-01.25.23:609][428]Cmd: DELETE
+[2016.12.20-01.25.23:609][428]Cmd: ACTOR DELETE
+[2016.12.20-01.25.23:610][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.20-01.25.23:634][428]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2016.12.20-01.25.24:975][541]LogTexture:Display: Building textures: Texture2D_3 (G8)
+[2016.12.20-01.25.49:651][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:651][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:652][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:652][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:652][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:653][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:653][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:653][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:654][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:654][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:654][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:655][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:655][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:655][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:656][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:656][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:657][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:657][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:658][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:658][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:659][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:659][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:660][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:660][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:660][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:661][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:661][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:662][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:662][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:662][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:663][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:663][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:663][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:664][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:664][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:665][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:665][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:665][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:666][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:666][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:667][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:667][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:667][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:668][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:669][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:669][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:670][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:670][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:671][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:671][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:672][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:672][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:673][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:673][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:673][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:674][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:674][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:674][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:675][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:675][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:676][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:676][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:676][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:677][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.25.49:738][435]LogTexture:Display: Building textures: Texture2D_0 (BGRA8)
+[2016.12.20-01.25.57:154][993]LogActorFactory: Actor Factory created VAN_Size
+[2016.12.20-01.25.59:193][154]LogActorFactory: Actor Factory created VAN_Size
+[2016.12.20-01.26.12:833][ 72]MapCheck: New page: Map Check
+[2016.12.20-01.26.12:851][ 72]LightingResults: New page: Lighting Build - Dec 20, 2016, 3:26:12 AM
+[2016.12.20-01.26.13:042][ 72]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-01.26.13:046][ 72]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-01.26.13:047][ 72]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-01.26.13:048][ 72]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-01.26.13:048][ 72]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.26.17:566][ 72]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.26.17:567][ 72]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.26.17:567][ 72]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.26.17:567][ 72]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.26.17:567][ 72]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.26.17:567][ 72]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.26.17:815][ 72]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.26.49:400][907]Job is a success!
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.12.20-01.26.57:929][432]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.12.20-01.26.58:182][432]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8)
+[2016.12.20-01.26.58:182][432]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2016.12.20-01.26.58:182][432]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8)
+[2016.12.20-01.26.58:182][432]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2016.12.20-01.26.58:219][432]Lightmass on MEDION-PC: 34.3 sec total, 661 ms importing, 1.10 sec setup, 3.02 sec photons, 29.5 sec processing, 0 ms extra exporting [68/68 mappings]. Threads: 1:58 min total, 58.9 sec processing.
+[2016.12.20-01.26.58:222][432]LogStaticLightingSystem: Illumination: 37.9 sec (1.04 sec encoding lightmaps, 235 ms encoding shadowmaps)
+[2016.12.20-01.26.58:222][432]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.12.20-01.26.58:222][432]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.12.20-01.26.58:630][433]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-01.26.58:630][433]MapCheck: New page: DarkForest - Dec 20, 2016, 3:26:58 AM
+[2016.12.20-01.26.58:725][433]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 95.057ms to complete.
+[2016.12.20-01.27.47:120][334]Cmd: TRANSACTION UNDO
+[2016.12.20-01.27.47:120][334]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2016.12.20-01.27.47:123][334]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.20-01.28.21:421][281]LogSavePackage: Save=1019.59ms
+[2016.12.20-01.28.21:422][281]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForest0F35590A47F85D79593F9AAE61815874.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap'
+[2016.12.20-01.28.21:431][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap
+[2016.12.20-01.28.21:524][281]LogFileHelpers: Saving map 'DarkForest' took 1.286
+[2016.12.20-01.28.21:592][281]LogSavePackage: Save=7.29ms
+[2016.12.20-01.28.21:592][281]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atmosphericMoon_Mat3380B26D4EAF766933D89D9DD55C4794.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon_Mat.uasset'
+[2016.12.20-01.28.21:600][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/ForestElements/Moon/atmosphericMoon_Mat.uasset
+[2016.12.20-01.29.05:049][476]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.29.05:686][517]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2016.12.20-01.29.24:145][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.29.46:903][770]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.29.50:846][ 38]MapCheck: New page: Map Check
+[2016.12.20-01.29.50:859][ 38]LightingResults: New page: Lighting Build - Dec 20, 2016, 3:29:50 AM
+[2016.12.20-01.29.51:010][ 38]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.20-01.29.51:015][ 38]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.20-01.29.51:015][ 38]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.20-01.29.51:017][ 38]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.20-01.29.51:017][ 38]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2016.12.20-01.29.55:537][ 38]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.12.20-01.29.55:538][ 38]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.20-01.29.55:538][ 38]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.20-01.29.55:538][ 38]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.20-01.29.55:538][ 38]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.20-01.29.55:538][ 38]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.20-01.29.55:831][ 38]LogEditorBuildUtils: Build time 0:04
+[2016.12.20-01.30.14:704][902]Job is a success!
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: SkyOcclusion1_4 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2016.12.20-01.30.26:579][621]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2016.12.20-01.30.26:818][621]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8)
+[2016.12.20-01.30.26:818][621]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2016.12.20-01.30.26:818][621]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8)
+[2016.12.20-01.30.26:818][621]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (G8)
+[2016.12.20-01.30.26:853][621]Lightmass on MEDION-PC: 29.6 sec total, 500 ms importing, 973 ms setup, 1.19 sec photons, 26.9 sec processing, 0 ms extra exporting [68/68 mappings]. Threads: 1:47 min total, 42.4 sec processing.
+[2016.12.20-01.30.26:860][621]LogStaticLightingSystem: Illumination: 25.2 sec (1.00 sec encoding lightmaps, 226 ms encoding shadowmaps)
+[2016.12.20-01.30.26:860][621]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.12.20-01.30.26:860][621]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.12.20-01.30.27:585][622]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.20-01.30.27:586][622]MapCheck: New page: DarkForest - Dec 20, 2016, 3:30:27 AM
+[2016.12.20-01.30.27:715][622]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 129.716ms to complete.
+[2016.12.20-01.30.42:017][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.30.54:310][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.30.56:735][563]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.30.56:846][566]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2016.12.20-01.30.58:621][687]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2016.12.20-01.30.59:037][711]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2016.12.20-01.30.59:142][714]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.30.59:766][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.30.59:905][760]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2016.12.20-01.31.00:373][790]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2016.12.20-01.31.00:484][793]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.31.02:023][897]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.31.09:211][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.12.20-01.34.54:568][ 49]LogSavePackage: Save=458.80ms
+[2016.12.20-01.34.54:569][ 49]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/DarkForest4C29911D49365C85D6A4CCB6E52A125F.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap'
+[2016.12.20-01.34.54:577][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/DarkForest.umap
+[2016.12.20-01.34.54:673][ 49]LogFileHelpers: Saving map 'DarkForest' took 0.726
+[2016.12.20-01.34.55:836][ 96]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.20-01.34.56:233][ 97]Cmd: QUIT_EDITOR
+[2016.12.20-01.34.57:385][ 97]LogExit: Preparing to exit.
+[2016.12.20-01.34.58:184][ 97]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2016.12.20-01.34.58:212][ 97]LogExit: Editor shut down
+[2016.12.20-01.34.58:212][ 97]LogExit: Transaction tracking system shut down
+[2016.12.20-01.34.58:442][ 97]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.20-01.34.58:442][ 97]LogExit: Object subsystem successfully closed.
+[2016.12.20-01.34.58:496][ 97]LogD3D11RHI: Shutdown
+[2016.12.20-01.34.58:496][ 97]LogD3D11RHI: CleanupD3DDevice
+[2016.12.20-01.34.58:677][ 97]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (236)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module MaterialEditor (235)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (234)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module CrashTracker (233)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module SceneOutliner (232)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module WidgetCarousel (231)
+[2016.12.20-01.34.58:699][ 97]LogModuleManager: Shutting down and abandoning module AddContentDialog (230)
+[2016.12.20-01.34.58:699][ 97]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module GameplayTags (229)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module EditorWidgets (228)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module CollectionManager (227)
+[2016.12.20-01.34.58:702][ 97]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' was aborted.
+[2016.12.20-01.34.58:702][ 97]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/usuario/Collections/' was aborted.
+[2016.12.20-01.34.58:702][ 97]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' was aborted.
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module StatsViewer (226)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module FoliageEdit (225)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module LandscapeEditor (224)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (223)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module ActorPickerMode (222)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module GeometryMode (221)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module TextureAlignMode (220)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module BspMode (219)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module HardwareSurvey (218)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (217)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module SequenceRecorder (216)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module AutomationWorker (215)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (214)
+[2016.12.20-01.34.58:702][ 97]LogModuleManager: Shutting down and abandoning module PlacementMode (213)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (212)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (211)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (210)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (209)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (208)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module Media (207)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (206)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (205)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module CharacterAI (204)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module SmartSnapping (203)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module SessionServices (202)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module ViewportSnapping (201)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module ViewportInteraction (200)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module LogVisualizer (199)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (198)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module IntroTutorials (197)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (196)
+[2016.12.20-01.34.58:704][ 97]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (195)
+[2016.12.20-01.34.58:705][ 97]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (194)
+[2016.12.20-01.34.58:705][ 97]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (193)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (192)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (191)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (190)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module NiagaraEditor (189)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module MergeActors (188)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module SizeMap (187)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module TreeMap (186)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module ReferenceViewer (185)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module LocalizationService (184)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (183)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module HardwareTargeting (182)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (181)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module UndoHistory (180)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module UserFeedback (179)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module XmlParser (178)
+[2016.12.20-01.34.59:651][ 97]LogModuleManager: Shutting down and abandoning module Blutility (177)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (176)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (175)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module InputBindingEditor (174)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (173)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module SettingsEditor (172)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module ProjectLauncher (171)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module SessionFrontend (170)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module ProfilerClient (169)
+[2016.12.20-01.34.59:652][ 97]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (168)
+[2016.12.20-01.34.59:653][ 97]LogModuleManager: Shutting down and abandoning module DeviceManager (167)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module AutomationController (166)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module AutomationWindow (165)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module Layers (164)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (163)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module DetailCustomizations (162)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module PackagesDialog (161)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module AnimGraph (160)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module Persona (159)
+[2016.12.20-01.34.59:700][ 97]LogModuleManager: Shutting down and abandoning module Kismet (158)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module GraphEditor (157)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module ClassViewer (156)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module Toolbox (155)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module ModuleUI (154)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module MovieSceneTools (153)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module OutputLog (152)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module GammaUI (151)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module Documentation (150)
+[2016.12.20-01.34.59:701][ 97]LogModuleManager: Shutting down and abandoning module Niagara (149)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (148)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module AnalyticsET (147)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module PortalServices (146)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module PortalRpc (145)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module MessagingRpc (144)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module GameplayDebugger (143)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module AITestSuite (142)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module AIModule (141)
+[2016.12.20-01.34.59:702][ 97]LogModuleManager: Shutting down and abandoning module ProfilerService (140)
+[2016.12.20-01.34.59:854][ 97]LogModuleManager: Shutting down and abandoning module TaskGraph (139)
+[2016.12.20-01.34.59:854][ 97]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2016.12.20-01.34.59:854][ 97]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2016.12.20-01.34.59:855][ 97]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2016.12.20-01.34.59:856][ 97]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2016.12.20-01.34.59:857][ 97]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2016.12.20-01.34.59:857][ 97]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2016.12.20-01.34.59:857][ 97]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2016.12.20-01.34.59:857][ 97]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2016.12.20-01.34.59:857][ 97]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2016.12.20-01.34.59:858][ 97]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2016.12.20-01.34.59:880][ 97]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2016.12.20-01.34.59:883][ 97]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2016.12.20-01.34.59:884][ 97]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2016.12.20-01.34.59:884][ 97]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2016.12.20-01.34.59:885][ 97]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2016.12.20-01.34.59:886][ 97]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2016.12.20-01.34.59:886][ 97]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.12.20-01.34.59:990][ 97]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (95)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module Paper2D (94)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (93)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module WmfMedia (92)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module MediaAssets (91)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (90)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (89)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (88)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.12.20-01.35.00:091][ 97]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.12.20-01.35.00:095][ 97]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.12.20-01.35.00:095][ 97]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.20-01.35.00:095][ 97]LogDirectoryWatcher: A directory notification for '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2016.12.20-01.35.00:095][ 97]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.20-01.35.00:096][ 97]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.12.20-01.35.00:226][ 97]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.12.20-01.35.00:226][ 97]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.12.20-01.35.00:226][ 97]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.12.20-01.35.00:226][ 97]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.12.20-01.35.00:312][ 97]LogDerivedDataCache: Shutdown
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.12.20-01.35.00:312][ 97]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.12.20-01.35.00:313][ 97]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.20-01.35.00:313][ 97]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.20-01.35.00:313][ 97]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.20-01.35.00:313][ 97]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35A2277C-4828-25B4-C42D-BCB11317D9F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=b8dd728f40baa09a39d29fb1ea98e9bb%7C2b96ea3f579d47e6bbc473ce50562fcb%7C7c014019-e1ce-47fc-909f-e82437c4a38e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.20-01.35.00:342][ 97]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.20-01.35.00:342][ 97]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.20-01.35.00:343][ 97]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.20-01.35.00:343][ 97]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.20-01.35.00:343][ 97]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.20-01.35.00:346][ 97]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.20-01.35.00:348][ 97]LogExit: Exiting.
+[2016.12.20-01.35.00:386][ 97]Log file closed, 12/20/16 02:35:00
