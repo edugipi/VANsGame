@@ -1,0 +1,1571 @@
+﻿Log file open, 01/10/17 12:41:52
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1717543266) SRandInit(-1717543266).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 2.512060
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.10-11.41.52:680][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.10-11.41.52:680][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.10-11.41.52:703][  0]LogInit: Computer: MEDION-PC
+[2017.01.10-11.41.52:703][  0]LogInit: User: usuario
+[2017.01.10-11.41.52:703][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.10-11.41.52:703][  0]LogInit: High frequency timer resolution =3.411597 MHz
+[2017.01.10-11.41.52:703][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.01.10-11.41.52:703][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.10-11.41.52:703][  0]LogMemory: Process Physical Memory: 256.67 MB used, 256.67 MB peak
+[2017.01.10-11.41.52:703][  0]LogMemory: Process Virtual Memory: 259.78 MB used, 259.78 MB peak
+[2017.01.10-11.41.52:703][  0]LogMemory: Physical Memory: 3270.12 MB used, 16301.30 MB total
+[2017.01.10-11.41.52:703][  0]LogMemory: Virtual Memory: 607.44 MB used, 134217728.00 MB total
+[2017.01.10-11.41.52:848][  0]LogInit: Overriding culture en w/ editor configuration.
+[2017.01.10-11.41.55:609][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.10-11.41.56:781][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2017.01.10-11.41.56:781][  0]LogD3D11RHI:       4034/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.10-11.41.56:784][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.10-11.41.56:784][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.10-11.41.56:784][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.10-11.41.56:795][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.10-11.41.56:795][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.10-11.41.56:795][  0]LogWindows: EnumDisplayDevices:
+[2017.01.10-11.41.56:795][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2017.01.10-11.41.56:795][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:1)
+[2017.01.10-11.41.56:796][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.01.10-11.41.56:796][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2017.01.10-11.41.56:796][  0]LogD3D11RHI:   Driver Version: 368.39 (internal:10.18.13.6839, unified:368.39)
+[2017.01.10-11.41.56:796][  0]LogD3D11RHI:      Driver Date: 6-2-2016
+[2017.01.10-11.41.56:796][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.10-11.41.57:818][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.10-11.41.58:046][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.10-11.41.58:048][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/11748/).
+[2017.01.10-11.41.58:049][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usuario/AppData/Local/Temp/UnrealShaderWorkingDir/0565761E408C12F89430A3A5ED63DD8F/'.
+[2017.01.10-11.41.58:049][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.10-11.42.02:623][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.10-11.42.02:645][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.10-11.42.02:664][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.10-11.42.02:689][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.10-11.42.02:706][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.10-11.42.02:759][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.10-11.42.02:779][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.10-11.42.02:807][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.10-11.42.02:824][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.10-11.42.02:837][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.10-11.42.02:850][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.10-11.42.02:874][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.10-11.42.02:874][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.10-11.42.02:911][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.10-11.42.02:964][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.10-11.42.02:975][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.10-11.42.02:987][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.10-11.42.02:997][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.10-11.42.03:009][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.10-11.42.03:032][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.10-11.42.03:032][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.10-11.42.03:358][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache: Loaded boot cache 0.63s 62MB C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.10-11.42.04:008][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.10-11.42.04:093][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.10-11.42.04:107][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.10-11.42.05:367][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.10-11.42.05:651][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.10-11.42.05:851][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.01.10-11.42.05:851][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.10-11.42.05:851][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.01.10-11.42.06:712][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.10-11.42.17:739][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 4162402595
+[2017.01.10-11.42.18:341][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2017.01.10-11.42.18:510][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.163533 seconds
+[2017.01.10-11.42.18:563][  0]LogUObjectArray: 29780 objects as part of root set at end of initial load.
+[2017.01.10-11.42.18:563][  0]LogUObjectAllocator: 6126016 out of 0 bytes used by permanent object pool.
+[2017.01.10-11.42.18:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.10-11.42.18:574][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.10-11.42.25:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.10-11.42.25:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.10-11.42.53:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.10-11.42.53:245][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.10-11.42.54:480][  0]SourceControl: Info Source control is disabled
+[2017.01.10-11.42.54:514][  0]SourceControl: Info Source control is disabled
+[2017.01.10-11.42.54:584][  0]SourceControl: Info Source control is disabled
+[2017.01.10-11.42.54:622][  0]SourceControl: Info Source control is disabled
+[2017.01.10-11.42.56:837][  0]LogEngine: Initializing Engine...
+[2017.01.10-11.42.56:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.10-11.42.57:942][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.10-11.42.57:990][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.42.58:026][  0]LogInit: FAudioDevice initialized.
+[2017.01.10-11.42.58:101][  0]LogDerivedDataCache: Saved boot cache 0.07s 62MB C:/Users/usuario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.01.10-11.42.58:125][  0]LogInit: Texture streaming: Enabled
+[2017.01.10-11.42.58:390][  0]LogInit: Transaction tracking system initialized
+[2017.01.10-11.42.58:427][  0]BlueprintLog: New page: Editor Load
+[2017.01.10-11.42.58:683][  0]LocalizationService: Info Localization service is disabled
+[2017.01.10-11.42.59:096][  0]LogConsoleResponse:Display: 
+[2017.01.10-11.43.16:209][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.10-11.43.16:209][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.10-11.43.17:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.12s
+[2017.01.10-11.43.24:712][  0]SourceControl: Info Source control is disabled
+[2017.01.10-11.43.24:712][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.10-11.43.24:748][  0]LightingResults: New page: Lighting Build
+[2017.01.10-11.43.24:811][  0]MapCheck: New page: Map Check
+[2017.01.10-11.43.24:811][  0]LightingResults: New page: Lighting Build
+[2017.01.10-11.43.36:556][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.01.10-11.43.37:717][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.10-11.43.37:718][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.10-11.43.37:791][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.213ms to complete.
+[2017.01.10-11.43.37:791][  0]LogFileHelpers: Loading map 'Minimal_Default' took 13.079
+[2017.01.10-11.43.38:385][  0]LogCollectionManager: Loaded 0 collections in 0.003067 seconds
+[2017.01.10-11.43.38:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2017.01.10-11.43.38:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/usuario/Collections/' took 0.01s
+[2017.01.10-11.43.38:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2017.01.10-11.43.38:436][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000013 seconds
+[2017.01.10-11.43.38:450][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2148 classes and 417 folders.
+[2017.01.10-11.43.38:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.10-11.43.38:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.10-11.43.38:457][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 12 classes and 0 folders.
+[2017.01.10-11.43.38:464][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.01.10-11.43.48:305][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.10-11.43.48:313][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.10-11.43.48:573][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.10-11.43.48:586][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.10-11.43.48:764][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.10-11.43.48:764][  0]LogLoad: (Engine Initialization) Total time: 120.68 seconds
+[2017.01.10-11.43.48:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.02 seconds
+[2017.01.10-11.43.48:764][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.10-11.43.48:764][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.10-11.43.49:158][  0]LogOcInput: OculusInput pre-init called
+[2017.01.10-11.43.49:180][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.01.10-11.43.51:587][  0]LogRenderer: Reallocating scene render targets to support 1116x608 (Frame:2).
+[2017.01.10-11.43.52:585][  3]LogAssetRegistry: Asset discovery search completed in 94.2686 seconds
+[2017.01.10-11.43.52:586][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.10-11.43.52:586][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2017.01.10-11.44.38:607][245]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.44.38:693][245]Cmd: MAP LOAD FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.10-11.44.38:693][245]LightingResults: New page: Lighting Build
+[2017.01.10-11.44.38:694][245]LoadErrors: New page: Loading map: Village.umap
+[2017.01.10-11.44.38:696][245]MapCheck: New page: Map Check
+[2017.01.10-11.44.38:696][245]LightingResults: New page: Lighting Build
+[2017.01.10-11.44.38:910][245]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.10-11.44.38:984][245]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.10-11.44.39:069][245]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 84.349ms to complete.
+[2017.01.10-11.44.39:069][245]LogFileHelpers: Loading map 'Village' took 0.379
+[2017.01.10-11.44.50:846][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-11.44.50:915][423]PIE: New page: PIE session: Village (Jan 10, 2017, 1:44:50 PM)
+[2017.01.10-11.44.50:916][423]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-11.44.50:969][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052918s)
+[2017.01.10-11.44.50:970][423]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.44.50:970][423]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2017.01.10-11.44.50:971][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.055180s)
+[2017.01.10-11.44.51:001][423]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.44.51:019][423]LogInit: FAudioDevice initialized.
+[2017.01.10-11.44.51:088][423]LogWorld: Game class is 'GameMode'
+[2017.01.10-11.44.51:306][423]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-12.44.51
+[2017.01.10-11.44.51:307][423]LogWorld: Bringing up level for play took: 0.006646
+[2017.01.10-11.44.51:318][423]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.01.10-11.44.51:318][423]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.44.51:319][423]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.44.51:319][423]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.44.51:320][423]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.44.51:326][423]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.246
+[2017.01.10-11.44.51:405][423]LogRenderer: Reallocating scene render targets to support 1124x656 (Frame:280).
+[2017.01.10-11.45.37:935][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.45.40:407][161]Cmd: EDIT COPY
+[2017.01.10-11.45.40:973][168]Cmd: EDIT PASTE
+[2017.01.10-11.46.20:789][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-11.46.27:564][285]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2017.01.10-11.46.28:366][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-11.46.58:096][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.47.01:468][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.47.10:981][419]Cmd: TRANSACTION UNDO
+[2017.01.10-11.47.10:981][419]LogEditorTransaction: Undo Move Actors
+[2017.01.10-11.47.17:041][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.47.37:137][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.47.40:613][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-11.47.43:940][906]MapCheck: New page: Map Check
+[2017.01.10-11.47.43:965][906]LightingResults: New page: Lighting Build - Jan 10, 2017, 1:47:43 PM
+[2017.01.10-11.47.45:461][906]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.10-11.47.46:142][906]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.10-11.47.47:015][906]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.10-11.47.48:083][906]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.10-11.47.48:083][906]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11748
+[2017.01.10-11.47.59:773][906]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.01.10-11.47.59:773][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.10-11.47.59:773][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.10-11.47.59:773][906]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.10-11.47.59:774][906]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.10-11.47.59:774][906]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.10-11.48.01:392][906]LogEditorBuildUtils: Build time 0:17
+[2017.01.10-11.50.21:088][ 66]Job is a success!
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.10-11.50.24:355][ 67]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.10-11.50.26:053][ 67]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.01.10-11.50.26:053][ 67]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.01.10-11.50.26:053][ 67]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2017.01.10-11.50.26:276][ 67]Lightmass on MEDION-PC: 2:22 min total, 428 ms importing, 216 ms setup, 17.8 sec photons, 2:03 min processing, 0 ms extra exporting [3/3 mappings]. Threads: 8:14 min total, 3:25 min processing.
+[2017.01.10-11.50.26:364][ 67]LogStaticLightingSystem: Illumination: 2:42 min (2.63 sec encoding lightmaps, 1.82 sec encoding shadowmaps)
+[2017.01.10-11.50.26:364][ 67]LogStaticLightingSystem: Lightmap texture memory:  20.0 MB (20.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.01.10-11.50.26:364][ 67]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.01.10-11.50.26:970][ 68]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.10-11.50.26:970][ 68]MapCheck: New page: Village - Jan 10, 2017, 1:50:26 PM
+[2017.01.10-11.50.27:060][ 68]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 89.933ms to complete.
+[2017.01.10-11.50.30:635][243]AssetReimport: New page: Outstanding source content changes 1:50:30 PM
+[2017.01.10-11.50.30:636][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2.jpg)
+[2017.01.10-11.50.33:213][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Asphalt/Asphalt2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2.uasset" SILENT=true
+[2017.01.10-11.50.33:463][244]LogSavePackage: Save=247.25ms
+[2017.01.10-11.50.33:463][244]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Asphalt29880A762462BC77268D741B1B4CD55B6.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2.uasset'
+[2017.01.10-11.50.33:473][244]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2.uasset
+[2017.01.10-11.50.38:072][325]AssetReimport: Info Importing new asset /Game/Textures/Asphalt/Asphalt2.
+[2017.01.10-11.51.29:728][224]AssetReimport: New page: Outstanding source content changes 1:51:29 PM
+[2017.01.10-11.51.29:729][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2Normal.jpg)
+[2017.01.10-11.51.30:450][225]LogSavePackage: Save=274.59ms
+[2017.01.10-11.51.30:450][225]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Asphalt2Normal9F71CF5942E229AE2C9F6CBCD262CBD6.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2Normal.uasset'
+[2017.01.10-11.51.30:455][225]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Textures/Asphalt/Asphalt2Normal.uasset
+[2017.01.10-11.51.33:469][360]AssetReimport: Info Importing new asset /Game/Textures/Asphalt/Asphalt2Normal.
+[2017.01.10-11.52.02:085][796]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.02:224][796]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.02:239][796]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.05:202][847]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.10-11.52.05:202][847]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.10-11.52.05:202][847]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.10-11.52.10:527][ 82]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.10:542][ 82]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.10:550][ 82]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-11.52.10:606][ 82]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-11.52.12:197][136]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.12:217][136]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.12:242][136]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.10-11.52.12:308][136]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-11.52.12:341][136]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.10-11.52.14:287][202]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.14:305][202]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.14:336][202]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-11.52.16:121][263]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.16:140][263]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.16:213][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.10-11.52.19:323][377]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-11.52.19:323][377]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-11.52.19:324][377]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.01.10-11.52.22:998][539]LogMaterialEditor: Saving and Compiling material AsphaltMaterial
+[2017.01.10-11.52.23:774][539]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.23:800][539]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.23:872][539]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.23:931][539]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.23:959][539]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.26:805][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/AsphaltMaterial" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset" SILENT=true
+[2017.01.10-11.52.26:825][539]LogSavePackage: Save=18.13ms
+[2017.01.10-11.52.26:826][539]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/AsphaltMaterial0482D0F54F237808EEAD5B96F87F1C4E.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset'
+[2017.01.10-11.52.26:833][539]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset
+[2017.01.10-11.52.26:839][539]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2017.01.10-11.52.26:839][539]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-11.52.26:840][539]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.10-11.52.34:311][953]LogMaterial:Warning: Material /Game/Materials/AsphaltMaterial.AsphaltMaterial needed to have new flag set bUsedWithStaticLighting !
+[2017.01.10-11.52.34:313][953]LogMaterial:Warning: Material /Engine/Transient.AsphaltMaterial needed to have new flag set bUsedWithStaticLighting !
+[2017.01.10-11.52.34:315][953]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.34:331][953]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.34:354][953]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.52.34:392][953]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.52.40:409][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-11.52.40:409][258]PIE: New page: PIE session: Village (Jan 10, 2017, 1:52:40 PM)
+[2017.01.10-11.52.40:409][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-11.52.40:455][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046096s)
+[2017.01.10-11.52.40:457][258]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.52.40:458][258]LogPlayLevel: PIE: World Init took: (0.002295s)
+[2017.01.10-11.52.40:458][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.048731s)
+[2017.01.10-11.52.40:505][258]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.52.40:527][258]LogInit: FAudioDevice initialized.
+[2017.01.10-11.52.40:595][258]LogWorld: Game class is 'GameMode'
+[2017.01.10-11.52.40:601][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-12.52.40
+[2017.01.10-11.52.40:603][258]LogWorld: Bringing up level for play took: 0.005852
+[2017.01.10-11.52.40:615][258]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.52.40:615][258]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.52.40:615][258]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.52.40:616][258]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.52.40:626][258]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.454
+[2017.01.10-11.52.42:532][319]MaterialEditorStats: Info Base pass shader with static lighting: 92 instructions
+[2017.01.10-11.52.42:532][319]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2017.01.10-11.52.42:532][319]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-11.52.42:532][319]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.10-11.52.55:464][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.52.58:067][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.53.07:128][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.53.35:898][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.53.49:043][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-11.53.56:767][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.54.01:900][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-11.54.14:898][616]MapCheck: New page: Map Check
+[2017.01.10-11.54.14:914][616]LightingResults: New page: Lighting Build - Jan 10, 2017, 1:54:14 PM
+[2017.01.10-11.54.14:939][616]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.10-11.54.14:942][616]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.10-11.54.14:942][616]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.10-11.54.14:944][616]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.10-11.54.14:944][616]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11748
+[2017.01.10-11.54.19:464][616]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.01.10-11.54.19:464][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.10-11.54.19:464][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.10-11.54.19:464][616]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.10-11.54.19:464][616]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.10-11.54.19:464][616]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.10-11.54.19:699][616]LogEditorBuildUtils: Build time 0:04
+[2017.01.10-11.54.19:958][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer AsphaltMaterial, compiling. 
+[2017.01.10-11.54.20:022][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer AsphaltMaterial, compiling. 
+[2017.01.10-11.55.02:777][632]LogSavePackage: Save=169.87ms
+[2017.01.10-11.55.02:777][632]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village_Auto10D0645F44FA681570A7568888E4BC96E.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto1.umap'
+[2017.01.10-11.55.02:780][632]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto1.umap
+[2017.01.10-11.55.02:783][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Village' took 0.242
+[2017.01.10-11.55.02:783][632]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2017.01.10-11.55.02:790][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/AsphaltMaterial] ([1] browsable assets)...
+[2017.01.10-11.55.02:790][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/AsphaltMaterial]
+[2017.01.10-11.55.02:817][632]LogSavePackage: Save=8.19ms
+[2017.01.10-11.55.02:817][632]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/AsphaltMaterial_Auto118A4A85D43B58875EE4B688184003B54.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Materials/AsphaltMaterial_Auto1.uasset'
+[2017.01.10-11.55.02:821][632]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Materials/AsphaltMaterial_Auto1.uasset
+[2017.01.10-11.55.02:821][632]LogFileHelpers: Auto-saving content packages took 0.034
+[2017.01.10-11.56.08:023][868]Job is a success!
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2017.01.10-11.56.11:038][869]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2017.01.10-11.56.11:039][869]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2017.01.10-11.56.12:670][869]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.01.10-11.56.12:670][869]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2017.01.10-11.56.12:670][869]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2017.01.10-11.56.12:826][869]Lightmass on MEDION-PC: 1:50 min total, 231 ms importing, 193 ms setup, 12.9 sec photons, 1:37 min processing, 0 ms extra exporting [3/3 mappings]. Threads: 6:30 min total, 2:37 min processing.
+[2017.01.10-11.56.12:885][869]LogStaticLightingSystem: Illumination: 1:57 min (2.75 sec encoding lightmaps, 1.73 sec encoding shadowmaps)
+[2017.01.10-11.56.12:885][869]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.01.10-11.56.12:885][869]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.01.10-11.56.13:553][870]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.10-11.56.13:553][870]MapCheck: New page: Village - Jan 10, 2017, 1:56:13 PM
+[2017.01.10-11.56.13:666][870]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 112.789ms to complete.
+[2017.01.10-11.56.17:568][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-11.56.17:568][ 66]PIE: New page: PIE session: Village (Jan 10, 2017, 1:56:17 PM)
+[2017.01.10-11.56.17:569][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-11.56.17:599][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029908s)
+[2017.01.10-11.56.17:600][ 66]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.56.17:601][ 66]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2017.01.10-11.56.17:601][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.032281s)
+[2017.01.10-11.56.17:632][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.56.17:646][ 66]LogInit: FAudioDevice initialized.
+[2017.01.10-11.56.17:717][ 66]LogWorld: Game class is 'GameMode'
+[2017.01.10-11.56.17:721][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-12.56.17
+[2017.01.10-11.56.17:722][ 66]LogWorld: Bringing up level for play took: 0.004175
+[2017.01.10-11.56.17:723][ 66]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.56.17:723][ 66]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.56.17:723][ 66]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.56.17:724][ 66]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.56.17:733][ 66]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.654
+[2017.01.10-11.56.47:105][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.56.52:122][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.56.54:163][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-11.57.07:362][687]Cmd: TRANSACTION UNDO
+[2017.01.10-11.57.07:362][687]LogEditorTransaction: Undo Move Actors
+[2017.01.10-11.57.07:425][687]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.57.07:441][687]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.57.10:621][823]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-11.57.10:621][823]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-11.57.10:621][823]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-11.57.10:621][823]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-11.57.22:443][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-11.57.22:443][378]PIE: New page: PIE session: Village (Jan 10, 2017, 1:57:22 PM)
+[2017.01.10-11.57.22:443][378]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-11.57.22:475][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032293s)
+[2017.01.10-11.57.22:477][378]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.57.22:477][378]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2017.01.10-11.57.22:477][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.034171s)
+[2017.01.10-11.57.22:517][378]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.57.22:536][378]LogInit: FAudioDevice initialized.
+[2017.01.10-11.57.22:600][378]LogWorld: Game class is 'GameMode'
+[2017.01.10-11.57.22:605][378]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-12.57.22
+[2017.01.10-11.57.22:606][378]LogWorld: Bringing up level for play took: 0.005539
+[2017.01.10-11.57.22:607][378]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.57.22:607][378]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.57.22:607][378]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.57.22:607][378]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.57.22:616][378]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.463
+[2017.01.10-11.57.34:383][ 11]MapCheck: New page: Map Check
+[2017.01.10-11.57.34:396][ 11]LightingResults: New page: Lighting Build - Jan 10, 2017, 1:57:34 PM
+[2017.01.10-11.57.34:418][ 11]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.10-11.57.34:421][ 11]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.10-11.57.34:421][ 11]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.10-11.57.34:423][ 11]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.10-11.57.34:423][ 11]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11748
+[2017.01.10-11.57.38:943][ 11]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.01.10-11.57.38:943][ 11]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.10-11.57.38:943][ 11]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.10-11.57.38:943][ 11]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.10-11.57.38:943][ 11]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.10-11.57.38:943][ 11]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.10-11.57.39:244][ 11]LogEditorBuildUtils: Build time 0:04
+[2017.01.10-11.59.07:281][275]Job is a success!
+[2017.01.10-11.59.10:691][276]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2017.01.10-11.59.10:691][276]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.10-11.59.10:691][276]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.10-11.59.10:691][276]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.10-11.59.10:691][276]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.10-11.59.10:692][276]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.10-11.59.10:692][276]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.10-11.59.10:692][276]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.10-11.59.10:692][276]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.10-11.59.12:304][276]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2017.01.10-11.59.12:304][276]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2017.01.10-11.59.12:304][276]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2017.01.10-11.59.12:438][276]Lightmass on MEDION-PC: 1:32 min total, 177 ms importing, 168 ms setup, 12.7 sec photons, 1:18 min processing, 0 ms extra exporting [3/3 mappings]. Threads: 5:15 min total, 2:05 min processing.
+[2017.01.10-11.59.12:514][276]LogStaticLightingSystem: Illumination: 1:37 min (2.84 sec encoding lightmaps, 1.72 sec encoding shadowmaps)
+[2017.01.10-11.59.12:514][276]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.01.10-11.59.12:514][276]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.01.10-11.59.13:037][277]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.10-11.59.13:038][277]MapCheck: New page: Village - Jan 10, 2017, 1:59:13 PM
+[2017.01.10-11.59.13:135][277]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 98.222ms to complete.
+[2017.01.10-11.59.16:364][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-11.59.16:364][357]PIE: New page: PIE session: Village (Jan 10, 2017, 1:59:16 PM)
+[2017.01.10-11.59.16:364][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-11.59.16:395][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030844s)
+[2017.01.10-11.59.16:397][357]LogAIModule: Creating AISystem for world Village
+[2017.01.10-11.59.16:397][357]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2017.01.10-11.59.16:397][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.032969s)
+[2017.01.10-11.59.16:431][357]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-11.59.16:448][357]LogInit: FAudioDevice initialized.
+[2017.01.10-11.59.16:509][357]LogWorld: Game class is 'GameMode'
+[2017.01.10-11.59.16:513][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-12.59.16
+[2017.01.10-11.59.16:513][357]LogWorld: Bringing up level for play took: 0.004152
+[2017.01.10-11.59.16:514][357]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.59.16:514][357]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-11.59.16:514][357]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.59.16:515][357]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-11.59.16:524][357]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.555
+[2017.01.10-11.59.46:020][660]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.59.46:036][660]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.59.46:040][660]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.59.46:053][660]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.59.49:542][785]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.59.49:560][785]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.59.53:126][902]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.59.53:142][902]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.59.53:174][902]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-11.59.53:188][902]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-11.59.58:870][136]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-11.59.58:870][136]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-11.59.58:870][136]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-11.59.58:870][136]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.00.03:165][297]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.03:181][297]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.00.07:427][467]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.07:462][467]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.00.11:438][617]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.00.11:439][617]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.00.11:439][617]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.00.11:439][617]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.00.13:133][683]LogMaterialEditor: Saving and Compiling material AsphaltMaterial
+[2017.01.10-12.00.13:883][683]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.13:909][683]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.00.13:975][683]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.14:052][683]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.14:086][683]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.00.18:418][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/AsphaltMaterial" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset" SILENT=true
+[2017.01.10-12.00.18:461][683]LogSavePackage: Save=17.81ms
+[2017.01.10-12.00.18:461][683]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/AsphaltMaterialA0DD262A49C62FD640FECEBBA14EEF35.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset'
+[2017.01.10-12.00.18:467][683]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset
+[2017.01.10-12.00.18:476][683]MaterialEditorStats: Info Base pass shader with static lighting: 92 instructions
+[2017.01.10-12.00.18:476][683]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2017.01.10-12.00.18:476][683]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.00.18:476][683]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.10-12.00.21:731][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-12.00.21:731][812]PIE: New page: PIE session: Village (Jan 10, 2017, 2:00:21 PM)
+[2017.01.10-12.00.21:731][812]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-12.00.21:766][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035057s)
+[2017.01.10-12.00.21:768][812]LogAIModule: Creating AISystem for world Village
+[2017.01.10-12.00.21:768][812]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2017.01.10-12.00.21:768][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.036984s)
+[2017.01.10-12.00.21:801][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-12.00.21:822][812]LogInit: FAudioDevice initialized.
+[2017.01.10-12.00.21:881][812]LogWorld: Game class is 'GameMode'
+[2017.01.10-12.00.21:885][812]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-13.00.21
+[2017.01.10-12.00.21:885][812]LogWorld: Bringing up level for play took: 0.004042
+[2017.01.10-12.00.21:886][812]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.00.21:886][812]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.00.21:886][812]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.00.21:887][812]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.00.21:895][812]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.816
+[2017.01.10-12.00.56:882][671]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.00.56:896][671]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.01:051][823]MaterialEditorStats: Info Base pass shader with static lighting: 62 instructions
+[2017.01.10-12.01.01:051][823]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.01:051][823]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.01:052][823]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.04:249][947]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.04:265][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.05:078][975]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.05:096][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.08:599][101]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.01.08:599][101]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.08:599][101]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.08:599][101]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.10:095][161]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.10:112][161]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.13:537][286]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.01.13:537][286]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.13:537][286]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.13:537][286]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.18:077][460]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.18:091][460]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.21:520][585]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.01.21:520][585]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.21:520][585]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.21:520][585]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.25:278][727]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.25:296][727]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.28:406][842]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.01.28:406][842]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.28:406][842]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.28:406][842]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.37:422][178]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.37:440][178]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.40:727][302]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.40:741][302]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.43:910][416]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.01.43:910][416]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.01.43:910][416]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.43:910][416]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.01.46:136][502]LogMaterialEditor: Saving and Compiling material AsphaltMaterial
+[2017.01.10-12.01.46:933][502]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.46:967][502]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.46:995][502]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.47:044][502]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.01.47:079][502]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.01.51:191][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/AsphaltMaterial" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset" SILENT=true
+[2017.01.10-12.01.51:232][502]LogSavePackage: Save=19.64ms
+[2017.01.10-12.01.51:232][502]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/AsphaltMaterial928BD049417A11269B0C82AFAA883D77.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset'
+[2017.01.10-12.01.51:239][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset
+[2017.01.10-12.01.51:247][502]MaterialEditorStats: Info Base pass shader with static lighting: 91 instructions
+[2017.01.10-12.01.51:247][502]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 64 instructions
+[2017.01.10-12.01.51:247][502]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.01.51:247][502]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.10-12.01.53:093][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-12.01.53:094][560]PIE: New page: PIE session: Village (Jan 10, 2017, 2:01:53 PM)
+[2017.01.10-12.01.53:094][560]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-12.01.53:130][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036305s)
+[2017.01.10-12.01.53:131][560]LogAIModule: Creating AISystem for world Village
+[2017.01.10-12.01.53:132][560]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2017.01.10-12.01.53:132][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.038318s)
+[2017.01.10-12.01.53:173][560]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-12.01.53:189][560]LogInit: FAudioDevice initialized.
+[2017.01.10-12.01.53:247][560]LogWorld: Game class is 'GameMode'
+[2017.01.10-12.01.53:251][560]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-13.01.53
+[2017.01.10-12.01.53:252][560]LogWorld: Bringing up level for play took: 0.004106
+[2017.01.10-12.01.53:253][560]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.01.53:253][560]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.01.53:253][560]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.01.53:253][560]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.01.53:262][560]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.183
+[2017.01.10-12.06.08:571][386]LogSavePackage: Save=199.70ms
+[2017.01.10-12.06.08:571][386]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village_Auto214479D954F71CA819028B5B9DC3D187B.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto2.umap'
+[2017.01.10-12.06.08:575][386]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto2.umap
+[2017.01.10-12.06.08:579][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Village' took 0.264
+[2017.01.10-12.06.08:579][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2017.01.10-12.06.52:659][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.10-12.37.01:050][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-12.37.37:849][420]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.37.37:863][420]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.37.39:577][481]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.37.39:599][481]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.01:567][636]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.38.01:567][636]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.38.01:567][636]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.38.01:567][636]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.38.21:640][514]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.38.21:657][514]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.21:659][514]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.10-12.38.26:073][695]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.38.26:073][695]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.38.26:073][695]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.38.26:073][695]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.38.31:086][951]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.38.31:104][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.31:108][951]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.38.31:124][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.31:182][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.10-12.38.33:590][ 41]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.38.33:611][ 41]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.33:642][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-12.38.34:948][ 92]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.38.34:969][ 92]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.38.39:097][248]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2017.01.10-12.38.39:097][248]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 37 instructions
+[2017.01.10-12.38.39:097][248]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.38.39:097][248]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.10-12.39.55:657][945]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.39.55:671][945]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.39.59:276][ 92]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2017.01.10-12.39.59:276][ 92]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 37 instructions
+[2017.01.10-12.39.59:276][ 92]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.39.59:276][ 92]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.10-12.40.01:629][218]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.40.01:645][218]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.40.01:677][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-12.40.03:640][300]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.40.03:659][300]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.40.03:700][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.10-12.40.07:671][456]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2017.01.10-12.40.07:671][456]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 37 instructions
+[2017.01.10-12.40.07:671][456]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.40.07:671][456]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.10-12.42.12:472][798]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.12:487][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.12:528][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-12.42.16:034][949]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2017.01.10-12.42.16:034][949]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 37 instructions
+[2017.01.10-12.42.16:034][949]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.42.16:034][949]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.10-12.42.28:549][563]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.28:563][563]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.28:566][563]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.28:580][563]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.28:610][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.10-12.42.30:692][643]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.30:712][643]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.31:971][696]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.31:989][696]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.35:737][867]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2017.01.10-12.42.35:737][867]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.01.10-12.42.35:737][867]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.42.35:737][867]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.10-12.42.41:529][ 93]LogMaterialEditor: Saving and Compiling material AsphaltMaterial
+[2017.01.10-12.42.42:224][ 93]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.42:256][ 93]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.42:280][ 93]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.42:335][ 93]LogMaterial: Missing cached shader map for material AsphaltMaterial, compiling. 
+[2017.01.10-12.42.42:371][ 93]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.10-12.42.46:219][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/AsphaltMaterial" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset" SILENT=true
+[2017.01.10-12.42.46:260][ 93]LogSavePackage: Save=20.30ms
+[2017.01.10-12.42.46:260][ 93]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/AsphaltMaterial0C77DDF046EB8F22F75DA18C988605AD.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset'
+[2017.01.10-12.42.46:269][ 93]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Materials/AsphaltMaterial.uasset
+[2017.01.10-12.42.46:274][ 93]MaterialEditorStats: Info Base pass shader with static lighting: 91 instructions
+[2017.01.10-12.42.46:274][ 93]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 64 instructions
+[2017.01.10-12.42.46:274][ 93]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.10-12.42.46:274][ 93]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.10-12.42.49:394][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-12.42.49:394][198]PIE: New page: PIE session: Village (Jan 10, 2017, 2:42:49 PM)
+[2017.01.10-12.42.49:395][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-12.42.49:423][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028727s)
+[2017.01.10-12.42.49:425][198]LogAIModule: Creating AISystem for world Village
+[2017.01.10-12.42.49:425][198]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2017.01.10-12.42.49:425][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.030691s)
+[2017.01.10-12.42.49:458][198]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-12.42.49:472][198]LogInit: FAudioDevice initialized.
+[2017.01.10-12.42.49:529][198]LogWorld: Game class is 'GameMode'
+[2017.01.10-12.42.49:533][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-13.42.49
+[2017.01.10-12.42.49:533][198]LogWorld: Bringing up level for play took: 0.003843
+[2017.01.10-12.42.49:534][198]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.42.49:535][198]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.42.49:535][198]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.42.49:535][198]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.42.49:544][198]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.464
+[2017.01.10-12.52.09:566][702]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldTown.FBX)
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: Model, ItemCount : 3
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: Geometry, ItemCount : 3
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: Material, ItemCount : 3
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: Texture, ItemCount : 2
+[2017.01.10-12.52.09:584][702]LogFbx: ItemName: Video, ItemCount : 2
+[2017.01.10-12.52.09:594][702]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\OldTown.FBX
+[2017.01.10-12.52.09:713][702]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-12.52.11:644][702]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\OldTown.FBX
+[2017.01.10-12.52.11:669][702]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-12.52.11:673][702]LogLinker:Warning: Can't find file '/Game/Models/default'
+[2017.01.10-12.52.11:673][702]LogLinker:Warning: Can't find file '/Game/Models/default'
+[2017.01.10-12.52.11:677][702]LogLinker:Warning: Can't find file '/Game/Models/na1'
+[2017.01.10-12.52.11:677][702]LogLinker:Warning: Can't find file '/Game/Models/na1'
+[2017.01.10-12.52.11:677][702]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/na1.na1'
+[2017.01.10-12.52.11:677][702]LogStreaming:Warning: Failed to read file '\Maps\na1.jpg' error.
+[2017.01.10-12.52.11:677][702]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models/..\..\..\..\..\Maps\na1.jpg' error.
+[2017.01.10-12.52.11:677][702]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models/na1.jpg' error.
+[2017.01.10-12.52.11:677][702]LogFbxMaterialImport:Warning: Unable to find TEXTure file na1.jpg. Tried:
+ - \Maps\na1.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models/..\..\..\..\..\Maps\na1.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models/na1.jpg
+[2017.01.10-12.52.11:681][702]LogMaterial: Missing cached shader map for material default, compiling. 
+[2017.01.10-12.52.11:701][702]LogLinker:Warning: Can't find file '/Game/Models/default_house_basemult'
+[2017.01.10-12.52.11:701][702]LogLinker:Warning: Can't find file '/Game/Models/default_house_basemult'
+[2017.01.10-12.52.11:705][702]LogLinker:Warning: Can't find file '/Game/Models/df2'
+[2017.01.10-12.52.11:705][702]LogLinker:Warning: Can't find file '/Game/Models/df2'
+[2017.01.10-12.52.11:705][702]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/df2.df2'
+[2017.01.10-12.52.11:705][702]LogStreaming:Warning: Failed to read file '\Maps\df2.jpg' error.
+[2017.01.10-12.52.11:705][702]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models/..\..\..\..\..\Maps\df2.jpg' error.
+[2017.01.10-12.52.11:705][702]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models/df2.jpg' error.
+[2017.01.10-12.52.11:705][702]LogFbxMaterialImport:Warning: Unable to find TEXTure file df2.jpg. Tried:
+ - \Maps\df2.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models/..\..\..\..\..\Maps\df2.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models/df2.jpg
+[2017.01.10-12.52.11:709][702]LogMaterial: Missing cached shader map for material default_house_basemult, compiling. 
+[2017.01.10-12.52.11:743][702]LogLinker:Warning: Can't find file '/Game/Models/default_transformer'
+[2017.01.10-12.52.11:743][702]LogLinker:Warning: Can't find file '/Game/Models/default_transformer'
+[2017.01.10-12.52.11:751][702]LogMaterial: Missing cached shader map for material default_transformer, compiling. 
+[2017.01.10-12.52.11:816][702]LogStaticMesh: Building static mesh OldTown...
+[2017.01.10-12.52.12:721][702]LogStaticMesh: Built static mesh [0.92s] /Game/Models/OldTown.OldTown
+[2017.01.10-12.52.12:810][702]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.01.10-12.52.18:564][892]LogActorFactory: Actor Factory created OldTown
+[2017.01.10-12.52.20:639][983]LogActorFactory: Actor Factory created OldTown
+[2017.01.10-12.52.44:012][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-12.53.13:343][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-12.53.14:164][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-12.53.14:164][538]PIE: New page: PIE session: Village (Jan 10, 2017, 2:53:14 PM)
+[2017.01.10-12.53.14:164][538]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-12.53.14:197][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032086s)
+[2017.01.10-12.53.14:199][538]LogAIModule: Creating AISystem for world Village
+[2017.01.10-12.53.14:199][538]LogPlayLevel: PIE: World Init took: (0.002421s)
+[2017.01.10-12.53.14:199][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.034844s)
+[2017.01.10-12.53.14:231][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-12.53.14:245][538]LogInit: FAudioDevice initialized.
+[2017.01.10-12.53.14:316][538]LogWorld: Game class is 'GameMode'
+[2017.01.10-12.53.14:320][538]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-13.53.14
+[2017.01.10-12.53.14:320][538]LogWorld: Bringing up level for play took: 0.004135
+[2017.01.10-12.53.14:322][538]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.53.14:322][538]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.53.14:322][538]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.53.14:322][538]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.53.14:331][538]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.748
+[2017.01.10-12.54.11:641][377]LogSavePackage: Save=223.79ms
+[2017.01.10-12.54.11:641][377]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village_Auto32B42F232404D5F0038BBAB9D27FB86B2.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto3.umap'
+[2017.01.10-12.54.11:646][377]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto3.umap
+[2017.01.10-12.54.11:649][377]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Village' took 0.305
+[2017.01.10-12.54.11:649][377]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2017.01.10-12.55.38:780][927]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\old_house\house.fbx)
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: Model, ItemCount : 3
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: Material, ItemCount : 4
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: Texture, ItemCount : 4
+[2017.01.10-12.55.38:789][927]LogFbx: ItemName: Video, ItemCount : 4
+[2017.01.10-12.55.38:796][927]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\old_house\house.fbx
+[2017.01.10-12.55.38:830][927]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-12.55.39:863][927]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\old_house\house.fbx
+[2017.01.10-12.55.39:877][927]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-12.55.39:881][927]LogLinker:Warning: Can't find file '/Game/Models/ceiling'
+[2017.01.10-12.55.39:881][927]LogLinker:Warning: Can't find file '/Game/Models/ceiling'
+[2017.01.10-12.55.39:884][927]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/ceiling.Ceiling'
+[2017.01.10-12.55.39:912][927]LogTexture:Display: Building textures: Ceiling2 (AutoDXT)
+[2017.01.10-12.55.40:809][927]LogMaterial: Missing cached shader map for material ceiling, compiling. 
+[2017.01.10-12.55.40:829][927]LogLinker:Warning: Can't find file '/Game/Models/wall'
+[2017.01.10-12.55.40:829][927]LogLinker:Warning: Can't find file '/Game/Models/wall'
+[2017.01.10-12.55.40:833][927]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/wall.Wall'
+[2017.01.10-12.55.40:868][927]LogTexture:Display: Building textures: Wall2 (AutoDXT)
+[2017.01.10-12.55.41:879][927]LogMaterial: Missing cached shader map for material wall, compiling. 
+[2017.01.10-12.55.41:901][927]LogLinker:Warning: Can't find file '/Game/Models/wallP'
+[2017.01.10-12.55.41:902][927]LogLinker:Warning: Can't find file '/Game/Models/wallP'
+[2017.01.10-12.55.41:905][927]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/wallP.WallP'
+[2017.01.10-12.55.41:969][927]LogTexture:Display: Building textures: WallP2 (BGRA8)
+[2017.01.10-12.55.42:105][927]LogMaterial: Missing cached shader map for material wallP, compiling. 
+[2017.01.10-12.55.42:127][927]LogLinker:Warning: Can't find file '/Game/Models/atlas'
+[2017.01.10-12.55.42:127][927]LogLinker:Warning: Can't find file '/Game/Models/atlas'
+[2017.01.10-12.55.42:130][927]LogLinker:Warning: Can't find file '/Game/Models/Map'
+[2017.01.10-12.55.42:130][927]LogLinker:Warning: Can't find file '/Game/Models/Map'
+[2017.01.10-12.55.42:130][927]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Models/Map.Map'
+[2017.01.10-12.55.42:733][927]LogTexture:Display: Building textures: Map (AutoDXT)
+[2017.01.10-12.55.51:714][927]LogMaterial: Missing cached shader map for material atlas, compiling. 
+[2017.01.10-12.55.51:736][927]LogFbx:Warning: Triangulating static mesh House
+[2017.01.10-12.55.53:371][927]LogStaticMesh: Building static mesh house...
+[2017.01.10-12.55.53:666][927]LogStaticMesh: Built static mesh [0.30s] /Game/Models/house.house
+[2017.01.10-12.55.53:700][927]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.01.10-12.55.58:858][121]LogActorFactory: Actor Factory created house
+[2017.01.10-12.56.00:463][194]LogActorFactory: Actor Factory created house
+[2017.01.10-12.56.01:020][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-12.56.05:841][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house)
+[2017.01.10-12.56.27:807][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/atlas" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/atlas.uasset" SILENT=true
+[2017.01.10-12.56.27:825][538]LogSavePackage: Save=15.28ms
+[2017.01.10-12.56.27:825][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atlasFE08C7F64001A5AEB9C86B90BF602A6F.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/atlas.uasset'
+[2017.01.10-12.56.27:831][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/atlas.uasset
+[2017.01.10-12.56.27:857][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/ceiling" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/ceiling.uasset" SILENT=true
+[2017.01.10-12.56.27:877][538]LogSavePackage: Save=16.70ms
+[2017.01.10-12.56.27:877][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/ceilingBBB07EC644E1D701BA088A8451FADA22.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/ceiling.uasset'
+[2017.01.10-12.56.27:882][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/ceiling.uasset
+[2017.01.10-12.56.27:900][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/Ceiling2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Ceiling2.uasset" SILENT=true
+[2017.01.10-12.56.28:008][538]LogSavePackage: Save=105.23ms
+[2017.01.10-12.56.28:008][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Ceiling27E6E1E744ECBC642B12CF09ECFD4DE2B.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Ceiling2.uasset'
+[2017.01.10-12.56.28:014][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Ceiling2.uasset
+[2017.01.10-12.56.28:047][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/house" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/house.uasset" SILENT=true
+[2017.01.10-12.56.28:069][538]LogSavePackage: Save=19.21ms
+[2017.01.10-12.56.28:069][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/house3B69212F407F86DAD58690BD19E34A25.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/house.uasset'
+[2017.01.10-12.56.28:075][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/house.uasset
+[2017.01.10-12.56.28:093][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/Map" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Map.uasset" SILENT=true
+[2017.01.10-12.56.28:635][538]LogSavePackage: Save=538.95ms
+[2017.01.10-12.56.28:635][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Map62352B6346F5A9549B35D49B28071E17.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Map.uasset'
+[2017.01.10-12.56.28:642][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Map.uasset
+[2017.01.10-12.56.28:682][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/wall" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wall.uasset" SILENT=true
+[2017.01.10-12.56.28:704][538]LogSavePackage: Save=19.06ms
+[2017.01.10-12.56.28:704][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wall6A6BD36F4B2D3546E3A1A09B9B3BCD6F.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wall.uasset'
+[2017.01.10-12.56.28:712][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wall.uasset
+[2017.01.10-12.56.28:739][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/Wall2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Wall2.uasset" SILENT=true
+[2017.01.10-12.56.28:864][538]LogSavePackage: Save=121.89ms
+[2017.01.10-12.56.28:864][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Wall2621629AD400E843CC881A2932FCA0827.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Wall2.uasset'
+[2017.01.10-12.56.28:873][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/Wall2.uasset
+[2017.01.10-12.56.28:919][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/wallP" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wallP.uasset" SILENT=true
+[2017.01.10-12.56.28:941][538]LogSavePackage: Save=18.14ms
+[2017.01.10-12.56.28:941][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wallP892576BA4C360526F49CDCB7B3B63F35.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wallP.uasset'
+[2017.01.10-12.56.28:968][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/wallP.uasset
+[2017.01.10-12.56.28:989][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/OldHouse/WallP2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/WallP2.uasset" SILENT=true
+[2017.01.10-12.56.29:153][538]LogSavePackage: Save=160.92ms
+[2017.01.10-12.56.29:154][538]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/WallP2061230684C34BE4C84D8A382856A81AC.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/WallP2.uasset'
+[2017.01.10-12.56.29:163][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/OldHouse/WallP2.uasset
+[2017.01.10-12.56.33:102][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house)
+[2017.01.10-12.56.33:510][706]Cmd: EDIT COPY
+[2017.01.10-12.56.33:734][716]Cmd: EDIT PASTE
+[2017.01.10-12.57.03:620][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.10-12.57.03:644][ 84]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2017.01.10-12.57.10:329][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-12.57.12:185][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-12.57.12:185][484]PIE: New page: PIE session: Village (Jan 10, 2017, 2:57:12 PM)
+[2017.01.10-12.57.12:185][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.01.10-12.57.12:218][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033009s)
+[2017.01.10-12.57.12:221][484]LogAIModule: Creating AISystem for world Village
+[2017.01.10-12.57.12:221][484]LogPlayLevel: PIE: World Init took: (0.003050s)
+[2017.01.10-12.57.12:221][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.036394s)
+[2017.01.10-12.57.12:257][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.10-12.57.12:274][484]LogInit: FAudioDevice initialized.
+[2017.01.10-12.57.12:326][484]LogWorld: Game class is 'GameMode'
+[2017.01.10-12.57.12:332][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 0) at 2017.01.10-13.57.12
+[2017.01.10-12.57.12:332][484]LogWorld: Bringing up level for play took: 0.005405
+[2017.01.10-12.57.12:333][484]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.57.12:333][484]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.10-12.57.12:333][484]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.57.12:334][484]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.10-12.57.12:340][484]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.74
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/cottage_-_Copy' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/cottage_-_Copy' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/cottage' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/cottage' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Door' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Door' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Doorbump' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Doorbump' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/grass-texture-2b' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:784][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/grass-texture-2b' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White_Bump' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White_Bump' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/white_wood' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:785][798]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Models/OldCottageHouse/OldCottageHouse/Cottage Textures/white_wood' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2017.01.10-13.03.32:832][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/cottage - Copy.jpg)
+[2017.01.10-13.03.32:896][798]LogTexture:Display: Building textures: cottage_-_Copy (AutoDXT)
+[2017.01.10-13.03.34:350][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/cottage.jpg)
+[2017.01.10-13.03.34:400][798]LogTexture:Display: Building textures: cottage (AutoDXT)
+[2017.01.10-13.03.35:873][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/Door.jpg)
+[2017.01.10-13.03.35:911][798]LogTexture:Display: Building textures: Door (BGRA8)
+[2017.01.10-13.03.36:104][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/Doorbump.jpg)
+[2017.01.10-13.03.36:145][798]LogTexture:Display: Building textures: Doorbump (BGRA8)
+[2017.01.10-13.03.36:336][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/grass-texture-2b.jpg)
+[2017.01.10-13.03.36:413][798]LogTexture:Display: Building textures: grass-texture-2b (AutoDXT)
+[2017.01.10-13.03.38:820][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg)
+[2017.01.10-13.03.38:865][798]LogTexture:Display: Building textures: Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White_Bump (BGRA8)
+[2017.01.10-13.03.38:958][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg)
+[2017.01.10-13.03.38:985][798]LogTexture:Display: Building textures: Thermal___Moisture_Roofing___Siding_Panels_Wood_Vertical_White (BGRA8)
+[2017.01.10-13.03.39:081][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Cottage Textures/white wood.jpg)
+[2017.01.10-13.03.39:091][798]LogTexture:Display: Building textures: white_wood (BGRA8)
+[2017.01.10-13.03.39:146][798]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/CottageFBX.fbx)
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: Model, ItemCount : 77
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: Material, ItemCount : 9
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: Texture, ItemCount : 8
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: Video, ItemCount : 8
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: SceneInfo, ItemCount : 1
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.01.10-13.03.39:188][798]LogFbx: ItemName: Object, ItemCount : 1
+[2017.01.10-13.03.39:195][798]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/CottageFBX.fbx
+[2017.01.10-13.03.39:310][798]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-13.03.40:778][798]LogFbx: Loading FBX Scene from C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/CottageFBX.fbx
+[2017.01.10-13.03.40:869][798]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.10-13.03.40:877][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert5'
+[2017.01.10-13.03.40:877][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert5'
+[2017.01.10-13.03.40:880][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg' error.
+[2017.01.10-13.03.40:880][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg' error.
+[2017.01.10-13.03.40:880][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg' error.
+[2017.01.10-13.03.40:880][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file white wood.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg
+[2017.01.10-13.03.40:883][798]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2017.01.10-13.03.40:901][798]LogFbx:Warning: Triangulating static mesh window9
+[2017.01.10-13.03.40:965][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert8'
+[2017.01.10-13.03.40:966][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert8'
+[2017.01.10-13.03.40:969][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg' error.
+[2017.01.10-13.03.40:969][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg' error.
+[2017.01.10-13.03.40:969][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg' error.
+[2017.01.10-13.03.40:969][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Door.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg
+[2017.01.10-13.03.40:969][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg' error.
+[2017.01.10-13.03.40:969][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg' error.
+[2017.01.10-13.03.40:970][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg' error.
+[2017.01.10-13.03.40:970][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Doorbump.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg
+[2017.01.10-13.03.40:973][798]LogMaterial: Missing cached shader map for material lambert8, compiling. 
+[2017.01.10-13.03.40:993][798]LogFbx:Warning: Triangulating static mesh window8
+[2017.01.10-13.03.41:060][798]LogFbx:Warning: Triangulating static mesh fence_left1
+[2017.01.10-13.03.41:230][798]LogFbx:Warning: Triangulating static mesh fence_left
+[2017.01.10-13.03.41:404][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert1'
+[2017.01.10-13.03.41:405][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert1'
+[2017.01.10-13.03.41:427][798]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.01.10-13.03.41:447][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert6'
+[2017.01.10-13.03.41:448][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert6'
+[2017.01.10-13.03.41:451][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg' error.
+[2017.01.10-13.03.41:451][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg' error.
+[2017.01.10-13.03.41:451][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg' error.
+[2017.01.10-13.03.41:451][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White.jpg
+[2017.01.10-13.03.41:451][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg' error.
+[2017.01.10-13.03.41:452][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg' error.
+[2017.01.10-13.03.41:452][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg' error.
+[2017.01.10-13.03.41:452][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Thermal & Moisture.Roofing & Siding Panels.Wood.Vertical.White Bump.jpg
+[2017.01.10-13.03.41:456][798]LogMaterial: Missing cached shader map for material lambert6, compiling. 
+[2017.01.10-13.03.41:480][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert4'
+[2017.01.10-13.03.41:480][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert4'
+[2017.01.10-13.03.41:484][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/cottage - Copy.jpg' error.
+[2017.01.10-13.03.41:484][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\cottage - Copy.jpg' error.
+[2017.01.10-13.03.41:484][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/cottage - Copy.jpg' error.
+[2017.01.10-13.03.41:484][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file cottage - Copy.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/cottage - Copy.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\cottage - Copy.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/cottage - Copy.jpg
+[2017.01.10-13.03.41:504][798]LogMaterial: Missing cached shader map for material lambert4, compiling. 
+[2017.01.10-13.03.41:529][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg' error.
+[2017.01.10-13.03.41:529][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg' error.
+[2017.01.10-13.03.41:529][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg' error.
+[2017.01.10-13.03.41:529][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file white wood.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg
+[2017.01.10-13.03.41:534][798]LogMaterial: Missing cached shader map for material lambert7, compiling. 
+[2017.01.10-13.03.41:559][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg' error.
+[2017.01.10-13.03.41:559][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg' error.
+[2017.01.10-13.03.41:559][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg' error.
+[2017.01.10-13.03.41:559][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Door.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg
+[2017.01.10-13.03.41:560][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg' error.
+[2017.01.10-13.03.41:560][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg' error.
+[2017.01.10-13.03.41:560][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg' error.
+[2017.01.10-13.03.41:560][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Doorbump.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg
+[2017.01.10-13.03.41:565][798]LogMaterial: Missing cached shader map for material lambert9, compiling. 
+[2017.01.10-13.03.41:585][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/phong1'
+[2017.01.10-13.03.41:585][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/phong1'
+[2017.01.10-13.03.41:592][798]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2017.01.10-13.03.41:614][798]LogFbx:Warning: Triangulating static mesh roof
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg' error.
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg' error.
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg' error.
+[2017.01.10-13.03.41:673][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Door.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg' error.
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg' error.
+[2017.01.10-13.03.41:673][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg' error.
+[2017.01.10-13.03.41:673][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Doorbump.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg
+[2017.01.10-13.03.41:677][798]LogMaterial: Missing cached shader map for material lambert10, compiling. 
+[2017.01.10-13.03.41:700][798]LogFbx:Warning: Triangulating static mesh window7
+[2017.01.10-13.03.41:760][798]LogFbx:Warning: Triangulating static mesh window6
+[2017.01.10-13.03.41:827][798]LogFbx:Warning: Triangulating static mesh window5
+[2017.01.10-13.03.41:899][798]LogFbx:Warning: Triangulating static mesh window4
+[2017.01.10-13.03.41:970][798]LogFbx:Warning: Triangulating static mesh window3
+[2017.01.10-13.03.42:039][798]LogFbx:Warning: Triangulating static mesh window2
+[2017.01.10-13.03.42:102][798]LogFbx:Warning: Triangulating static mesh window1
+[2017.01.10-13.03.42:167][798]LogFbx:Warning: Triangulating static mesh window
+[2017.01.10-13.03.42:242][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/grass-texture-2b.jpg' error.
+[2017.01.10-13.03.42:242][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\grass-texture-2b.jpg' error.
+[2017.01.10-13.03.42:242][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/grass-texture-2b.jpg' error.
+[2017.01.10-13.03.42:242][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file grass-texture-2b.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/grass-texture-2b.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\grass-texture-2b.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/grass-texture-2b.jpg
+[2017.01.10-13.03.42:247][798]LogMaterial: Missing cached shader map for material lambert11, compiling. 
+[2017.01.10-13.03.42:268][798]LogFbx:Warning: Triangulating static mesh grass
+[2017.01.10-13.03.42:275][798]LogFbx:Warning: Triangulating static mesh polySurface30
+[2017.01.10-13.03.42:324][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/phongE4'
+[2017.01.10-13.03.42:324][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/phongE4'
+[2017.01.10-13.03.42:331][798]LogMaterial: Missing cached shader map for material phongE4, compiling. 
+[2017.01.10-13.03.42:353][798]LogFbx:Warning: Triangulating static mesh door_Knob1
+[2017.01.10-13.03.42:558][798]LogFbx:Warning: Triangulating static mesh front_door
+[2017.01.10-13.03.42:600][798]LogFbx:Warning: Triangulating static mesh door_Knob
+[2017.01.10-13.03.42:817][798]LogFbx:Warning: Triangulating static mesh fence_part2
+[2017.01.10-13.03.42:858][798]LogFbx:Warning: Triangulating static mesh fence_part3
+[2017.01.10-13.03.42:917][798]LogFbx:Warning: Triangulating static mesh fence
+[2017.01.10-13.03.43:203][798]LogFbx:Warning: Triangulating static mesh fence1
+[2017.01.10-13.03.43:496][798]LogFbx:Warning: Triangulating static mesh fence_part4
+[2017.01.10-13.03.43:541][798]LogFbx:Warning: Triangulating static mesh fence2
+[2017.01.10-13.03.43:839][798]LogFbx:Warning: Triangulating static mesh fence_part5
+[2017.01.10-13.03.43:889][798]LogFbx:Warning: Triangulating static mesh fence_part6
+[2017.01.10-13.03.43:934][798]LogFbx:Warning: Triangulating static mesh fence3
+[2017.01.10-13.03.44:222][798]LogFbx:Warning: Triangulating static mesh fence_part7
+[2017.01.10-13.03.44:271][798]LogFbx:Warning: Triangulating static mesh fence4
+[2017.01.10-13.03.44:559][798]LogFbx:Warning: Triangulating static mesh fence5
+[2017.01.10-13.03.44:865][798]LogFbx:Warning: Triangulating static mesh fence_part8
+[2017.01.10-13.03.44:913][798]LogFbx:Warning: Triangulating static mesh fence6
+[2017.01.10-13.03.45:209][798]LogFbx:Warning: Triangulating static mesh fence_part9
+[2017.01.10-13.03.45:256][798]LogFbx:Warning: Triangulating static mesh fence7
+[2017.01.10-13.03.45:532][798]LogFbx:Warning: Triangulating static mesh fence_part10
+[2017.01.10-13.03.45:583][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg' error.
+[2017.01.10-13.03.45:583][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg' error.
+[2017.01.10-13.03.45:583][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg' error.
+[2017.01.10-13.03.45:583][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file white wood.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\white wood.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/white wood.jpg
+[2017.01.10-13.03.45:587][798]LogMaterial: Missing cached shader map for material lambert12, compiling. 
+[2017.01.10-13.03.45:612][798]LogFbx:Warning: Triangulating static mesh fence8
+[2017.01.10-13.03.45:905][798]LogFbx:Warning: Triangulating static mesh fence_part11
+[2017.01.10-13.03.45:954][798]LogFbx:Warning: Triangulating static mesh fence9
+[2017.01.10-13.03.46:253][798]LogFbx:Warning: Triangulating static mesh fence_part12
+[2017.01.10-13.03.46:295][798]LogFbx:Warning: Triangulating static mesh fence_part14
+[2017.01.10-13.03.46:339][798]LogFbx:Warning: Triangulating static mesh fence10
+[2017.01.10-13.03.46:631][798]LogFbx:Warning: Triangulating static mesh fence_part15
+[2017.01.10-13.03.46:679][798]LogFbx:Warning: Triangulating static mesh fence11
+[2017.01.10-13.03.46:980][798]LogFbx:Warning: Triangulating static mesh fence_part16
+[2017.01.10-13.03.47:027][798]LogFbx:Warning: Triangulating static mesh fence_part17
+[2017.01.10-13.03.47:070][798]LogFbx:Warning: Triangulating static mesh fence12
+[2017.01.10-13.03.47:365][798]LogFbx:Warning: Triangulating static mesh fence_part18
+[2017.01.10-13.03.47:412][798]LogFbx:Warning: Triangulating static mesh fence13
+[2017.01.10-13.03.47:709][798]LogFbx:Warning: Triangulating static mesh fence_part19
+[2017.01.10-13.03.47:755][798]LogFbx:Warning: Triangulating static mesh fence14
+[2017.01.10-13.03.48:050][798]LogFbx:Warning: Triangulating static mesh fence_part20
+[2017.01.10-13.03.48:098][798]LogFbx:Warning: Triangulating static mesh fence15
+[2017.01.10-13.03.48:396][798]LogFbx:Warning: Triangulating static mesh fence_part21
+[2017.01.10-13.03.48:443][798]LogFbx:Warning: Triangulating static mesh fence16
+[2017.01.10-13.03.48:748][798]LogFbx:Warning: Triangulating static mesh fence_part22
+[2017.01.10-13.03.48:792][798]LogFbx:Warning: Triangulating static mesh fence17
+[2017.01.10-13.03.49:084][798]LogFbx:Warning: Triangulating static mesh fence_part23
+[2017.01.10-13.03.49:133][798]LogFbx:Warning: Triangulating static mesh fence18
+[2017.01.10-13.03.49:428][798]LogFbx:Warning: Triangulating static mesh fence_part24
+[2017.01.10-13.03.49:476][798]LogFbx:Warning: Triangulating static mesh fence19
+[2017.01.10-13.03.49:781][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert3'
+[2017.01.10-13.03.49:782][798]LogLinker:Warning: Can't find file '/Game/Models/OldCottageHouse/lambert3'
+[2017.01.10-13.03.49:785][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/cottage.jpg' error.
+[2017.01.10-13.03.49:785][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\cottage.jpg' error.
+[2017.01.10-13.03.49:785][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/cottage.jpg' error.
+[2017.01.10-13.03.49:785][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file cottage.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/cottage.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\cottage.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/cottage.jpg
+[2017.01.10-13.03.49:790][798]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.01.10-13.03.49:820][798]LogMaterial: Missing cached shader map for material phong2, compiling. 
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg' error.
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg' error.
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg' error.
+[2017.01.10-13.03.49:849][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Door.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Door.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Door.jpg
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg' error.
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg' error.
+[2017.01.10-13.03.49:849][798]LogStreaming:Warning: Failed to read file 'C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg' error.
+[2017.01.10-13.03.49:849][798]LogFbxMaterialImport:Warning: Unable to find TEXTure file Doorbump.jpg. Tried:
+ - I:/Shahid/Cottage 3d Model/Cottage Textures/Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/..\Cottage Textures\Doorbump.jpg
+ - C:\Users\usuario\Desktop\VANsGame\Models\OldCottageHouse/Doorbump.jpg
+[2017.01.10-13.03.49:853][798]LogMaterial: Missing cached shader map for material lambert13, compiling. 
+[2017.01.10-13.03.49:879][798]LogFbx:Warning: Triangulating static mesh cottage_main
+[2017.01.10-13.03.50:230][798]LogFbx:Warning: Triangulating static mesh back_entrance_right
+[2017.01.10-13.03.50:436][798]LogFbx:Warning: Triangulating static mesh back_entrance_left
+[2017.01.10-13.03.50:642][798]LogFbx:Warning: Triangulating static mesh front_entrance_right
+[2017.01.10-13.03.50:859][798]LogFbx:Warning: Triangulating static mesh front_entrance_left
+[2017.01.10-13.03.51:114][798]LogStaticMesh: Building static mesh CottageFBX...
+[2017.01.10-13.03.52:718][798]LogStaticMesh: Built static mesh [1.60s] /Game/Models/OldCottageHouse/CottageFBX.CottageFBX
+[2017.01.10-13.03.52:788][798]LogStaticMesh:Warning: CottageFBX has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.01.10-13.03.52:816][798]FBXImport:Warning: Warning CottageFBX has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.01.10-13.04.01:185][ 99]LogActorFactory: Actor Factory created CottageFBX
+[2017.01.10-13.04.02:336][148]LogActorFactory: Actor Factory created CottageFBX
+[2017.01.10-13.04.11:950][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-13.04.18:951][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-13.04.31:266][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.10-13.04.35:458][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CottageFBX)
+[2017.01.10-13.04.36:290][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CottageFBX)
+[2017.01.10-13.04.38:654][781]Cmd: DELETE
+[2017.01.10-13.04.38:654][781]Cmd: ACTOR DELETE
+[2017.01.10-13.04.38:667][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.10-13.04.38:691][781]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2017.01.10-13.05.34:802][273]LogSavePackage: Save=199.22ms
+[2017.01.10-13.05.34:802][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village_Auto49E08BDC6401D4F52DBDF50B66EBA9D18.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto4.umap'
+[2017.01.10-13.05.34:806][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/Village_Auto4.umap
+[2017.01.10-13.05.34:809][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Village' took 0.266
+[2017.01.10-13.05.34:809][273]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2017.01.10-13.05.34:815][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wall" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/wall_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-13.05.34:820][273]LogSavePackage: Save=2.87ms
+[2017.01.10-13.05.34:820][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wall_Auto483A32D374A1E9B9611A77EA5FF4F42B2.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/wall_Auto4.uasset'
+[2017.01.10-13.05.34:823][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/wall_Auto4.uasset
+[2017.01.10-13.05.34:829][273]LogSavePackage: Save=2.60ms
+[2017.01.10-13.05.34:829][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/house_Auto477110312449DE20D86FE4081B2AA7FE1.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/house_Auto4.uasset'
+[2017.01.10-13.05.34:832][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/house_Auto4.uasset
+[2017.01.10-13.05.34:838][273]LogSavePackage: Save=2.19ms
+[2017.01.10-13.05.34:838][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wallP_Auto4D8B3477442C4591C8AE4D29B2AC5666D.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/wallP_Auto4.uasset'
+[2017.01.10-13.05.34:840][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/wallP_Auto4.uasset
+[2017.01.10-13.05.34:846][273]LogSavePackage: Save=2.28ms
+[2017.01.10-13.05.34:846][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/ceiling_Auto4363929284093F92AA73C39BE89DC9A8E.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/ceiling_Auto4.uasset'
+[2017.01.10-13.05.34:850][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/ceiling_Auto4.uasset
+[2017.01.10-13.05.34:861][273]LogSavePackage: Save=5.68ms
+[2017.01.10-13.05.34:862][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/WallP2_Auto45839832E4632F9E4B26A1A95F1C05F49.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/WallP2_Auto4.uasset'
+[2017.01.10-13.05.34:865][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/WallP2_Auto4.uasset
+[2017.01.10-13.05.34:872][273]LogSavePackage: Save=2.75ms
+[2017.01.10-13.05.34:872][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Ceiling2_Auto4B865FDF443BD0140BCD11F9D910BFF06.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Ceiling2_Auto4.uasset'
+[2017.01.10-13.05.34:875][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Ceiling2_Auto4.uasset
+[2017.01.10-13.05.34:882][273]LogSavePackage: Save=2.89ms
+[2017.01.10-13.05.34:882][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Wall2_Auto4FCC5090A418627373C5867BD521883C7.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Wall2_Auto4.uasset'
+[2017.01.10-13.05.34:884][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Wall2_Auto4.uasset
+[2017.01.10-13.05.34:890][273]LogSavePackage: Save=2.34ms
+[2017.01.10-13.05.34:890][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atlas_Auto492BD94934269840F4E39B088CB376A5F.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/atlas_Auto4.uasset'
+[2017.01.10-13.05.34:893][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/atlas_Auto4.uasset
+[2017.01.10-13.05.34:894][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Map_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-13.05.34:900][273]LogSavePackage: Save=2.26ms
+[2017.01.10-13.05.34:900][273]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Map_Auto44A490FC24D940493F08FC3926EC0D520.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Map_Auto4.uasset'
+[2017.01.10-13.05.34:902][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/Map_Auto4.uasset
+[2017.01.10-13.05.34:902][273]LogFileHelpers: Auto-saving content packages took 0.090
+[2017.01.10-13.06.46:103][827]LogSavePackage: Save=1862.63ms
+[2017.01.10-13.06.46:103][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village7CD7AF4E479901C9D2527993A6E71AEC.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap'
+[2017.01.10-13.06.46:112][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap
+[2017.01.10-13.06.46:193][827]LogFileHelpers: Saving map 'Village' took 2.086
+[2017.01.10-13.06.46:197][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wall" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wall.uasset" SILENT=true
+[2017.01.10-13.06.46:203][827]LogSavePackage: Save=2.28ms
+[2017.01.10-13.06.46:203][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wall4899C8F34A53809CA6FD76ACB1A2C142.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wall.uasset'
+[2017.01.10-13.06.46:208][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wall.uasset
+[2017.01.10-13.06.46:213][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/house" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/house.uasset" SILENT=true
+[2017.01.10-13.06.46:218][827]LogSavePackage: Save=2.35ms
+[2017.01.10-13.06.46:218][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/house8F8CDC114855F343D88B9C8988289FB9.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/house.uasset'
+[2017.01.10-13.06.46:224][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/house.uasset
+[2017.01.10-13.06.46:229][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wallP" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wallP.uasset" SILENT=true
+[2017.01.10-13.06.46:234][827]LogSavePackage: Save=2.17ms
+[2017.01.10-13.06.46:234][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/wallP6F0E98CF44F6B7C15D8C148C3EC538AF.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wallP.uasset'
+[2017.01.10-13.06.46:239][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/wallP.uasset
+[2017.01.10-13.06.46:244][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ceiling" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/ceiling.uasset" SILENT=true
+[2017.01.10-13.06.46:249][827]LogSavePackage: Save=2.41ms
+[2017.01.10-13.06.46:249][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/ceiling315196414C76618BE95C22816BC825A2.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/ceiling.uasset'
+[2017.01.10-13.06.46:255][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/ceiling.uasset
+[2017.01.10-13.06.46:260][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WallP2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/WallP2.uasset" SILENT=true
+[2017.01.10-13.06.46:264][827]LogSavePackage: Save=2.25ms
+[2017.01.10-13.06.46:264][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/WallP27B79E33D4B29CFC2B0168186E062D47D.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/WallP2.uasset'
+[2017.01.10-13.06.46:270][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/WallP2.uasset
+[2017.01.10-13.06.46:274][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Ceiling2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Ceiling2.uasset" SILENT=true
+[2017.01.10-13.06.46:279][827]LogSavePackage: Save=2.28ms
+[2017.01.10-13.06.46:279][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Ceiling2C4E71BAE4E7A380D923E5DB308B7919C.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Ceiling2.uasset'
+[2017.01.10-13.06.46:285][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Ceiling2.uasset
+[2017.01.10-13.06.46:290][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Wall2" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Wall2.uasset" SILENT=true
+[2017.01.10-13.06.46:295][827]LogSavePackage: Save=2.42ms
+[2017.01.10-13.06.46:295][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Wall20EBBCAC8485A271B700DB2AD99A76F2E.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Wall2.uasset'
+[2017.01.10-13.06.46:301][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Wall2.uasset
+[2017.01.10-13.06.46:306][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/atlas" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/atlas.uasset" SILENT=true
+[2017.01.10-13.06.46:311][827]LogSavePackage: Save=2.18ms
+[2017.01.10-13.06.46:311][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/atlasB98807D4440ACFF82FB2EEADCBF151EA.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/atlas.uasset'
+[2017.01.10-13.06.46:317][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/atlas.uasset
+[2017.01.10-13.06.46:322][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map" FILE="../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Map.uasset" SILENT=true
+[2017.01.10-13.06.46:328][827]LogSavePackage: Save=2.55ms
+[2017.01.10-13.06.46:328][827]LogSavePackage: Moving '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MapF3B3E6254FBAF86942E554B3688D708B.tmp' to '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Map.uasset'
+[2017.01.10-13.06.46:335][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/Map.uasset
+[2017.01.10-13.06.53:079][141]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.10-13.06.53:373][142]Cmd: QUIT_EDITOR
+[2017.01.10-13.06.54:280][142]LogExit: Preparing to exit.
+[2017.01.10-13.06.54:842][142]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2017.01.10-13.06.54:867][142]LogExit: Editor shut down
+[2017.01.10-13.06.54:868][142]LogExit: Transaction tracking system shut down
+[2017.01.10-13.06.55:162][142]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.10-13.06.55:163][142]LogExit: Object subsystem successfully closed.
+[2017.01.10-13.06.55:177][142]LogD3D11RHI: Shutdown
+[2017.01.10-13.06.55:177][142]LogD3D11RHI: CleanupD3DDevice
+[2017.01.10-13.06.55:333][142]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (237)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module MaterialEditor (236)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (235)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (234)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module CrashTracker (233)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module SceneOutliner (232)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module WidgetCarousel (231)
+[2017.01.10-13.06.55:358][142]LogModuleManager: Shutting down and abandoning module AddContentDialog (230)
+[2017.01.10-13.06.55:358][142]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module GameplayTags (229)
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module EditorWidgets (228)
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module CollectionManager (227)
+[2017.01.10-13.06.55:380][142]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' was aborted.
+[2017.01.10-13.06.55:380][142]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/usuario/Collections/' was aborted.
+[2017.01.10-13.06.55:380][142]LogDirectoryWatcher: A directory notification for 'C:/Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' was aborted.
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module StatsViewer (226)
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module FoliageEdit (225)
+[2017.01.10-13.06.55:380][142]LogModuleManager: Shutting down and abandoning module LandscapeEditor (224)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (223)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module ActorPickerMode (222)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module GeometryMode (221)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module TextureAlignMode (220)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module BspMode (219)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module HardwareSurvey (218)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (217)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module SequenceRecorder (216)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module AutomationWorker (215)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (214)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module PlacementMode (213)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (212)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (211)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (210)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (209)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (208)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module Media (207)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (206)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (205)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module CharacterAI (204)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module SmartSnapping (203)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module SessionServices (202)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module ViewportSnapping (201)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module ViewportInteraction (200)
+[2017.01.10-13.06.55:381][142]LogModuleManager: Shutting down and abandoning module LogVisualizer (199)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (198)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module IntroTutorials (197)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (196)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (195)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (194)
+[2017.01.10-13.06.55:382][142]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (193)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (192)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (191)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (190)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module NiagaraEditor (189)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module MergeActors (188)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module SizeMap (187)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module TreeMap (186)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module ReferenceViewer (185)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module LocalizationService (184)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (183)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module HardwareTargeting (182)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (181)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module UndoHistory (180)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module UserFeedback (179)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module XmlParser (178)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module Blutility (177)
+[2017.01.10-13.06.55:564][142]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (176)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (175)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module InputBindingEditor (174)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (173)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module SettingsEditor (172)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module ProjectLauncher (171)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module SessionFrontend (170)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module ProfilerClient (169)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (168)
+[2017.01.10-13.06.55:565][142]LogModuleManager: Shutting down and abandoning module DeviceManager (167)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module AutomationController (166)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module AutomationWindow (165)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module Layers (164)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (163)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module DetailCustomizations (162)
+[2017.01.10-13.06.55:607][142]LogModuleManager: Shutting down and abandoning module PackagesDialog (161)
+[2017.01.10-13.06.55:608][142]LogModuleManager: Shutting down and abandoning module AnimGraph (160)
+[2017.01.10-13.06.55:608][142]LogModuleManager: Shutting down and abandoning module Persona (159)
+[2017.01.10-13.06.55:608][142]LogModuleManager: Shutting down and abandoning module Kismet (158)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module GraphEditor (157)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module ClassViewer (156)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module Toolbox (155)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module ModuleUI (154)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module MovieSceneTools (153)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module OutputLog (152)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module GammaUI (151)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module Documentation (150)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module Niagara (149)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (148)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module AnalyticsET (147)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module PortalServices (146)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module PortalRpc (145)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module MessagingRpc (144)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module GameplayDebugger (143)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module AITestSuite (142)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module AIModule (141)
+[2017.01.10-13.06.55:609][142]LogModuleManager: Shutting down and abandoning module ProfilerService (140)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module TaskGraph (139)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2017.01.10-13.06.55:630][142]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2017.01.10-13.06.55:631][142]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2017.01.10-13.06.55:632][142]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2017.01.10-13.06.55:632][142]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2017.01.10-13.06.55:633][142]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2017.01.10-13.06.55:633][142]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2017.01.10-13.06.55:634][142]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2017.01.10-13.06.55:735][142]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (95)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module Paper2D (94)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (93)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module WmfMedia (92)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module MediaAssets (91)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (90)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (89)
+[2017.01.10-13.06.55:835][142]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (88)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.01.10-13.06.55:836][142]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.01.10-13.06.55:839][142]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.01.10-13.06.55:839][142]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.01.10-13.06.55:840][142]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.01.10-13.06.55:840][142]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.01.10-13.06.55:840][142]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.01.10-13.06.55:840][142]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.01.10-13.06.55:840][142]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.10-13.06.55:840][142]LogDirectoryWatcher: A directory notification for '../../../../../../Users/usuario/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2017.01.10-13.06.55:840][142]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.10-13.06.55:841][142]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.01.10-13.06.55:971][142]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.01.10-13.06.55:971][142]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.01.10-13.06.55:971][142]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.01.10-13.06.55:971][142]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.01.10-13.06.56:071][142]LogDerivedDataCache: Shutdown
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.01.10-13.06.56:071][142]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.01.10-13.06.56:072][142]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.01.10-13.06.56:072][142]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.10-13.06.56:073][142]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.10-13.06.56:073][142]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.10-13.06.56:073][142]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49DAD1CF-41D5-6B95-65C4-30B1A4646570%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=b8dd728f40baa09a39d29fb1ea98e9bb%7C2b96ea3f579d47e6bbc473ce50562fcb%7C7c014019-e1ce-47fc-909f-e82437c4a38e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.10-13.06.56:078][142]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.10-13.06.56:078][142]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.10-13.06.56:078][142]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.10-13.06.56:078][142]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.10-13.06.56:078][142]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.10-13.06.56:082][142]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.10-13.06.56:091][142]LogExit: Exiting.
+[2017.01.10-13.06.56:093][142]Log file closed, 01/10/17 14:06:56
