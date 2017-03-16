@@ -1,0 +1,1348 @@
+﻿Log file open, 03/16/17 16:56:50
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1235481636) SRandInit(1235481636).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.183638
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.16-15.56.51:241][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.16-15.56.51:241][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.16-15.56.51:263][  0]LogInit: Computer: DESKTOP-3FAHSDO
+[2017.03.16-15.56.51:263][  0]LogInit: User: Edd
+[2017.03.16-15.56.51:263][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.16-15.56.51:263][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2017.03.16-15.56.51:263][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.16-15.56.51:263][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.16-15.56.51:263][  0]LogMemory: Process Physical Memory: 266.33 MB used, 266.33 MB peak
+[2017.03.16-15.56.51:263][  0]LogMemory: Process Virtual Memory: 262.77 MB used, 262.77 MB peak
+[2017.03.16-15.56.51:263][  0]LogMemory: Physical Memory: 3353.89 MB used,  4714.62 MB free, 8068.52 MB total
+[2017.03.16-15.56.51:263][  0]LogMemory: Virtual Memory: 676.55 MB used,  4714.62 MB free, 134217728.00 MB total
+[2017.03.16-15.56.51:396][  0]LogInit: Overriding culture en with editor configuration.
+[2017.03.16-15.56.52:999][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.16-15.56.53:413][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.03.16-15.56.53:413][  0]LogD3D11RHI:       2018/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.16-15.56.53:467][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.03.16-15.56.53:467][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.16-15.56.53:475][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.16-15.56.53:475][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.16-15.56.53:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.16-15.56.53:491][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.16-15.56.53:491][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.03.16-15.56.53:491][  0]LogWindows: EnumDisplayDevices:
+[2017.03.16-15.56.53:492][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.03.16-15.56.53:493][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.16-15.56.53:494][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.16-15.56.53:494][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.16-15.56.53:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.03.16-15.56.53:494][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.16-15.56.53:494][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.16-15.56.53:494][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.16-15.56.53:517][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.16-15.56.53:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.16-15.56.53:532][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/11116/).
+[2017.03.16-15.56.53:532][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edd/AppData/Local/Temp/UnrealShaderWorkingDir/0AB9850449C8A70F797C318CB668301A/'.
+[2017.03.16-15.56.53:532][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.16-15.56.56:172][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.16-15.56.56:403][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.16-15.56.56:629][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.16-15.56.56:875][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.16-15.56.57:152][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.16-15.56.57:399][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.16-15.56.57:624][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.16-15.56.57:849][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.16-15.56.58:067][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.16-15.56.58:297][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.16-15.56.58:522][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.16-15.56.58:747][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.16-15.56.58:971][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.16-15.56.59:193][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.16-15.56.59:647][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.16-15.56.59:647][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.16-15.56.59:920][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.16-15.57.00:148][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.16-15.57.00:628][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.16-15.57.00:778][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.16-15.57.01:002][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.16-15.57.01:245][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.16-15.57.01:489][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.16-15.57.01:714][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.16-15.57.01:714][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.16-15.57.04:205][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache: Loaded boot cache 0.34s 50MB C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.16-15.57.04:547][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.16-15.57.04:674][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.16-15.57.04:687][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.16-15.57.06:215][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.16-15.57.06:221][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.16-15.57.07:545][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.16-15.57.07:849][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.16-15.57.08:114][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.16-15.57.08:114][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.16-15.57.08:114][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.16-15.57.09:755][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1363929391
+[2017.03.16-15.57.09:949][  0]LogAssetRegistry: FAssetRegistry took 0.0223 seconds to start up
+[2017.03.16-15.57.10:111][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.015426 seconds
+[2017.03.16-15.57.10:117][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.16-15.57.10:117][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.03.16-15.57.10:117][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.16-15.57.10:557][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.16-15.57.15:253][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.16-15.57.15:275][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.16-15.57.15:275][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.16-15.57.23:012][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.16-15.57.23:199][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.16-15.57.24:833][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.16-15.57.26:907][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.57.26:909][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.57.27:235][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.57.27:508][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.57.34:648][  0]LogEngine: Initializing Engine...
+[2017.03.16-15.57.34:649][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.16-15.57.35:502][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.16-15.57.35:520][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.57.35:619][  0]LogInit: FAudioDevice initialized.
+[2017.03.16-15.57.35:650][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.16-15.57.35:656][  0]LogInit: Texture streaming: Enabled
+[2017.03.16-15.57.36:936][  0]LogInit: Transaction tracking system initialized
+[2017.03.16-15.57.39:158][  0]BlueprintLog: New page: Editor Load
+[2017.03.16-15.57.44:817][  0]LocalizationService: Info Localization service is disabled
+[2017.03.16-15.57.48:811][  0]LogConsoleResponse:Display: 
+[2017.03.16-15.57.49:946][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.16-15.57.49:946][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.16-15.57.50:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.05s
+[2017.03.16-15.57.55:596][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.57.55:597][  0]Cmd: MAP LOAD FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.16-15.57.55:597][  0]LightingResults: New page: Lighting Build
+[2017.03.16-15.57.55:816][  0]MapCheck: New page: Map Check
+[2017.03.16-15.57.55:816][  0]LightingResults: New page: Lighting Build
+[2017.03.16-15.57.56:406][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.16-15.57.56:408][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.16-15.57.56:444][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.16-15.57.56:445][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.16-15.57.57:912][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,466.109ms to complete.
+[2017.03.16-15.57.57:912][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.316
+[2017.03.16-15.57.58:002][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.16-15.57.58:301][  0]LogCollectionManager: Loaded 0 collections in 0.002952 seconds
+[2017.03.16-15.57.58:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2017.03.16-15.57.58:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/Edd/Collections/' took 0.01s
+[2017.03.16-15.57.58:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2017.03.16-15.57.58:582][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.16-15.57.58:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2190 classes and 428 folders.
+[2017.03.16-15.57.58:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.16-15.57.58:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.16-15.57.58:805][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.03.16-15.57.59:145][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.16-15.57.59:502][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2017.03.16-15.57.59:774][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.16-15.57.59:931][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.16-15.57.59:940][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.16-15.58.00:261][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.03.16-15.58.00:262][  0]LogLoad: (Engine Initialization) Total time: 74.11 seconds
+[2017.03.16-15.58.00:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.31 seconds
+[2017.03.16-15.58.00:262][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.16-15.58.00:262][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.16-15.58.00:279][  0]LogOcInput: OculusInput pre-init called
+[2017.03.16-15.58.00:326][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.16-15.58.00:584][  0]LogRenderer: Reallocating scene render targets to support 784x408 NumSamples 1 (Frame:2).
+[2017.03.16-15.58.00:662][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.37s
+[2017.03.16-15.58.00:915][  2]LogAssetRegistry: Asset discovery search completed in 50.9880 seconds
+[2017.03.16-15.58.00:915][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.16-15.58.00:915][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2017.03.16-15.58.12:298][603]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.58.12:337][603]Cmd: MAP LOAD FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.16-15.58.12:337][603]LightingResults: New page: Lighting Build
+[2017.03.16-15.58.12:337][603]LoadErrors: New page: Loading map: Village.umap
+[2017.03.16-15.58.12:339][603]MapCheck: New page: Map Check
+[2017.03.16-15.58.12:339][603]LightingResults: New page: Lighting Build
+[2017.03.16-15.58.12:356][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.16-15.58.12:398][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.16-15.58.14:007][603]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,608.635ms to complete.
+[2017.03.16-15.58.14:015][603]LogFileHelpers: Loading map 'Village' took 1.679
+[2017.03.16-15.58.31:134][530]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.03.16-15.58.48:081][326]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.16-15.58.48:418][326]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.16-15.59.11:836][678]BlueprintLog: New page: Compile VANmovement
+[2017.03.16-16.00.57:507][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/VANmodel/Animations/VANmovement" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset" SILENT=true
+[2017.03.16-16.00.57:582][667]LogSavePackage: Save=50.62ms
+[2017.03.16-16.00.57:582][667]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovement77F8820C4E8FF1E01A4756AF701C2C64.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset'
+[2017.03.16-16.00.57:586][667]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset
+[2017.03.16-16.04.26:562][925]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.04.26:584][925]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.04.26:584][925]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.04.26:761][925]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.03.16-16.04.26:762][925]PIE: New page: PIE session: Village (Mar 16, 2017, 6:04:26 PM)
+[2017.03.16-16.04.26:762][925]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.04.26:772][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010019s)
+[2017.03.16-16.04.26:773][925]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.04.26:774][925]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2017.03.16-16.04.26:775][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.012780s)
+[2017.03.16-16.04.26:793][925]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.04.26:824][925]LogInit: FAudioDevice initialized.
+[2017.03.16-16.04.26:889][925]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.04.26:896][925]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.04.26
+[2017.03.16-16.04.26:897][925]LogWorld: Bringing up level for play took: 0.006786
+[2017.03.16-16.04.27:151][925]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.03.16-16.04.27:161][925]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 1.522
+[2017.03.16-16.04.27:255][925]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:36212).
+[2017.03.16-16.04.55:742][488]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.04.55:767][488]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.04.55:767][488]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.04.55:937][488]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2017.03.16-16.04.55:937][488]PIE: New page: PIE session: Village (Mar 16, 2017, 6:04:55 PM)
+[2017.03.16-16.04.55:937][488]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.04.55:946][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008461s)
+[2017.03.16-16.04.55:947][488]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.04.55:947][488]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2017.03.16-16.04.55:948][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010436s)
+[2017.03.16-16.04.55:967][488]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.04.55:998][488]LogInit: FAudioDevice initialized.
+[2017.03.16-16.04.56:046][488]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.04.56:050][488]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.04.56
+[2017.03.16-16.04.56:051][488]LogWorld: Bringing up level for play took: 0.003855
+[2017.03.16-16.04.56:061][488]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.421
+[2017.03.16-16.05.54:066][728]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.05.54:091][728]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.05.54:091][728]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.05.54:158][728]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:158][728]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:247][728]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2017.03.16-16.05.54:248][728]PIE: New page: PIE session: Village (Mar 16, 2017, 6:05:54 PM)
+[2017.03.16-16.05.54:248][728]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.05.54:256][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008348s)
+[2017.03.16-16.05.54:257][728]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.05.54:257][728]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2017.03.16-16.05.54:258][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009902s)
+[2017.03.16-16.05.54:276][728]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.05.54:308][728]LogInit: FAudioDevice initialized.
+[2017.03.16-16.05.54:355][728]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.05.54:358][728]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:359][728]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.05.54
+[2017.03.16-16.05.54:360][728]LogWorld: Bringing up level for play took: 0.003413
+[2017.03.16-16.05.54:367][728]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.728
+[2017.03.16-16.05.54:369][728]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:523][729]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:670][730]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:704][731]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:735][732]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:763][733]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:795][734]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:823][735]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:849][736]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:873][737]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:896][738]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:919][739]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:943][740]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.54:968][741]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:005][742]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:026][743]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:048][744]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:070][745]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:092][746]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:117][747]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:141][748]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:165][749]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:187][750]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:206][751]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:231][752]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:254][753]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:276][754]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:301][755]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:323][756]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:349][757]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:372][758]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:392][759]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:416][760]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:439][761]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:459][762]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:483][763]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:506][764]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:530][765]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:553][766]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:572][767]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:597][768]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:619][769]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:639][770]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:664][771]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:686][772]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:706][773]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:730][774]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:752][775]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:774][776]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:798][777]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:820][778]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:840][779]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:864][780]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:886][781]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:906][782]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:931][783]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:952][784]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:973][785]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.55:998][786]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:020][787]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:041][788]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:065][789]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:087][790]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:107][791]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:131][792]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:154][793]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:175][794]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:199][795]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:221][796]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.56:242][797]LogBlueprintUserMessages: [VANmovement_C_0] -140.193375
+[2017.03.16-16.05.56:266][798]LogBlueprintUserMessages: [VANmovement_C_0] -264.536469
+[2017.03.16-16.05.56:290][799]LogBlueprintUserMessages: [VANmovement_C_0] -354.736206
+[2017.03.16-16.05.56:316][800]LogBlueprintUserMessages: [VANmovement_C_0] -436.135254
+[2017.03.16-16.05.56:340][801]LogBlueprintUserMessages: [VANmovement_C_0] -498.0
+[2017.03.16-16.05.56:365][802]LogBlueprintUserMessages: [VANmovement_C_0] -557.296265
+[2017.03.16-16.05.56:388][803]LogBlueprintUserMessages: [VANmovement_C_0] -585.513306
+[2017.03.16-16.05.56:412][804]LogBlueprintUserMessages: [VANmovement_C_0] -591.619751
+[2017.03.16-16.05.56:433][805]LogBlueprintUserMessages: [VANmovement_C_0] -595.137512
+[2017.03.16-16.05.56:455][806]LogBlueprintUserMessages: [VANmovement_C_0] -597.128235
+[2017.03.16-16.05.56:479][807]LogBlueprintUserMessages: [VANmovement_C_0] -598.334351
+[2017.03.16-16.05.56:501][808]LogBlueprintUserMessages: [VANmovement_C_0] -599.051514
+[2017.03.16-16.05.56:524][809]LogBlueprintUserMessages: [VANmovement_C_0] -599.453552
+[2017.03.16-16.05.56:548][810]LogBlueprintUserMessages: [VANmovement_C_0] -599.699219
+[2017.03.16-16.05.56:570][811]LogBlueprintUserMessages: [VANmovement_C_0] -599.821899
+[2017.03.16-16.05.56:590][812]LogBlueprintUserMessages: [VANmovement_C_0] -599.891113
+[2017.03.16-16.05.56:614][813]LogBlueprintUserMessages: [VANmovement_C_0] -599.939575
+[2017.03.16-16.05.56:637][814]LogBlueprintUserMessages: [VANmovement_C_0] -599.965454
+[2017.03.16-16.05.56:658][815]LogBlueprintUserMessages: [VANmovement_C_0] -599.978577
+[2017.03.16-16.05.56:682][816]LogBlueprintUserMessages: [VANmovement_C_0] -599.988037
+[2017.03.16-16.05.56:704][817]LogBlueprintUserMessages: [VANmovement_C_0] -599.99292
+[2017.03.16-16.05.56:725][818]LogBlueprintUserMessages: [VANmovement_C_0] -599.995239
+[2017.03.16-16.05.56:749][819]LogBlueprintUserMessages: [VANmovement_C_0] -599.997681
+[2017.03.16-16.05.56:770][820]LogBlueprintUserMessages: [VANmovement_C_0] -599.997986
+[2017.03.16-16.05.56:792][821]LogBlueprintUserMessages: [VANmovement_C_0] -599.998535
+[2017.03.16-16.05.56:815][822]LogBlueprintUserMessages: [VANmovement_C_0] -599.999146
+[2017.03.16-16.05.56:837][823]LogBlueprintUserMessages: [VANmovement_C_0] -599.999878
+[2017.03.16-16.05.56:858][824]LogBlueprintUserMessages: [VANmovement_C_0] -600.000488
+[2017.03.16-16.05.56:882][825]LogBlueprintUserMessages: [VANmovement_C_0] -599.999817
+[2017.03.16-16.05.56:905][826]LogBlueprintUserMessages: [VANmovement_C_0] -599.999329
+[2017.03.16-16.05.56:925][827]LogBlueprintUserMessages: [VANmovement_C_0] -599.99939
+[2017.03.16-16.05.56:950][828]LogBlueprintUserMessages: [VANmovement_C_0] -599.999634
+[2017.03.16-16.05.56:972][829]LogBlueprintUserMessages: [VANmovement_C_0] -600.000244
+[2017.03.16-16.05.56:996][830]LogBlueprintUserMessages: [VANmovement_C_0] -600.000061
+[2017.03.16-16.05.57:019][831]LogBlueprintUserMessages: [VANmovement_C_0] -599.999756
+[2017.03.16-16.05.57:040][832]LogBlueprintUserMessages: [VANmovement_C_0] -600.000244
+[2017.03.16-16.05.57:064][833]LogBlueprintUserMessages: [VANmovement_C_0] -600.000122
+[2017.03.16-16.05.57:086][834]LogBlueprintUserMessages: [VANmovement_C_0] -599.999756
+[2017.03.16-16.05.57:107][835]LogBlueprintUserMessages: [VANmovement_C_0] -599.999939
+[2017.03.16-16.05.57:132][836]LogBlueprintUserMessages: [VANmovement_C_0] -599.999817
+[2017.03.16-16.05.57:155][837]LogBlueprintUserMessages: [VANmovement_C_0] -600.000122
+[2017.03.16-16.05.57:176][838]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:200][839]LogBlueprintUserMessages: [VANmovement_C_0] -599.999878
+[2017.03.16-16.05.57:223][840]LogBlueprintUserMessages: [VANmovement_C_0] -599.999878
+[2017.03.16-16.05.57:248][841]LogBlueprintUserMessages: [VANmovement_C_0] -599.999939
+[2017.03.16-16.05.57:269][842]LogBlueprintUserMessages: [VANmovement_C_0] -599.999939
+[2017.03.16-16.05.57:290][843]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:314][844]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:336][845]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:357][846]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:382][847]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:405][848]LogBlueprintUserMessages: [VANmovement_C_0] -599.999939
+[2017.03.16-16.05.57:425][849]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:450][850]LogBlueprintUserMessages: [VANmovement_C_0] -600.000122
+[2017.03.16-16.05.57:473][851]LogBlueprintUserMessages: [VANmovement_C_0] -599.999878
+[2017.03.16-16.05.57:498][852]LogBlueprintUserMessages: [VANmovement_C_0] -600.000061
+[2017.03.16-16.05.57:520][853]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:540][854]LogBlueprintUserMessages: [VANmovement_C_0] -599.999939
+[2017.03.16-16.05.57:564][855]LogBlueprintUserMessages: [VANmovement_C_0] -600.0
+[2017.03.16-16.05.57:586][856]LogBlueprintUserMessages: [VANmovement_C_0] -599.999817
+[2017.03.16-16.05.57:607][857]LogBlueprintUserMessages: [VANmovement_C_0] -600.000305
+[2017.03.16-16.05.57:631][858]LogBlueprintUserMessages: [VANmovement_C_0] -315.928741
+[2017.03.16-16.05.57:653][859]LogBlueprintUserMessages: [VANmovement_C_0] -156.21875
+[2017.03.16-16.05.57:674][860]LogBlueprintUserMessages: [VANmovement_C_0] -63.546055
+[2017.03.16-16.05.57:698][861]LogBlueprintUserMessages: [VANmovement_C_0] 10.934902
+[2017.03.16-16.05.57:721][862]LogBlueprintUserMessages: [VANmovement_C_0] 57.116188
+[2017.03.16-16.05.57:741][863]LogBlueprintUserMessages: [VANmovement_C_0] 98.59005
+[2017.03.16-16.05.57:764][864]LogBlueprintUserMessages: [VANmovement_C_0] 146.962326
+[2017.03.16-16.05.57:787][865]LogBlueprintUserMessages: [VANmovement_C_0] 192.953003
+[2017.03.16-16.05.57:808][866]LogBlueprintUserMessages: [VANmovement_C_0] 236.16095
+[2017.03.16-16.05.57:832][867]LogBlueprintUserMessages: [VANmovement_C_0] 285.593048
+[2017.03.16-16.05.57:854][868]LogBlueprintUserMessages: [VANmovement_C_0] 330.21933
+[2017.03.16-16.05.57:874][869]LogBlueprintUserMessages: [VANmovement_C_0] 371.817749
+[2017.03.16-16.05.57:898][870]LogBlueprintUserMessages: [VANmovement_C_0] 420.729614
+[2017.03.16-16.05.57:920][871]LogBlueprintUserMessages: [VANmovement_C_0] 465.896027
+[2017.03.16-16.05.57:941][872]LogBlueprintUserMessages: [VANmovement_C_0] 507.99762
+[2017.03.16-16.05.57:965][873]LogBlueprintUserMessages: [VANmovement_C_0] 557.69574
+[2017.03.16-16.05.57:987][874]LogBlueprintUserMessages: [VANmovement_C_0] 599.999878
+[2017.03.16-16.05.58:008][875]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:032][876]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:054][877]LogBlueprintUserMessages: [VANmovement_C_0] 599.999939
+[2017.03.16-16.05.58:075][878]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:099][879]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:121][880]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:142][881]LogBlueprintUserMessages: [VANmovement_C_0] 599.999939
+[2017.03.16-16.05.58:166][882]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:189][883]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:213][884]LogBlueprintUserMessages: [VANmovement_C_0] 599.999939
+[2017.03.16-16.05.58:235][885]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:257][886]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:282][887]LogBlueprintUserMessages: [VANmovement_C_0] 599.999817
+[2017.03.16-16.05.58:303][888]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:324][889]LogBlueprintUserMessages: [VANmovement_C_0] 599.999756
+[2017.03.16-16.05.58:349][890]LogBlueprintUserMessages: [VANmovement_C_0] 600.000244
+[2017.03.16-16.05.58:371][891]LogBlueprintUserMessages: [VANmovement_C_0] 599.999756
+[2017.03.16-16.05.58:391][892]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:415][893]LogBlueprintUserMessages: [VANmovement_C_0] 600.000122
+[2017.03.16-16.05.58:437][894]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:458][895]LogBlueprintUserMessages: [VANmovement_C_0] 600.000122
+[2017.03.16-16.05.58:482][896]LogBlueprintUserMessages: [VANmovement_C_0] 599.999939
+[2017.03.16-16.05.58:505][897]LogBlueprintUserMessages: [VANmovement_C_0] 600.000061
+[2017.03.16-16.05.58:526][898]LogBlueprintUserMessages: [VANmovement_C_0] 599.999573
+[2017.03.16-16.05.58:550][899]LogBlueprintUserMessages: [VANmovement_C_0] 599.999512
+[2017.03.16-16.05.58:572][900]LogBlueprintUserMessages: [VANmovement_C_0] 599.999756
+[2017.03.16-16.05.58:597][901]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:619][902]LogBlueprintUserMessages: [VANmovement_C_0] 600.000549
+[2017.03.16-16.05.58:639][903]LogBlueprintUserMessages: [VANmovement_C_0] 599.999695
+[2017.03.16-16.05.58:664][904]LogBlueprintUserMessages: [VANmovement_C_0] 600.000488
+[2017.03.16-16.05.58:687][905]LogBlueprintUserMessages: [VANmovement_C_0] 599.999878
+[2017.03.16-16.05.58:707][906]LogBlueprintUserMessages: [VANmovement_C_0] 600.000732
+[2017.03.16-16.05.58:732][907]LogBlueprintUserMessages: [VANmovement_C_0] 599.999939
+[2017.03.16-16.05.58:755][908]LogBlueprintUserMessages: [VANmovement_C_0] 599.999878
+[2017.03.16-16.05.58:775][909]LogBlueprintUserMessages: [VANmovement_C_0] 600.000305
+[2017.03.16-16.05.58:799][910]LogBlueprintUserMessages: [VANmovement_C_0] 600.000244
+[2017.03.16-16.05.58:821][911]LogBlueprintUserMessages: [VANmovement_C_0] 599.999756
+[2017.03.16-16.05.58:842][912]LogBlueprintUserMessages: [VANmovement_C_0] 599.999268
+[2017.03.16-16.05.58:867][913]LogBlueprintUserMessages: [VANmovement_C_0] 599.999573
+[2017.03.16-16.05.58:890][914]LogBlueprintUserMessages: [VANmovement_C_0] 600.0
+[2017.03.16-16.05.58:914][915]LogBlueprintUserMessages: [VANmovement_C_0] 599.999634
+[2017.03.16-16.05.58:936][916]LogBlueprintUserMessages: [VANmovement_C_0] 599.999817
+[2017.03.16-16.05.58:956][917]LogBlueprintUserMessages: [VANmovement_C_0] 363.532532
+[2017.03.16-16.05.58:980][918]LogBlueprintUserMessages: [VANmovement_C_0] 173.071976
+[2017.03.16-16.05.59:002][919]LogBlueprintUserMessages: [VANmovement_C_0] 69.359344
+[2017.03.16-16.05.59:022][920]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.05.59:047][921]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-16.06.02:683][124]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.06.02:717][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.06.03:327][151]LogEditorTransaction: Undo Add Node
+[2017.03.16-16.06.03:361][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.06.45:109][552]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.06.45:130][552]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.06.45:130][552]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.06.45:300][552]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2017.03.16-16.06.45:300][552]PIE: New page: PIE session: Village (Mar 16, 2017, 6:06:45 PM)
+[2017.03.16-16.06.45:300][552]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.06.45:308][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008313s)
+[2017.03.16-16.06.45:309][552]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.06.45:309][552]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2017.03.16-16.06.45:309][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009613s)
+[2017.03.16-16.06.45:329][552]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.06.45:360][552]LogInit: FAudioDevice initialized.
+[2017.03.16-16.06.45:413][552]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.06.45:419][552]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.06.45
+[2017.03.16-16.06.45:419][552]LogWorld: Bringing up level for play took: 0.005187
+[2017.03.16-16.06.45:429][552]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.21
+[2017.03.16-16.07.19:304][353]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.07.19:329][353]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.07.19:329][353]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.07.19:482][353]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2017.03.16-16.07.19:482][353]PIE: New page: PIE session: Village (Mar 16, 2017, 6:07:19 PM)
+[2017.03.16-16.07.19:482][353]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.07.19:490][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007921s)
+[2017.03.16-16.07.19:492][353]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.07.19:492][353]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2017.03.16-16.07.19:492][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009536s)
+[2017.03.16-16.07.19:511][353]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.07.19:542][353]LogInit: FAudioDevice initialized.
+[2017.03.16-16.07.19:595][353]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.07.19:604][353]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.07.19
+[2017.03.16-16.07.19:605][353]LogWorld: Bringing up level for play took: 0.006831
+[2017.03.16-16.07.19:619][353]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.02
+[2017.03.16-16.07.50:677][ 92]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.07.50:704][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.07.50:704][ 92]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.07.50:871][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2017.03.16-16.07.50:871][ 92]PIE: New page: PIE session: Village (Mar 16, 2017, 6:07:50 PM)
+[2017.03.16-16.07.50:871][ 92]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.07.50:879][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007898s)
+[2017.03.16-16.07.50:880][ 92]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.07.50:881][ 92]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2017.03.16-16.07.50:881][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009314s)
+[2017.03.16-16.07.50:899][ 92]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.07.50:932][ 92]LogInit: FAudioDevice initialized.
+[2017.03.16-16.07.50:984][ 92]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.07.50:991][ 92]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.07.50
+[2017.03.16-16.07.50:992][ 92]LogWorld: Bringing up level for play took: 0.006266
+[2017.03.16-16.07.51:007][ 92]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.633
+[2017.03.16-16.08.32:705][443]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.08.32:732][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.08.32:733][443]PIE: New page: PIE session: Village (Mar 16, 2017, 6:08:32 PM)
+[2017.03.16-16.08.32:733][443]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.08.32:743][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010378s)
+[2017.03.16-16.08.32:744][443]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.08.32:744][443]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2017.03.16-16.08.32:744][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011649s)
+[2017.03.16-16.08.32:763][443]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.08.32:794][443]LogInit: FAudioDevice initialized.
+[2017.03.16-16.08.32:842][443]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.08.32:846][443]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.08.32
+[2017.03.16-16.08.32:847][443]LogWorld: Bringing up level for play took: 0.003607
+[2017.03.16-16.08.32:853][443]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.786
+[2017.03.16-16.08.43:374][ 29]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.08.43:400][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.08.43:400][ 29]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.08.43:554][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2017.03.16-16.08.43:554][ 29]PIE: New page: PIE session: Village (Mar 16, 2017, 6:08:43 PM)
+[2017.03.16-16.08.43:554][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.08.43:563][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008989s)
+[2017.03.16-16.08.43:564][ 29]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.08.43:564][ 29]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2017.03.16-16.08.43:565][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010665s)
+[2017.03.16-16.08.43:584][ 29]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.08.43:615][ 29]LogInit: FAudioDevice initialized.
+[2017.03.16-16.08.43:666][ 29]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.08.43:673][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.08.43
+[2017.03.16-16.08.43:673][ 29]LogWorld: Bringing up level for play took: 0.005431
+[2017.03.16-16.08.43:682][ 29]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.043
+[2017.03.16-16.09.32:630][852]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.09.32:657][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.09.32:657][852]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.09.32:811][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2017.03.16-16.09.32:811][852]PIE: New page: PIE session: Village (Mar 16, 2017, 6:09:32 PM)
+[2017.03.16-16.09.32:811][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.09.32:819][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008690s)
+[2017.03.16-16.09.32:821][852]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.09.32:821][852]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2017.03.16-16.09.32:821][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010414s)
+[2017.03.16-16.09.32:841][852]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.09.32:871][852]LogInit: FAudioDevice initialized.
+[2017.03.16-16.09.32:915][852]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.09.32:920][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.09.32
+[2017.03.16-16.09.32:921][852]LogWorld: Bringing up level for play took: 0.003644
+[2017.03.16-16.09.32:927][852]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.713
+[2017.03.16-16.09.40:845][179]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.09.40:872][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.09.40:872][179]PIE: New page: PIE session: Village (Mar 16, 2017, 6:09:40 PM)
+[2017.03.16-16.09.40:872][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.09.40:882][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009791s)
+[2017.03.16-16.09.40:883][179]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.09.40:883][179]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2017.03.16-16.09.40:883][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010968s)
+[2017.03.16-16.09.40:909][179]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.09.40:938][179]LogInit: FAudioDevice initialized.
+[2017.03.16-16.09.40:991][179]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.09.41:000][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.09.41
+[2017.03.16-16.09.41:001][179]LogWorld: Bringing up level for play took: 0.008719
+[2017.03.16-16.09.41:016][179]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.624
+[2017.03.16-16.09.42:797][217]LogRenderer: Reallocating scene render targets to support 1292x792 NumSamples 1 (Frame:68498).
+[2017.03.16-16.10.13:214][775]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.10.13:273][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.10.20:240][129]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.10.20:262][129]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.10.20:262][129]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.10.20:434][129]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2017.03.16-16.10.20:434][129]PIE: New page: PIE session: Village (Mar 16, 2017, 6:10:20 PM)
+[2017.03.16-16.10.20:434][129]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.10.20:443][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008406s)
+[2017.03.16-16.10.20:444][129]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.10.20:444][129]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2017.03.16-16.10.20:444][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009952s)
+[2017.03.16-16.10.20:463][129]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.10.20:494][129]LogInit: FAudioDevice initialized.
+[2017.03.16-16.10.20:546][129]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.10.20:554][129]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.10.20
+[2017.03.16-16.10.20:555][129]LogWorld: Bringing up level for play took: 0.006208
+[2017.03.16-16.10.20:566][129]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.927
+[2017.03.16-16.10.24:888][360]Cmd: TRANSACTION UNDO
+[2017.03.16-16.10.24:888][360]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.10.24:914][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.10.25:372][385]Cmd: TRANSACTION UNDO
+[2017.03.16-16.10.25:372][385]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.10.25:408][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.10.25:873][411]Cmd: TRANSACTION UNDO
+[2017.03.16-16.10.25:873][411]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.10.25:921][411]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.11.02:835][582]BlueprintLog: New page: Compile VANmovement
+[2017.03.16-16.11.03:866][624]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.11.03:888][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.11.03:888][624]PIE: New page: PIE session: Village (Mar 16, 2017, 6:11:03 PM)
+[2017.03.16-16.11.03:888][624]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.11.03:899][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010515s)
+[2017.03.16-16.11.03:900][624]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.11.03:900][624]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2017.03.16-16.11.03:900][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011858s)
+[2017.03.16-16.11.03:920][624]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.11.03:952][624]LogInit: FAudioDevice initialized.
+[2017.03.16-16.11.03:995][624]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.11.04:000][624]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.11.04
+[2017.03.16-16.11.04:000][624]LogWorld: Bringing up level for play took: 0.003787
+[2017.03.16-16.11.04:009][624]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.37
+[2017.03.16-16.11.38:620][568]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.11.38:642][568]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.11.38:642][568]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.11.38:796][568]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2017.03.16-16.11.38:796][568]PIE: New page: PIE session: Village (Mar 16, 2017, 6:11:38 PM)
+[2017.03.16-16.11.38:796][568]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.11.38:804][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007799s)
+[2017.03.16-16.11.38:804][568]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.11.38:805][568]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.03.16-16.11.38:805][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.008870s)
+[2017.03.16-16.11.38:827][568]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.11.38:858][568]LogInit: FAudioDevice initialized.
+[2017.03.16-16.11.38:912][568]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.11.38:922][568]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.11.38
+[2017.03.16-16.11.38:923][568]LogWorld: Bringing up level for play took: 0.007951
+[2017.03.16-16.11.38:937][568]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.702
+[2017.03.16-16.11.59:870][724]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.11.59:901][724]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.11.59:901][724]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.12.00:074][724]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2017.03.16-16.12.00:074][724]PIE: New page: PIE session: Village (Mar 16, 2017, 6:12:00 PM)
+[2017.03.16-16.12.00:074][724]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.12.00:081][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007484s)
+[2017.03.16-16.12.00:082][724]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.12.00:082][724]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2017.03.16-16.12.00:082][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.008594s)
+[2017.03.16-16.12.00:102][724]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.12.00:132][724]LogInit: FAudioDevice initialized.
+[2017.03.16-16.12.00:180][724]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.12.00:184][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.12.00
+[2017.03.16-16.12.00:185][724]LogWorld: Bringing up level for play took: 0.003692
+[2017.03.16-16.12.00:193][724]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.553
+[2017.03.16-16.12.31:955][549]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.12.31:980][549]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.12.31:980][549]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.12.32:131][549]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2017.03.16-16.12.32:132][549]PIE: New page: PIE session: Village (Mar 16, 2017, 6:12:32 PM)
+[2017.03.16-16.12.32:132][549]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.12.32:140][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008073s)
+[2017.03.16-16.12.32:140][549]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.12.32:141][549]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2017.03.16-16.12.32:142][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009954s)
+[2017.03.16-16.12.32:160][549]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.12.32:191][549]LogInit: FAudioDevice initialized.
+[2017.03.16-16.12.32:248][549]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.12.32:257][549]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.12.32
+[2017.03.16-16.12.32:257][549]LogWorld: Bringing up level for play took: 0.006565
+[2017.03.16-16.12.32:273][549]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.634
+[2017.03.16-16.13.44:104][504]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.03.16-16.13.44:324][504]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.16-16.14.25:833][883]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.14.25:859][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.14.25:859][883]PIE: New page: PIE session: Village (Mar 16, 2017, 6:14:25 PM)
+[2017.03.16-16.14.25:859][883]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.14.25:870][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2017.03.16-16.14.25:871][883]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.14.25:871][883]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2017.03.16-16.14.25:871][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011902s)
+[2017.03.16-16.14.25:893][883]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.14.25:925][883]LogInit: FAudioDevice initialized.
+[2017.03.16-16.14.25:977][883]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.14.25:981][883]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.14.25
+[2017.03.16-16.14.25:982][883]LogWorld: Bringing up level for play took: 0.003629
+[2017.03.16-16.14.25:990][883]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.351
+[2017.03.16-16.14.59:438][657]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.14.59:472][657]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.15.02:395][801]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.15.02:427][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.15.03:394][828]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.15.03:394][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.15.15:549][492]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.15.15:572][492]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.15.15:572][492]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.15.15:731][492]LogPlayLevel: PlayLevel: Blueprint regeneration took 159 ms (1 blueprints)
+[2017.03.16-16.15.15:731][492]PIE: New page: PIE session: Village (Mar 16, 2017, 6:15:15 PM)
+[2017.03.16-16.15.15:731][492]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.15.15:739][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007809s)
+[2017.03.16-16.15.15:739][492]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.15.15:741][492]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2017.03.16-16.15.15:741][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009222s)
+[2017.03.16-16.15.15:760][492]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.15.15:792][492]LogInit: FAudioDevice initialized.
+[2017.03.16-16.15.15:845][492]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.15.15:849][492]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.15.15
+[2017.03.16-16.15.15:850][492]LogWorld: Bringing up level for play took: 0.003948
+[2017.03.16-16.15.15:864][492]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.225
+[2017.03.16-16.15.46:796][243]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Village' took 0.018
+[2017.03.16-16.15.46:799][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/VANmodel/Animations/VANmovement] ([1] browsable assets)...
+[2017.03.16-16.15.46:814][243]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/VANmodel/Animations/VANmovement.VANmovement]
+[2017.03.16-16.15.46:815][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/VANmodel/Animations/VANmovement]
+[2017.03.16-16.15.46:888][243]LogSavePackage: Save=49.69ms
+[2017.03.16-16.15.46:888][243]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovement_Auto184A49E3E4D88CB9B7F09C29248C8F90E.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/VANmodel/Animations/VANmovement_Auto1.uasset'
+[2017.03.16-16.15.46:891][243]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Models/VANmodel/Animations/VANmovement_Auto1.uasset
+[2017.03.16-16.15.46:891][243]LogFileHelpers: Auto-saving content packages took 0.094
+[2017.03.16-16.17.16:653][587]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.17.16:680][587]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.17.16:680][587]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.17.16:845][587]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2017.03.16-16.17.16:845][587]PIE: New page: PIE session: Village (Mar 16, 2017, 6:17:16 PM)
+[2017.03.16-16.17.16:845][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.17.16:853][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007949s)
+[2017.03.16-16.17.16:854][587]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.17.16:855][587]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2017.03.16-16.17.16:855][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010006s)
+[2017.03.16-16.17.16:876][587]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.17.16:907][587]LogInit: FAudioDevice initialized.
+[2017.03.16-16.17.16:958][587]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.17.16:963][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.17.16
+[2017.03.16-16.17.16:964][587]LogWorld: Bringing up level for play took: 0.004448
+[2017.03.16-16.17.16:978][587]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.662
+[2017.03.16-16.19.51:030][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/VANmodel/Animations/VANmovement" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset" SILENT=true
+[2017.03.16-16.19.51:097][550]LogSavePackage: Save=48.36ms
+[2017.03.16-16.19.51:097][550]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovementF19C61F1427C89E635514ABFEC7D9DCB.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset'
+[2017.03.16-16.19.51:101][550]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset
+[2017.03.16-16.22.03:347][ 77]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.22.03:375][ 77]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.22.03:375][ 77]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.22.03:570][ 77]LogPlayLevel: PlayLevel: Blueprint regeneration took 195 ms (1 blueprints)
+[2017.03.16-16.22.03:570][ 77]PIE: New page: PIE session: Village (Mar 16, 2017, 6:22:03 PM)
+[2017.03.16-16.22.03:570][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.22.03:580][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009652s)
+[2017.03.16-16.22.03:581][ 77]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.22.03:581][ 77]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2017.03.16-16.22.03:581][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010951s)
+[2017.03.16-16.22.03:600][ 77]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.22.03:632][ 77]LogInit: FAudioDevice initialized.
+[2017.03.16-16.22.03:685][ 77]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.22.03:689][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.22.03
+[2017.03.16-16.22.03:690][ 77]LogWorld: Bringing up level for play took: 0.003614
+[2017.03.16-16.22.03:698][ 77]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.059
+[2017.03.16-16.23.30:564][ 96]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.23.30:590][ 96]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.23.30:590][ 96]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.23.30:752][ 96]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2017.03.16-16.23.30:752][ 96]PIE: New page: PIE session: Village (Mar 16, 2017, 6:23:30 PM)
+[2017.03.16-16.23.30:752][ 96]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.23.30:761][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008133s)
+[2017.03.16-16.23.30:762][ 96]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.23.30:762][ 96]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2017.03.16-16.23.30:762][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010196s)
+[2017.03.16-16.23.30:780][ 96]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.23.30:811][ 96]LogInit: FAudioDevice initialized.
+[2017.03.16-16.23.30:867][ 96]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.23.30:875][ 96]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.23.30
+[2017.03.16-16.23.30:877][ 96]LogWorld: Bringing up level for play took: 0.007241
+[2017.03.16-16.23.30:889][ 96]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 1.249
+[2017.03.16-16.24.28:589][427]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.24.28:614][427]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.24.28:614][427]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.24.28:778][427]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2017.03.16-16.24.28:778][427]PIE: New page: PIE session: Village (Mar 16, 2017, 6:24:28 PM)
+[2017.03.16-16.24.28:778][427]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.24.28:787][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008559s)
+[2017.03.16-16.24.28:787][427]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.24.28:788][427]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.03.16-16.24.28:788][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009684s)
+[2017.03.16-16.24.28:810][427]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.24.28:840][427]LogInit: FAudioDevice initialized.
+[2017.03.16-16.24.28:893][427]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.24.28:897][427]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.24.28
+[2017.03.16-16.24.28:897][427]LogWorld: Bringing up level for play took: 0.003157
+[2017.03.16-16.24.28:907][427]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 1.268
+[2017.03.16-16.29.16:136][279]BlueprintLog: New page: Compile VANmovement
+[2017.03.16-16.29.17:685][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/VANmodel/Animations/VANmovement" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset" SILENT=true
+[2017.03.16-16.29.17:773][336]LogSavePackage: Save=65.57ms
+[2017.03.16-16.29.17:773][336]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovementC50FEC0847A60E1191B00881F1CB8ED3.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset'
+[2017.03.16-16.29.17:777][336]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset
+[2017.03.16-16.29.18:424][369]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.29.18:450][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.29.18:450][369]PIE: New page: PIE session: Village (Mar 16, 2017, 6:29:18 PM)
+[2017.03.16-16.29.18:451][369]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.29.18:460][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009636s)
+[2017.03.16-16.29.18:461][369]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.29.18:462][369]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2017.03.16-16.29.18:462][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011499s)
+[2017.03.16-16.29.18:482][369]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.29.18:515][369]LogInit: FAudioDevice initialized.
+[2017.03.16-16.29.18:564][369]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.29.18:569][369]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.29.18
+[2017.03.16-16.29.18:569][369]LogWorld: Bringing up level for play took: 0.003612
+[2017.03.16-16.29.18:579][369]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.939
+[2017.03.16-16.29.59:353][382]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.29.59:380][382]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.29.59:380][382]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.29.59:582][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2017.03.16-16.29.59:583][382]PIE: New page: PIE session: Village (Mar 16, 2017, 6:29:59 PM)
+[2017.03.16-16.29.59:583][382]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.29.59:591][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008222s)
+[2017.03.16-16.29.59:592][382]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.29.59:593][382]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2017.03.16-16.29.59:593][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010494s)
+[2017.03.16-16.29.59:613][382]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.29.59:644][382]LogInit: FAudioDevice initialized.
+[2017.03.16-16.29.59:700][382]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.29.59:708][382]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.29.59
+[2017.03.16-16.29.59:709][382]LogWorld: Bringing up level for play took: 0.006655
+[2017.03.16-16.29.59:726][382]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.087
+[2017.03.16-16.30.30:909][ 24]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.30.30:934][ 24]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.30.30:934][ 24]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.30.31:112][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.03.16-16.30.31:112][ 24]PIE: New page: PIE session: Village (Mar 16, 2017, 6:30:31 PM)
+[2017.03.16-16.30.31:112][ 24]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.30.31:120][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008269s)
+[2017.03.16-16.30.31:122][ 24]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.30.31:122][ 24]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2017.03.16-16.30.31:122][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010402s)
+[2017.03.16-16.30.31:141][ 24]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.30.31:171][ 24]LogInit: FAudioDevice initialized.
+[2017.03.16-16.30.31:223][ 24]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.30.31:232][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.30.31
+[2017.03.16-16.30.31:233][ 24]LogWorld: Bringing up level for play took: 0.007414
+[2017.03.16-16.30.31:247][ 24]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.392
+[2017.03.16-16.30.51:627][ 40]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.30.51:652][ 40]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.30.51:652][ 40]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.30.51:827][ 40]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2017.03.16-16.30.51:827][ 40]PIE: New page: PIE session: Village (Mar 16, 2017, 6:30:51 PM)
+[2017.03.16-16.30.51:827][ 40]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.30.51:835][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008019s)
+[2017.03.16-16.30.51:836][ 40]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.30.51:837][ 40]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2017.03.16-16.30.51:837][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010345s)
+[2017.03.16-16.30.51:855][ 40]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.30.51:885][ 40]LogInit: FAudioDevice initialized.
+[2017.03.16-16.30.51:937][ 40]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.30.51:942][ 40]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.30.51
+[2017.03.16-16.30.51:942][ 40]LogWorld: Bringing up level for play took: 0.004155
+[2017.03.16-16.30.51:952][ 40]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.312
+[2017.03.16-16.31.22:872][494]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.31.22:897][494]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.31.22:897][494]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.31.23:080][494]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (1 blueprints)
+[2017.03.16-16.31.23:080][494]PIE: New page: PIE session: Village (Mar 16, 2017, 6:31:23 PM)
+[2017.03.16-16.31.23:080][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.31.23:089][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008441s)
+[2017.03.16-16.31.23:089][494]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.31.23:089][494]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.03.16-16.31.23:089][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009487s)
+[2017.03.16-16.31.23:109][494]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.31.23:140][494]LogInit: FAudioDevice initialized.
+[2017.03.16-16.31.23:192][494]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.31.23:197][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.31.23
+[2017.03.16-16.31.23:198][494]LogWorld: Bringing up level for play took: 0.004271
+[2017.03.16-16.31.23:211][494]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.429
+[2017.03.16-16.32.45:412][903]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.32.45:438][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.32.45:438][903]PIE: New page: PIE session: Village (Mar 16, 2017, 6:32:45 PM)
+[2017.03.16-16.32.45:438][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.32.45:448][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009875s)
+[2017.03.16-16.32.45:449][903]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.32.45:449][903]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2017.03.16-16.32.45:450][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011272s)
+[2017.03.16-16.32.45:469][903]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.32.45:503][903]LogInit: FAudioDevice initialized.
+[2017.03.16-16.32.45:555][903]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.32.45:563][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.32.45
+[2017.03.16-16.32.45:564][903]LogWorld: Bringing up level for play took: 0.007355
+[2017.03.16-16.32.45:580][903]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.059
+[2017.03.16-16.33.20:896][612]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.33.20:924][612]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.33.20:924][612]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.33.21:105][612]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2017.03.16-16.33.21:105][612]PIE: New page: PIE session: Village (Mar 16, 2017, 6:33:21 PM)
+[2017.03.16-16.33.21:105][612]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.33.21:113][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008256s)
+[2017.03.16-16.33.21:114][612]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.33.21:114][612]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2017.03.16-16.33.21:114][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009590s)
+[2017.03.16-16.33.21:137][612]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.33.21:170][612]LogInit: FAudioDevice initialized.
+[2017.03.16-16.33.21:229][612]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.33.21:238][612]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.33.21
+[2017.03.16-16.33.21:239][612]LogWorld: Bringing up level for play took: 0.007420
+[2017.03.16-16.33.21:255][612]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.384
+[2017.03.16-16.33.50:663][ 43]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.33.50:689][ 43]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.33.50:689][ 43]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.33.50:867][ 43]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.03.16-16.33.50:867][ 43]PIE: New page: PIE session: Village (Mar 16, 2017, 6:33:50 PM)
+[2017.03.16-16.33.50:867][ 43]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.33.50:876][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008612s)
+[2017.03.16-16.33.50:876][ 43]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.33.50:876][ 43]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2017.03.16-16.33.50:876][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009561s)
+[2017.03.16-16.33.50:897][ 43]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.33.50:929][ 43]LogInit: FAudioDevice initialized.
+[2017.03.16-16.33.50:979][ 43]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.33.50:987][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.33.50
+[2017.03.16-16.33.50:988][ 43]LogWorld: Bringing up level for play took: 0.006905
+[2017.03.16-16.33.51:006][ 43]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.633
+[2017.03.16-16.34.01:355][520]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.34.01:381][520]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.34.01:381][520]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.34.01:560][520]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (1 blueprints)
+[2017.03.16-16.34.01:560][520]PIE: New page: PIE session: Village (Mar 16, 2017, 6:34:01 PM)
+[2017.03.16-16.34.01:561][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.34.01:569][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007990s)
+[2017.03.16-16.34.01:569][520]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.34.01:569][520]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.03.16-16.34.01:570][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009081s)
+[2017.03.16-16.34.01:592][520]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.34.01:623][520]LogInit: FAudioDevice initialized.
+[2017.03.16-16.34.01:676][520]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.34.01:684][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.34.01
+[2017.03.16-16.34.01:685][520]LogWorld: Bringing up level for play took: 0.006626
+[2017.03.16-16.34.01:702][520]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.063
+[2017.03.16-16.34.58:597][510]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.34.58:623][510]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.34.58:623][510]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.34.58:801][510]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.03.16-16.34.58:801][510]PIE: New page: PIE session: Village (Mar 16, 2017, 6:34:58 PM)
+[2017.03.16-16.34.58:801][510]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.34.58:810][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008634s)
+[2017.03.16-16.34.58:811][510]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.34.58:811][510]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2017.03.16-16.34.58:811][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009860s)
+[2017.03.16-16.34.58:831][510]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.34.58:861][510]LogInit: FAudioDevice initialized.
+[2017.03.16-16.34.58:916][510]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.34.58:920][510]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.34.58
+[2017.03.16-16.34.58:921][510]LogWorld: Bringing up level for play took: 0.003546
+[2017.03.16-16.34.58:932][510]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 1.292
+[2017.03.16-16.35.10:558][101]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.35.10:583][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.35.10:583][101]PIE: New page: PIE session: Village (Mar 16, 2017, 6:35:10 PM)
+[2017.03.16-16.35.10:583][101]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.35.10:593][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009678s)
+[2017.03.16-16.35.10:593][101]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.35.10:594][101]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2017.03.16-16.35.10:594][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011093s)
+[2017.03.16-16.35.10:613][101]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.35.10:646][101]LogInit: FAudioDevice initialized.
+[2017.03.16-16.35.10:699][101]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.35.10:707][101]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.35.10
+[2017.03.16-16.35.10:708][101]LogWorld: Bringing up level for play took: 0.006887
+[2017.03.16-16.35.10:724][101]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 1.084
+[2017.03.16-16.35.49:759][344]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.35.49:785][344]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.35.49:785][344]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.35.49:965][344]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (1 blueprints)
+[2017.03.16-16.35.49:965][344]PIE: New page: PIE session: Village (Mar 16, 2017, 6:35:49 PM)
+[2017.03.16-16.35.49:965][344]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.35.49:973][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007760s)
+[2017.03.16-16.35.49:974][344]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.35.49:974][344]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2017.03.16-16.35.49:975][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009884s)
+[2017.03.16-16.35.49:994][344]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.35.50:023][344]LogInit: FAudioDevice initialized.
+[2017.03.16-16.35.50:075][344]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.35.50:081][344]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.35.50
+[2017.03.16-16.35.50:081][344]LogWorld: Bringing up level for play took: 0.004803
+[2017.03.16-16.35.50:096][344]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.457
+[2017.03.16-16.36.53:173][872]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.36.53:200][872]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.36.53:200][872]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.36.53:377][872]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.03.16-16.36.53:378][872]PIE: New page: PIE session: Village (Mar 16, 2017, 6:36:53 PM)
+[2017.03.16-16.36.53:378][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.36.53:387][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008811s)
+[2017.03.16-16.36.53:387][872]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.36.53:387][872]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.03.16-16.36.53:388][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.009854s)
+[2017.03.16-16.36.53:409][872]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.36.53:441][872]LogInit: FAudioDevice initialized.
+[2017.03.16-16.36.53:495][872]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.36.53:501][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.36.53
+[2017.03.16-16.36.53:501][872]LogWorld: Bringing up level for play took: 0.004737
+[2017.03.16-16.36.53:511][872]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.128
+[2017.03.16-16.37.10:846][827]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-16.37.15:601][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StraightStreet3)
+[2017.03.16-16.37.16:452][114]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-16.38.21:538][ 10]Cmd: TRANSACTION UNDO
+[2017.03.16-16.38.21:538][ 10]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.38.21:542][ 10]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CollisionCylinder) Component already registered.
+[2017.03.16-16.38.21:546][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.38.34:142][762]Cmd: TRANSACTION UNDO
+[2017.03.16-16.38.34:142][762]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.38.34:146][762]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CollisionCylinder) Component already registered.
+[2017.03.16-16.38.34:150][762]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.39.40:596][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Village" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.16-16.39.40:714][341]LogSavePackage: Save=50.12ms
+[2017.03.16-16.39.40:714][341]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Village779A002A401D68AB9CF55A8F5C25B4AB.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap'
+[2017.03.16-16.39.40:718][341]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap
+[2017.03.16-16.39.40:779][341]LogFileHelpers: Saving map 'Village' took 2.162
+[2017.03.16-16.39.40:829][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/VANmodel/Animations/VANmovement" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset" SILENT=true
+[2017.03.16-16.39.40:908][341]LogSavePackage: Save=61.51ms
+[2017.03.16-16.39.40:908][341]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovement083167D7401AA048B77E0CA856024069.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset'
+[2017.03.16-16.39.40:912][341]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset
+[2017.03.16-16.41.22:182][524]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.22:182][524]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.22:187][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.22:581][538]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.22:581][538]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.22:586][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.22:962][553]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.22:962][553]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.22:967][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.23:400][572]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.23:400][572]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.23:405][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.24:126][607]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.24:126][607]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.24:132][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.36:425][267]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.36:425][267]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.36:430][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.41.36:929][286]Cmd: TRANSACTION UNDO
+[2017.03.16-16.41.36:929][286]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.41.36:935][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.42.31:695][ 66]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.42.31:719][ 66]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.42.31:719][ 66]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.42.31:931][ 66]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (1 blueprints)
+[2017.03.16-16.42.31:932][ 66]PIE: New page: PIE session: Village (Mar 16, 2017, 6:42:31 PM)
+[2017.03.16-16.42.31:932][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.42.31:941][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008803s)
+[2017.03.16-16.42.31:942][ 66]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.42.31:942][ 66]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2017.03.16-16.42.31:942][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010606s)
+[2017.03.16-16.42.31:961][ 66]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.42.31:993][ 66]LogInit: FAudioDevice initialized.
+[2017.03.16-16.42.32:050][ 66]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.42.32:054][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.42.32
+[2017.03.16-16.42.32:055][ 66]LogWorld: Bringing up level for play took: 0.003247
+[2017.03.16-16.42.32:067][ 66]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.427
+[2017.03.16-16.42.47:984][785]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-16.42.49:211][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StraightStreet2)
+[2017.03.16-16.42.51:025][937]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.42.51:049][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-16.42.51:049][937]PIE: New page: PIE session: Village (Mar 16, 2017, 6:42:51 PM)
+[2017.03.16-16.42.51:050][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.42.51:059][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009877s)
+[2017.03.16-16.42.51:060][937]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.42.51:060][937]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2017.03.16-16.42.51:061][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011140s)
+[2017.03.16-16.42.51:077][937]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.42.51:108][937]LogInit: FAudioDevice initialized.
+[2017.03.16-16.42.51:159][937]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.42.51:166][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.42.51
+[2017.03.16-16.42.51:166][937]LogWorld: Bringing up level for play took: 0.006282
+[2017.03.16-16.42.51:175][937]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.464
+[2017.03.16-16.42.57:447][300]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-16.43.11:928][127]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.11:928][127]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.43.11:933][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.12:190][141]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.12:190][141]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.03.16-16.43.12:210][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.12:468][155]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.12:468][155]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.43.12:471][155]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CollisionCylinder) Component already registered.
+[2017.03.16-16.43.12:475][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.12:683][167]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.12:683][167]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.03.16-16.43.12:698][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.12:843][175]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.12:843][175]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.03.16-16.43.12:867][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.12:973][180]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.12:973][180]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.03.16-16.43.13:008][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.13:136][187]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.13:136][187]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.16-16.43.13:438][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.13:448][187]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.13:448][187]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.16-16.43.13:512][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.13:516][187]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.13:516][187]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.16-16.43.13:517][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.13:722][190]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.13:722][190]LogEditorTransaction: Undo Move Node
+[2017.03.16-16.43.13:769][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.13:932][196]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.13:932][196]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.43.13:965][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.14:139][205]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.14:139][205]LogEditorTransaction: Undo Add Node
+[2017.03.16-16.43.14:173][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.14:332][213]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.14:332][213]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.43.14:367][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.14:540][222]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.14:540][222]LogEditorTransaction: Undo Change Number Pin Value
+[2017.03.16-16.43.14:577][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.14:703][228]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.14:703][228]LogEditorTransaction: Undo Change Number Pin Value
+[2017.03.16-16.43.14:737][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.14:881][236]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.14:881][236]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.43.14:887][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.15:049][245]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.15:049][245]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.43.15:054][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.16:061][305]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.16:061][305]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-16.43.16:070][305]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.16:601][336]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.16:601][336]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.03.16-16.43.16:618][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.16:770][344]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.16:771][344]LogEditorTransaction: Undo Move Node
+[2017.03.16-16.43.16:805][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.16:945][351]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.16:945][351]LogEditorTransaction: Undo Create Pin Link
+[2017.03.16-16.43.16:979][351]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.17:119][358]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.17:119][358]LogEditorTransaction: Undo Delete current selection
+[2017.03.16-16.43.17:153][358]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.17:286][364]Cmd: TRANSACTION UNDO
+[2017.03.16-16.43.17:286][364]LogEditorTransaction: Undo Paste clipboard contents
+[2017.03.16-16.43.17:318][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-16.43.19:623][501]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-16.43.19:646][501]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-16.43.19:646][501]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-16.43.19:833][501]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2017.03.16-16.43.19:833][501]PIE: New page: PIE session: Village (Mar 16, 2017, 6:43:19 PM)
+[2017.03.16-16.43.19:833][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-16.43.19:840][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007335s)
+[2017.03.16-16.43.19:841][501]LogAIModule: Creating AISystem for world Village
+[2017.03.16-16.43.19:841][501]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2017.03.16-16.43.19:842][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.008520s)
+[2017.03.16-16.43.19:861][501]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-16.43.19:893][501]LogInit: FAudioDevice initialized.
+[2017.03.16-16.43.19:942][501]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-16.43.19:946][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-17.43.19
+[2017.03.16-16.43.19:947][501]LogWorld: Bringing up level for play took: 0.003452
+[2017.03.16-16.43.19:954][501]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.314
+[2017.03.16-16.43.32:297][128]LogUObjectBase:Warning: NULL object
+[2017.03.16-16.43.32:676][128]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.379 s
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: 
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 520]
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: Object in KismetInspector is invalid, see TTP 281915
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: Stack: 
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:676][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: uxtheme.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: uxtheme.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: ntdll.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: win32u.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: USER32.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: KERNEL32.DLL
+[2017.03.16-16.43.32:677][128]LogOutputDevice:Error: 
+[2017.03.16-16.43.32:678][128]LogStats:                SubmitErrorReport -  0.000 s
