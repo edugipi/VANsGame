@@ -1,0 +1,1955 @@
+﻿Log file open, 03/16/17 16:16:10
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-647789274) SRandInit(-647789274).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.245872
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.16-15.16.12:372][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.16-15.16.12:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.16-15.16.12:394][  0]LogInit: Computer: DESKTOP-3FAHSDO
+[2017.03.16-15.16.12:394][  0]LogInit: User: Edd
+[2017.03.16-15.16.12:394][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.16-15.16.12:394][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2017.03.16-15.16.12:394][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.16-15.16.12:394][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.16-15.16.12:394][  0]LogMemory: Process Physical Memory: 266.32 MB used, 266.32 MB peak
+[2017.03.16-15.16.12:395][  0]LogMemory: Process Virtual Memory: 262.70 MB used, 262.70 MB peak
+[2017.03.16-15.16.12:395][  0]LogMemory: Physical Memory: 4115.00 MB used,  3953.52 MB free, 8068.52 MB total
+[2017.03.16-15.16.12:395][  0]LogMemory: Virtual Memory: 676.55 MB used,  3953.52 MB free, 134217728.00 MB total
+[2017.03.16-15.16.12:941][  0]LogInit: Overriding culture en with editor configuration.
+[2017.03.16-15.16.14:913][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.16-15.16.15:316][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.03.16-15.16.15:316][  0]LogD3D11RHI:       2018/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.16-15.16.15:327][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.03.16-15.16.15:327][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.16-15.16.15:330][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.16-15.16.15:330][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.16-15.16.15:330][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.16-15.16.15:335][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.16-15.16.15:335][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.03.16-15.16.15:335][  0]LogWindows: EnumDisplayDevices:
+[2017.03.16-15.16.15:336][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.03.16-15.16.15:336][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.16-15.16.15:336][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.16-15.16.15:337][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.16-15.16.15:337][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.03.16-15.16.15:337][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.16-15.16.15:337][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.16-15.16.15:337][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.16-15.16.15:354][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.16-15.16.15:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.16-15.16.15:373][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/8932/).
+[2017.03.16-15.16.15:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edd/AppData/Local/Temp/UnrealShaderWorkingDir/885F9A2C44F6015E9F52ABB0DF6C306A/'.
+[2017.03.16-15.16.15:373][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.16-15.16.18:160][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.16-15.16.18:489][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.16-15.16.18:826][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.16-15.16.19:163][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.16-15.16.19:515][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.16-15.16.19:851][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.16-15.16.20:191][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.16-15.16.20:560][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.16-15.16.20:892][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.16-15.16.21:232][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.16-15.16.21:574][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.16-15.16.21:941][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.16-15.16.22:260][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.16-15.16.22:598][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.16-15.16.23:271][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.16-15.16.23:271][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.16-15.16.23:646][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.16-15.16.23:968][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.16-15.16.24:565][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.16-15.16.24:773][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.16-15.16.25:088][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.16-15.16.25:414][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.16-15.16.25:718][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.16-15.16.26:094][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.16-15.16.26:094][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.16-15.16.29:884][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache: Loaded boot cache 0.27s 50MB C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.16-15.16.30:155][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.16-15.16.30:217][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.16-15.16.30:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.16-15.16.32:152][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.16-15.16.32:158][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.16-15.16.33:344][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.16-15.16.33:813][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.16-15.16.34:182][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.16-15.16.34:182][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.16-15.16.34:182][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.16-15.16.36:590][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1363929391
+[2017.03.16-15.16.37:017][  0]LogAssetRegistry: FAssetRegistry took 0.0227 seconds to start up
+[2017.03.16-15.16.37:318][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.027532 seconds
+[2017.03.16-15.16.37:332][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.16-15.16.37:332][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.03.16-15.16.37:332][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.16-15.16.38:029][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.16-15.16.44:850][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.16-15.16.44:876][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.16-15.16.44:876][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.16-15.16.52:001][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.16-15.16.52:226][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.16-15.16.54:688][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.16-15.16.57:174][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.16.57:176][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.16.57:601][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.16.57:931][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.17.06:827][  0]LogEngine: Initializing Engine...
+[2017.03.16-15.17.06:828][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.16-15.17.07:916][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.16-15.17.07:934][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.17.08:158][  0]LogInit: FAudioDevice initialized.
+[2017.03.16-15.17.08:195][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Edd/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.16-15.17.08:205][  0]LogInit: Texture streaming: Enabled
+[2017.03.16-15.17.09:779][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.16-15.17.10:333][  0]LogInit: Transaction tracking system initialized
+[2017.03.16-15.17.13:969][  0]BlueprintLog: New page: Editor Load
+[2017.03.16-15.17.23:940][  0]LocalizationService: Info Localization service is disabled
+[2017.03.16-15.17.30:232][  0]LogConsoleResponse:Display: 
+[2017.03.16-15.17.31:656][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.16-15.17.31:656][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.16-15.17.32:730][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.05s
+[2017.03.16-15.17.39:755][  0]SourceControl: Info Source control is disabled
+[2017.03.16-15.17.39:756][  0]Cmd: MAP LOAD FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.16-15.17.39:758][  0]LightingResults: New page: Lighting Build
+[2017.03.16-15.17.40:015][  0]MapCheck: New page: Map Check
+[2017.03.16-15.17.40:015][  0]LightingResults: New page: Lighting Build
+[2017.03.16-15.17.40:798][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.16-15.17.40:799][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.16-15.17.40:828][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.16-15.17.40:829][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.16-15.17.42:662][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,832.811ms to complete.
+[2017.03.16-15.17.42:662][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.907
+[2017.03.16-15.17.43:179][  0]LogCollectionManager: Loaded 0 collections in 0.002839 seconds
+[2017.03.16-15.17.43:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2017.03.16-15.17.43:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/Edd/Collections/' took 0.01s
+[2017.03.16-15.17.43:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2017.03.16-15.17.43:486][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2017.03.16-15.17.43:496][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2190 classes and 428 folders.
+[2017.03.16-15.17.43:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.16-15.17.43:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.16-15.17.43:729][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.03.16-15.17.44:100][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.16-15.17.44:433][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.03.16-15.17.44:816][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.03.16-15.17.45:033][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.16-15.17.45:041][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.16-15.17.45:403][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.16-15.17.45:404][  0]LogLoad: (Engine Initialization) Total time: 100.10 seconds
+[2017.03.16-15.17.45:404][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.54 seconds
+[2017.03.16-15.17.45:404][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.16-15.17.45:404][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.16-15.17.45:422][  0]LogOcInput: OculusInput pre-init called
+[2017.03.16-15.17.45:473][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.16-15.17.45:850][  0]LogRenderer: Reallocating scene render targets to support 880x408 NumSamples 1 (Frame:2).
+[2017.03.16-15.17.45:949][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.52s
+[2017.03.16-15.17.46:342][  3]LogAssetRegistry: Asset discovery search completed in 69.3472 seconds
+[2017.03.16-15.17.46:342][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.03.16-15.17.46:342][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2017.03.16-15.19.40:223][647]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.19.40:400][647]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.40:730][647]Cmd: MAP LOAD FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.16-15.19.40:731][647]LightingResults: New page: Lighting Build
+[2017.03.16-15.19.40:733][647]LoadErrors: New page: Loading map: Village.umap
+[2017.03.16-15.19.40:783][647]MapCheck: New page: Map Check
+[2017.03.16-15.19.40:783][647]LightingResults: New page: Lighting Build
+[2017.03.16-15.19.40:970][647]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.41:041][647]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.16-15.19.41:110][647]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.16-15.19.42:577][647]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,466.933ms to complete.
+[2017.03.16-15.19.42:579][647]LogFileHelpers: Loading map 'Village' took 1.879
+[2017.03.16-15.19.49:431][ 18]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.16-15.19.49:488][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-15.19.49:577][ 18]PIE: New page: PIE session: Village (Mar 16, 2017, 5:19:49 PM)
+[2017.03.16-15.19.49:585][ 18]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-15.19.49:646][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061218s)
+[2017.03.16-15.19.49:647][ 18]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.19.49:653][ 18]LogPlayLevel: PIE: World Init took: (0.006898s)
+[2017.03.16-15.19.49:654][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.068909s)
+[2017.03.16-15.19.49:701][ 18]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.19.49:738][ 18]LogInit: FAudioDevice initialized.
+[2017.03.16-15.19.49:912][ 18]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-15.19.49:996][ 18]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.49:997][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-16.19.49
+[2017.03.16-15.19.50:072][ 18]LogWorld: Bringing up level for play took: 0.099792
+[2017.03.16-15.19.50:494][ 18]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.03.16-15.19.50:528][ 18]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.889
+[2017.03.16-15.19.50:595][ 18]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:832][ 19]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:894][ 20]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:910][ 21]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:927][ 22]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:944][ 23]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:960][ 24]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:977][ 25]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.50:993][ 26]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:010][ 27]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:027][ 28]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:043][ 29]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:060][ 30]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:107][ 31]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:121][ 32]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:138][ 33]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:154][ 34]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:171][ 35]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:188][ 36]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:204][ 37]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:221][ 38]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:238][ 39]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:254][ 40]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:271][ 41]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:288][ 42]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:304][ 43]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:321][ 44]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:338][ 45]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:354][ 46]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:371][ 47]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:388][ 48]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:405][ 49]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:421][ 50]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:438][ 51]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:455][ 52]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:471][ 53]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:488][ 54]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:505][ 55]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:521][ 56]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:538][ 57]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:673][ 58]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:706][ 59]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:722][ 60]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:754][ 61]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:807][ 62]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:853][ 63]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:900][ 64]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:937][ 65]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:954][ 66]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:970][ 67]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.51:987][ 68]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:004][ 69]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:020][ 70]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:037][ 71]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:054][ 72]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:070][ 73]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:087][ 74]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:104][ 75]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:120][ 76]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:137][ 77]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:154][ 78]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:170][ 79]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:187][ 80]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:204][ 81]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:220][ 82]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:237][ 83]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:254][ 84]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:271][ 85]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:287][ 86]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:304][ 87]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:321][ 88]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:337][ 89]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:354][ 90]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:371][ 91]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:387][ 92]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:404][ 93]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:421][ 94]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:437][ 95]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:454][ 96]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:470][ 97]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:487][ 98]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:504][ 99]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:520][100]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:537][101]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:554][102]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:570][103]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:587][104]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:604][105]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:620][106]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:637][107]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:654][108]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:671][109]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:687][110]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:704][111]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:720][112]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:737][113]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:754][114]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:770][115]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:787][116]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:804][117]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:821][118]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:837][119]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:854][120]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:871][121]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:887][122]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:904][123]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:921][124]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:937][125]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:954][126]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:970][127]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.52:987][128]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:004][129]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:020][130]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:037][131]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:054][132]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:070][133]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:087][134]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:104][135]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:120][136]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:137][137]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:154][138]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:170][139]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:187][140]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:204][141]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:220][142]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:237][143]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:254][144]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:270][145]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:287][146]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:304][147]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:320][148]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:337][149]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:354][150]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:370][151]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:387][152]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:404][153]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:420][154]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:437][155]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:454][156]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:470][157]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:487][158]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:504][159]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:520][160]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:537][161]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:554][162]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:570][163]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:587][164]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:604][165]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:620][166]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:637][167]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:654][168]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:670][169]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:687][170]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:704][171]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:720][172]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:737][173]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:754][174]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:770][175]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:787][176]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:804][177]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:820][178]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:837][179]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:854][180]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:870][181]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:887][182]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:904][183]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:920][184]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:937][185]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:954][186]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:970][187]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.53:987][188]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:004][189]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:020][190]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:037][191]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:054][192]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:070][193]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:087][194]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:104][195]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:120][196]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:137][197]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:154][198]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:170][199]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:187][200]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:204][201]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:220][202]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:237][203]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:254][204]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:270][205]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:287][206]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:304][207]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:320][208]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:337][209]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:354][210]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:370][211]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:387][212]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:404][213]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:420][214]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:437][215]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:454][216]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:470][217]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:487][218]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:504][219]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:520][220]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:537][221]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:554][222]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:570][223]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:587][224]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:604][225]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:620][226]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:637][227]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:654][228]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:670][229]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:687][230]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:704][231]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:720][232]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:737][233]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:754][234]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:770][235]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:787][236]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:804][237]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:821][238]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:837][239]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:854][240]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:871][241]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:887][242]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:904][243]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:920][244]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:937][245]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:954][246]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:971][247]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.54:987][248]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:004][249]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:020][250]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:037][251]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:054][252]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:071][253]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:087][254]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:104][255]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:120][256]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:137][257]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:154][258]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:171][259]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:187][260]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:204][261]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:220][262]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:237][263]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:254][264]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:271][265]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:287][266]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:304][267]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:321][268]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:337][269]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:354][270]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:371][271]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:387][272]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:404][273]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:421][274]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:437][275]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:454][276]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:471][277]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:487][278]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:504][279]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:521][280]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:537][281]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:554][282]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:571][283]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:587][284]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:604][285]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:621][286]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:637][287]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:654][288]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:671][289]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:687][290]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:704][291]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:721][292]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:737][293]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:754][294]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:771][295]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:787][296]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:804][297]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:821][298]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:837][299]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:854][300]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:870][301]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:887][302]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:904][303]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:921][304]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:937][305]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:954][306]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:971][307]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.55:987][308]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:004][309]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:021][310]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:037][311]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:054][312]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:071][313]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:087][314]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:104][315]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:121][316]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:137][317]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:154][318]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:170][319]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:187][320]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:204][321]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:220][322]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:237][323]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:254][324]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:271][325]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:287][326]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:304][327]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:321][328]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:337][329]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:354][330]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:371][331]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:387][332]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:404][333]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:421][334]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:438][335]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:454][336]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:471][337]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:487][338]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:504][339]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:521][340]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:538][341]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:554][342]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:571][343]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:588][344]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:604][345]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:621][346]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:637][347]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:654][348]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:671][349]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:688][350]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:704][351]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:721][352]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:737][353]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:754][354]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:771][355]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:788][356]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:804][357]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:821][358]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:837][359]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:854][360]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:871][361]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:888][362]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:904][363]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:921][364]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:937][365]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:954][366]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:971][367]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.56:987][368]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:004][369]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:021][370]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:037][371]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:054][372]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:071][373]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:087][374]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:104][375]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:121][376]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:137][377]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:154][378]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:171][379]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:188][380]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:204][381]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:221][382]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:237][383]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:254][384]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:271][385]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:287][386]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:304][387]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:321][388]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:337][389]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:354][390]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:371][391]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:388][392]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:404][393]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:421][394]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:438][395]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:454][396]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:471][397]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:488][398]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:504][399]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:521][400]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:537][401]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:554][402]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:571][403]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:587][404]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:604][405]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:621][406]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:637][407]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:654][408]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:671][409]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:687][410]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:704][411]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:721][412]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:737][413]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:754][414]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:771][415]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:787][416]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:804][417]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:821][418]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:837][419]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:854][420]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:871][421]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:887][422]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:904][423]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:921][424]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:937][425]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:954][426]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:971][427]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.57:987][428]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:004][429]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:021][430]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:037][431]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:054][432]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:071][433]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:087][434]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:104][435]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:121][436]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:138][437]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:154][438]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:171][439]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:187][440]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:204][441]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:221][442]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:237][443]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:254][444]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:271][445]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:287][446]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:304][447]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:321][448]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:337][449]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:354][450]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:371][451]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:387][452]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:404][453]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:421][454]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:438][455]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:454][456]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:471][457]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:487][458]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:504][459]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:521][460]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:537][461]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:554][462]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:571][463]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:587][464]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:604][465]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:621][466]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:637][467]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:654][468]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:671][469]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:687][470]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:704][471]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:721][472]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:737][473]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:754][474]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:771][475]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:787][476]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:804][477]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:821][478]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:837][479]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:854][480]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:871][481]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:888][482]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:904][483]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:922][484]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:938][485]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:955][486]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:971][487]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.58:988][488]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:005][489]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:021][490]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:038][491]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:056][492]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:072][493]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:088][494]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:104][495]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:121][496]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:138][497]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:155][498]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:171][499]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:188][500]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:204][501]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:221][502]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:238][503]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:255][504]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:271][505]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:288][506]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:304][507]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:321][508]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:338][509]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:355][510]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:371][511]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:388][512]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:404][513]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:421][514]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:438][515]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:455][516]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:471][517]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:488][518]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:504][519]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:521][520]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:538][521]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:554][522]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:571][523]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:588][524]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:604][525]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:621][526]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:638][527]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:655][528]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:671][529]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:688][530]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:704][531]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:721][532]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:738][533]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:755][534]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:771][535]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:788][536]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:804][537]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:821][538]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:838][539]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:855][540]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:871][541]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:888][542]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:905][543]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:921][544]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:938][545]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:955][546]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:971][547]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.19.59:988][548]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:005][549]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:021][550]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:038][551]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:055][552]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:071][553]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:088][554]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:105][555]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:121][556]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:138][557]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:154][558]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:171][559]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:188][560]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:204][561]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:221][562]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:238][563]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:254][564]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:271][565]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:288][566]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:304][567]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:321][568]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:338][569]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:355][570]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:371][571]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:388][572]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:405][573]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:421][574]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:438][575]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:455][576]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:471][577]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:488][578]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:505][579]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:521][580]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:538][581]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:554][582]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:571][583]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:588][584]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:605][585]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:621][586]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:638][587]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:655][588]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:671][589]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:688][590]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:705][591]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:721][592]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:738][593]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:754][594]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:771][595]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:788][596]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:805][597]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:821][598]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:838][599]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:855][600]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:871][601]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:888][602]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:905][603]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:922][604]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:938][605]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:955][606]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:971][607]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.00:988][608]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:005][609]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:021][610]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:038][611]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:054][612]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:071][613]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:088][614]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:104][615]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:121][616]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:138][617]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:155][618]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:171][619]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:188][620]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:205][621]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:221][622]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:238][623]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:254][624]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:271][625]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:288][626]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:305][627]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:321][628]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:338][629]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:355][630]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:372][631]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:388][632]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:405][633]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:421][634]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:438][635]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:454][636]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:471][637]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:488][638]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:504][639]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:521][640]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:538][641]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:554][642]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:572][643]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:588][644]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:604][645]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:621][646]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:638][647]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:654][648]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:671][649]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:688][650]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:705][651]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:721][652]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:738][653]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:754][654]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:771][655]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:788][656]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:805][657]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:821][658]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:838][659]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:854][660]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:871][661]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:888][662]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:904][663]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:921][664]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:938][665]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:955][666]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:971][667]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.01:988][668]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:005][669]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:021][670]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:038][671]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:055][672]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:071][673]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:088][674]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:105][675]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:121][676]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:138][677]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:155][678]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:171][679]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:188][680]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:204][681]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:221][682]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:238][683]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:254][684]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:271][685]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:288][686]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:304][687]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:321][688]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:338][689]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:354][690]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:371][691]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:388][692]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:404][693]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:421][694]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:438][695]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:454][696]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:471][697]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:488][698]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:505][699]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:521][700]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:538][701]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:555][702]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:571][703]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:588][704]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:605][705]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:621][706]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:638][707]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:654][708]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:671][709]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:688][710]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:704][711]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:721][712]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:738][713]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:755][714]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:771][715]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:788][716]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:805][717]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:821][718]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:838][719]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:855][720]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:871][721]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:888][722]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:904][723]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:921][724]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:938][725]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:955][726]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:971][727]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.02:988][728]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:005][729]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:021][730]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:038][731]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:055][732]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:072][733]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:088][734]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:105][735]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:121][736]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:138][737]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:155][738]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:171][739]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:188][740]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:205][741]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:221][742]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:238][743]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:254][744]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:271][745]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:288][746]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:304][747]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:321][748]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:338][749]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:354][750]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:371][751]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:388][752]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:405][753]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:421][754]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:438][755]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:454][756]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:471][757]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:488][758]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:504][759]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:521][760]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:538][761]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:555][762]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:571][763]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:588][764]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:604][765]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:621][766]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:638][767]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:654][768]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:671][769]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:688][770]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:704][771]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:721][772]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:738][773]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:754][774]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:771][775]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:788][776]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:804][777]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:821][778]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:838][779]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:854][780]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:871][781]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:888][782]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:905][783]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:921][784]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:938][785]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:954][786]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:971][787]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.03:988][788]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:005][789]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:021][790]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:038][791]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:055][792]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:071][793]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:088][794]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:104][795]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:121][796]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:138][797]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:155][798]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:171][799]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:188][800]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:204][801]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:221][802]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:238][803]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:255][804]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:271][805]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:288][806]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:304][807]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:321][808]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:338][809]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:355][810]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:371][811]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:388][812]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:404][813]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:421][814]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:438][815]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:455][816]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:471][817]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:488][818]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:505][819]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:521][820]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:538][821]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:555][822]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:571][823]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:588][824]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:604][825]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:621][826]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:638][827]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:655][828]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:671][829]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:688][830]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:705][831]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:721][832]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:738][833]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:755][834]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:771][835]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:788][836]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:804][837]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:821][838]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:838][839]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:855][840]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:871][841]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:888][842]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:905][843]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:921][844]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:938][845]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:955][846]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:971][847]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.04:988][848]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:004][849]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:021][850]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:038][851]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:055][852]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:071][853]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:088][854]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:104][855]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:121][856]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:138][857]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:155][858]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:171][859]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:189][860]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:205][861]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:221][862]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:238][863]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:254][864]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:271][865]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:288][866]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:304][867]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:321][868]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:338][869]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:355][870]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:371][871]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:388][872]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:405][873]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:421][874]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:438][875]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:455][876]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:471][877]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:488][878]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:504][879]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:521][880]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:538][881]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:554][882]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:571][883]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:588][884]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:605][885]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:621][886]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:638][887]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:654][888]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:671][889]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:688][890]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:705][891]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:721][892]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:738][893]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:755][894]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:771][895]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:788][896]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:805][897]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:821][898]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:838][899]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:855][900]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:871][901]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:888][902]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:905][903]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:921][904]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:938][905]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:955][906]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:971][907]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.05:988][908]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:005][909]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:021][910]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:038][911]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:055][912]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:071][913]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:088][914]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:105][915]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:121][916]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:138][917]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:155][918]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:171][919]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:188][920]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:205][921]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:221][922]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:238][923]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:255][924]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:271][925]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:288][926]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:305][927]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:321][928]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:338][929]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:354][930]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:371][931]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:388][932]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:405][933]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:421][934]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:438][935]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:454][936]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:471][937]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:488][938]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:505][939]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:521][940]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:538][941]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:555][942]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:572][943]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:588][944]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:605][945]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:621][946]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:638][947]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:655][948]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:672][949]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:688][950]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:705][951]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:721][952]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:738][953]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:755][954]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:771][955]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:788][956]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:805][957]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:821][958]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:838][959]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:854][960]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:871][961]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:888][962]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:905][963]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:921][964]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:938][965]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:955][966]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:971][967]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.06:988][968]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:005][969]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:021][970]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:038][971]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:055][972]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:071][973]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:088][974]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:106][975]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:121][976]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:138][977]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:155][978]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:171][979]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:188][980]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:205][981]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:221][982]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:238][983]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:255][984]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:271][985]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:288][986]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:305][987]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:321][988]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:338][989]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:355][990]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:371][991]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:388][992]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:405][993]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:421][994]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:438][995]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:455][996]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:471][997]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:488][998]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:505][999]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:521][  0]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:538][  1]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:555][  2]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:571][  3]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:588][  4]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:605][  5]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:621][  6]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:638][  7]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:655][  8]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:671][  9]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:688][ 10]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:705][ 11]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:721][ 12]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:738][ 13]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:755][ 14]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:771][ 15]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:788][ 16]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:805][ 17]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:821][ 18]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:838][ 19]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:855][ 20]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:871][ 21]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:888][ 22]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:905][ 23]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:921][ 24]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:938][ 25]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:955][ 26]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:972][ 27]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.07:988][ 28]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:005][ 29]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:022][ 30]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:038][ 31]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:055][ 32]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:072][ 33]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:088][ 34]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:105][ 35]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:122][ 36]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:138][ 37]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:155][ 38]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:171][ 39]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:188][ 40]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:205][ 41]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:222][ 42]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:238][ 43]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:255][ 44]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:272][ 45]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:288][ 46]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:305][ 47]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:322][ 48]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:338][ 49]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:355][ 50]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:372][ 51]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:388][ 52]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:405][ 53]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:421][ 54]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:438][ 55]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:455][ 56]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:471][ 57]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:488][ 58]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:505][ 59]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:521][ 60]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:538][ 61]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:555][ 62]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:571][ 63]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:864][ 64]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:879][ 65]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:905][ 66]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:946][ 67]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.08:987][ 68]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:030][ 69]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:070][ 70]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:110][ 71]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:135][ 72]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:151][ 73]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:168][ 74]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:185][ 75]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:202][ 76]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:218][ 77]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:235][ 78]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:251][ 79]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:268][ 80]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:284][ 81]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:301][ 82]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:318][ 83]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:334][ 84]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:351][ 85]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:368][ 86]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:385][ 87]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:401][ 88]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:418][ 89]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:435][ 90]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:451][ 91]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:468][ 92]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:485][ 93]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:501][ 94]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:518][ 95]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:535][ 96]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:551][ 97]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:568][ 98]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:585][ 99]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:601][100]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:618][101]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:635][102]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:651][103]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:668][104]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:685][105]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:701][106]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:718][107]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:735][108]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:751][109]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:768][110]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:785][111]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:801][112]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:818][113]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:835][114]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:851][115]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:868][116]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:885][117]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:901][118]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:918][119]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:935][120]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:951][121]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:968][122]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.09:984][123]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:001][124]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:018][125]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:034][126]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:051][127]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:068][128]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:085][129]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:101][130]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:118][131]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:135][132]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:151][133]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:168][134]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:185][135]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:201][136]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:218][137]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:235][138]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:251][139]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:268][140]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:285][141]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:301][142]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:318][143]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:335][144]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:351][145]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:368][146]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:385][147]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:401][148]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:418][149]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:435][150]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:451][151]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:468][152]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:485][153]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:501][154]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:518][155]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:535][156]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:551][157]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:568][158]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:585][159]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:601][160]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:618][161]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:635][162]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:651][163]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:668][164]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:685][165]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:702][166]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:718][167]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:735][168]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:751][169]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:768][170]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:785][171]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:801][172]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:818][173]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:835][174]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:851][175]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:868][176]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:885][177]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:901][178]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:918][179]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:935][180]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:951][181]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:968][182]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.10:985][183]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:001][184]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:018][185]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:035][186]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:051][187]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:068][188]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:085][189]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:101][190]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:118][191]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:135][192]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:151][193]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:168][194]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:185][195]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:201][196]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:218][197]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:235][198]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:251][199]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:268][200]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:285][201]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:301][202]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:318][203]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:335][204]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:351][205]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:368][206]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:384][207]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:401][208]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:418][209]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:434][210]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:451][211]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:468][212]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:484][213]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:501][214]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:518][215]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:534][216]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:551][217]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:568][218]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:585][219]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:601][220]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:618][221]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:634][222]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:651][223]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:668][224]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:684][225]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:701][226]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:718][227]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:734][228]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:751][229]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:768][230]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:785][231]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:801][232]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:818][233]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:834][234]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:851][235]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:868][236]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:885][237]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:901][238]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:918][239]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:934][240]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:951][241]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:968][242]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.11:985][243]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:001][244]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:018][245]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:034][246]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:051][247]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:068][248]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:085][249]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:101][250]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:118][251]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:135][252]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:151][253]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:168][254]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:184][255]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:201][256]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:218][257]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:235][258]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:251][259]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:268][260]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:285][261]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:301][262]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:318][263]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:334][264]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:351][265]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:368][266]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:384][267]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:401][268]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:418][269]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:435][270]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:451][271]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:468][272]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:485][273]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:501][274]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:518][275]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:535][276]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:551][277]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:568][278]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:585][279]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:601][280]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:618][281]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:635][282]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:651][283]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:668][284]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:684][285]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:701][286]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:718][287]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:735][288]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:751][289]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:768][290]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:785][291]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:801][292]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:818][293]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:835][294]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:851][295]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:868][296]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:885][297]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:901][298]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:918][299]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:935][300]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:951][301]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:968][302]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.12:985][303]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:001][304]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:018][305]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:035][306]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:051][307]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:068][308]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:085][309]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:101][310]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:118][311]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:135][312]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:151][313]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:168][314]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:185][315]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:201][316]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:218][317]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:235][318]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:251][319]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:268][320]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:285][321]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:301][322]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:318][323]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:335][324]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:351][325]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:368][326]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:385][327]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:401][328]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:418][329]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:435][330]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:451][331]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:468][332]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:485][333]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:501][334]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:518][335]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:535][336]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:551][337]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:568][338]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:585][339]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:601][340]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:618][341]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:635][342]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:651][343]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:668][344]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:684][345]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:701][346]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:718][347]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:734][348]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:751][349]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:768][350]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:784][351]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:802][352]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:818][353]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:835][354]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:851][355]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:868][356]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:885][357]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:901][358]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:918][359]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:936][360]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:951][361]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:968][362]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.13:985][363]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:001][364]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:018][365]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:035][366]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:052][367]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:068][368]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:085][369]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:101][370]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:118][371]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:135][372]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:151][373]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:168][374]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:184][375]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:201][376]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:218][377]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:235][378]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:251][379]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:268][380]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:285][381]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:302][382]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:318][383]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:335][384]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:351][385]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:368][386]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:385][387]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:401][388]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:418][389]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:435][390]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:451][391]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:468][392]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:485][393]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:501][394]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:518][395]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:535][396]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:552][397]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:568][398]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:585][399]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:601][400]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:618][401]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:635][402]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:652][403]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:668][404]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:685][405]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:701][406]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:718][407]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:735][408]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:751][409]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:768][410]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:785][411]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:801][412]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:818][413]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:835][414]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:852][415]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:868][416]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:885][417]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:901][418]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:918][419]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:935][420]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:952][421]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:968][422]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.14:985][423]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:001][424]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:018][425]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:035][426]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:051][427]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:068][428]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:085][429]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:101][430]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:118][431]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:135][432]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:151][433]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:168][434]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:185][435]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:201][436]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:218][437]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:235][438]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:251][439]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:268][440]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:285][441]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:301][442]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:318][443]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:335][444]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:351][445]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:368][446]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:385][447]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:401][448]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:418][449]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:435][450]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:451][451]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:468][452]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:485][453]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:501][454]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:518][455]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:535][456]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:551][457]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:568][458]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:585][459]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:601][460]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:618][461]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:635][462]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:651][463]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:668][464]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:684][465]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:701][466]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:718][467]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:735][468]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:751][469]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:768][470]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:785][471]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:801][472]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:818][473]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:835][474]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:852][475]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:868][476]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:885][477]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:901][478]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:918][479]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:935][480]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:951][481]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:968][482]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.15:985][483]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:001][484]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:018][485]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:034][486]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:051][487]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:068][488]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:085][489]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:101][490]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:118][491]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:134][492]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:151][493]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:168][494]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:185][495]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:201][496]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:218][497]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.16:235][498]LogBlueprintUserMessages: [VANmovement_C_0] 0.0
+[2017.03.16-15.20.41:761][777]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.03.16-15.20.43:298][777]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.16-15.20.44:867][777]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.16-15.23.35:149][531]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-15.23.41:124][820]LogRenderer: Reallocating scene render targets to support 884x408 NumSamples 1 (Frame:24896).
+[2017.03.16-15.25.41:042][203]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-15.25.41:085][203]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-15.25.41:575][203]LogPlayLevel: PlayLevel: Blueprint regeneration took 533 ms (1 blueprints)
+[2017.03.16-15.25.41:575][203]PIE: New page: PIE session: Village (Mar 16, 2017, 5:25:41 PM)
+[2017.03.16-15.25.41:575][203]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-15.25.41:596][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020214s)
+[2017.03.16-15.25.41:597][203]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.25.41:597][203]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2017.03.16-15.25.41:597][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.021866s)
+[2017.03.16-15.25.41:647][203]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.25.41:709][203]LogInit: FAudioDevice initialized.
+[2017.03.16-15.25.41:772][203]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-15.25.41:784][203]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-16.25.41
+[2017.03.16-15.25.41:785][203]LogWorld: Bringing up level for play took: 0.009751
+[2017.03.16-15.25.41:804][203]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.164
+[2017.03.16-15.25.41:896][203]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:35475).
+[2017.03.16-15.26.07:007][377]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.03.16-15.28.10:768][330]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CharacterMesh0) Component already registered.
+[2017.03.16-15.28.12:687][437]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CharacterMesh0) Component already registered.
+[2017.03.16-15.28.15:170][586]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CharacterMesh0) Component already registered.
+[2017.03.16-15.28.40:456][829]Cmd: TRANSACTION UNDO
+[2017.03.16-15.28.40:464][829]LogEditorTransaction: Undo Rotate Components
+[2017.03.16-15.28.40:489][829]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Village.Village:PersistentLevel.VAN_158.CollisionCylinder) Component already registered.
+[2017.03.16-15.28.40:533][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-15.29.08:283][329]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-15.29.08:306][329]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.16-15.29.08:306][329]LogPlayLevel: [PlayLevel] Compiling VANmovement before play...
+[2017.03.16-15.29.08:446][329]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2017.03.16-15.29.08:446][329]PIE: New page: PIE session: Village (Mar 16, 2017, 5:29:08 PM)
+[2017.03.16-15.29.08:447][329]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-15.29.08:456][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008978s)
+[2017.03.16-15.29.08:457][329]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.29.08:457][329]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2017.03.16-15.29.08:457][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.010591s)
+[2017.03.16-15.29.08:475][329]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.29.08:508][329]LogInit: FAudioDevice initialized.
+[2017.03.16-15.29.08:554][329]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-15.29.08:558][329]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-16.29.08
+[2017.03.16-15.29.08:559][329]LogWorld: Bringing up level for play took: 0.003535
+[2017.03.16-15.29.08:566][329]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village 0.927
+[2017.03.16-15.30.06:666][494]BlueprintLog: New page: Compile VANmovement
+[2017.03.16-15.30.08:157][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/VANmodel/Animations/VANmovement" FILE="C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset" SILENT=true
+[2017.03.16-15.30.08:458][544]LogSavePackage: Save=236.59ms
+[2017.03.16-15.30.08:458][544]LogSavePackage: Moving 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/VANmovement54E2A34E4EE1108E409C7CAE7868841C.tmp' to 'C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset'
+[2017.03.16-15.30.08:482][544]LogSavePackage:Display: Finished SavePackage C:/Users/Edd/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Models/VANmodel/Animations/VANmovement.uasset
+[2017.03.16-15.30.08:986][563]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.03.16-15.30.09:010][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.16-15.30.09:011][563]PIE: New page: PIE session: Village (Mar 16, 2017, 5:30:09 PM)
+[2017.03.16-15.30.09:011][563]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Village
+[2017.03.16-15.30.09:021][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010603s)
+[2017.03.16-15.30.09:022][563]LogAIModule: Creating AISystem for world Village
+[2017.03.16-15.30.09:022][563]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.03.16-15.30.09:022][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Village.Village to /Game/Levels/UEDPIE_0_Village.Village (0.011737s)
+[2017.03.16-15.30.09:081][563]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.16-15.30.09:115][563]LogInit: FAudioDevice initialized.
+[2017.03.16-15.30.09:166][563]LogLoad: Game class is 'GameModeBase'
+[2017.03.16-15.30.09:173][563]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2017.03.16-16.30.09
+[2017.03.16-15.30.09:174][563]LogWorld: Bringing up level for play took: 0.005510
+[2017.03.16-15.30.09:187][563]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Village -0.452
+[2017.03.16-15.33.53:802][318]LogEditorTransaction: Undo Promote To Variable
+[2017.03.16-15.33.53:911][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.16-15.33.53:984][318]LogUObjectBase:Warning: NULL object
+[2017.03.16-15.33.54:178][318]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.186 s
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: 
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 520]
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: Object in KismetInspector is invalid, see TTP 281915
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: Stack: 
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-SlateCore.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: KERNEL32.DLL
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: ntdll.dll
+[2017.03.16-15.33.54:178][318]LogOutputDevice:Error: 
+[2017.03.16-15.33.54:188][318]LogStats:                SubmitErrorReport -  0.000 s
