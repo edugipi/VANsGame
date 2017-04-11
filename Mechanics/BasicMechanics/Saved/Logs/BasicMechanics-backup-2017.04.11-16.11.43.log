@@ -1,0 +1,1453 @@
+﻿Log file open, 04/07/17 17:44:25
+LogInit:Display: Running engine for game: BasicMechanics
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-993645314) SRandInit(-993645314).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.081373
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.07-15.44.25:605][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.07-15.44.25:605][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.07-15.44.25:623][  0]LogInit: Computer: DESKTOP-0Q7EAVF
+[2017.04.07-15.44.25:623][  0]LogInit: User: Ferry
+[2017.04.07-15.44.25:623][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.07-15.44.25:623][  0]LogInit: High frequency timer resolution =3.411592 MHz
+[2017.04.07-15.44.25:623][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.04.07-15.44.25:623][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.07-15.44.25:623][  0]LogMemory: Process Physical Memory: 264.93 MB used, 264.93 MB peak
+[2017.04.07-15.44.25:623][  0]LogMemory: Process Virtual Memory: 262.39 MB used, 262.39 MB peak
+[2017.04.07-15.44.25:623][  0]LogMemory: Physical Memory: 4123.15 MB used,  12178.16 MB free, 16301.30 MB total
+[2017.04.07-15.44.25:624][  0]LogMemory: Virtual Memory: 674.59 MB used,  12178.16 MB free, 134217728.00 MB total
+[2017.04.07-15.44.25:655][  0]LogInit: Overriding culture en with editor configuration.
+[2017.04.07-15.44.26:962][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.07-15.44.27:752][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2017.04.07-15.44.27:752][  0]LogD3D11RHI:       4063/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.04.07-15.44.27:757][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.07-15.44.27:757][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.07-15.44.27:757][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.07-15.44.27:768][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.07-15.44.27:768][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.07-15.44.27:768][  0]LogWindows: EnumDisplayDevices:
+[2017.04.07-15.44.27:768][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2017.04.07-15.44.27:768][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:1)
+[2017.04.07-15.44.27:769][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.04.07-15.44.27:769][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2017.04.07-15.44.27:769][  0]LogD3D11RHI:   Driver Version: 378.49 (internal:21.21.13.7849, unified:378.49)
+[2017.04.07-15.44.27:769][  0]LogD3D11RHI:      Driver Date: 1-20-2017
+[2017.04.07-15.44.27:769][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.07-15.44.29:178][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.07-15.44.29:250][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.04.07-15.44.29:251][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Intermediate/Shaders/WorkingDirectory/5956/).
+[2017.04.07-15.44.29:251][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ferry/AppData/Local/Temp/UnrealShaderWorkingDir/AAFC4C5842838DAAB817FDAD01D277E1/'.
+[2017.04.07-15.44.29:251][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.07-15.44.31:066][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.07-15.44.31:192][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.07-15.44.31:322][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.07-15.44.31:436][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.07-15.44.31:558][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.07-15.44.31:656][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.07-15.44.31:757][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.07-15.44.31:865][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.07-15.44.31:957][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.07-15.44.32:050][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.07-15.44.32:153][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.07-15.44.32:251][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.07-15.44.32:347][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.07-15.44.32:440][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.07-15.44.32:533][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.07-15.44.32:833][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.07-15.44.32:833][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.07-15.44.32:941][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.07-15.44.33:149][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.07-15.44.33:229][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.07-15.44.33:358][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.07-15.44.33:472][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.07-15.44.33:604][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.07-15.44.33:712][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.07-15.44.33:712][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.07-15.44.34:847][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.07-15.44.34:995][  0]LogDerivedDataCache: Loaded boot cache 0.15s 50MB C:/Users/Ferry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.07-15.44.34:995][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Ferry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.07-15.44.34:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.07-15.44.34:996][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.07-15.44.34:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.07-15.44.34:996][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.07-15.44.35:018][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.07-15.44.35:031][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ferry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.07-15.44.35:379][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.07-15.44.35:384][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.07-15.44.35:772][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.07-15.44.35:852][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.07-15.44.35:934][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.07-15.44.35:934][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.07-15.44.35:934][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.07-15.44.36:955][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: basicmechanics, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1363929391
+[2017.04.07-15.44.37:048][  0]LogAssetRegistry: FAssetRegistry took 0.0223 seconds to start up
+[2017.04.07-15.44.37:133][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.028832 seconds
+[2017.04.07-15.44.37:145][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.07-15.44.37:145][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.07-15.44.37:145][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.07-15.44.37:339][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.07-15.44.39:713][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.07-15.44.39:713][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.07-15.44.39:713][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.07-15.44.40:936][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.07-15.44.41:006][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.07-15.44.41:548][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.07-15.44.42:230][  0]SourceControl: Info Source control is disabled
+[2017.04.07-15.44.42:232][  0]SourceControl: Info Source control is disabled
+[2017.04.07-15.44.42:316][  0]SourceControl: Info Source control is disabled
+[2017.04.07-15.44.42:403][  0]SourceControl: Info Source control is disabled
+[2017.04.07-15.44.44:764][  0]LogEngine: Initializing Engine...
+[2017.04.07-15.44.44:766][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.07-15.44.45:177][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.07-15.44.45:190][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.44.45:208][  0]LogInit: FAudioDevice initialized.
+[2017.04.07-15.44.45:260][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Ferry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.07-15.44.45:281][  0]LogInit: Texture streaming: Enabled
+[2017.04.07-15.44.45:683][  0]LogInit: Transaction tracking system initialized
+[2017.04.07-15.44.46:461][  0]BlueprintLog: New page: Editor Load
+[2017.04.07-15.44.48:593][  0]LocalizationService: Info Localization service is disabled
+[2017.04.07-15.44.50:058][  0]LogConsoleResponse:Display: 
+[2017.04.07-15.44.50:272][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.07-15.44.50:272][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.07-15.44.51:093][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.03s
+[2017.04.07-15.44.52:343][  0]SourceControl: Info Source control is disabled
+[2017.04.07-15.44.52:343][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.07-15.44.52:344][  0]LightingResults: New page: Lighting Build
+[2017.04.07-15.44.52:430][  0]MapCheck: New page: Map Check
+[2017.04.07-15.44.52:430][  0]LightingResults: New page: Lighting Build
+[2017.04.07-15.44.53:014][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.04.07-15.44.53:016][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.04.07-15.44.53:027][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.07-15.44.53:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.07-15.44.53:106][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 78.235ms to complete.
+[2017.04.07-15.44.53:106][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.763
+[2017.04.07-15.44.53:313][  0]LogCollectionManager: Loaded 0 collections in 0.003044 seconds
+[2017.04.07-15.44.53:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' took 0.01s
+[2017.04.07-15.44.53:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/Ferry/Collections/' took 0.01s
+[2017.04.07-15.44.53:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' took 0.01s
+[2017.04.07-15.44.53:436][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.07-15.44.53:453][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2190 classes and 428 folders.
+[2017.04.07-15.44.53:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.07-15.44.53:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.07-15.44.53:538][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0019 seconds. Added 13 classes and 0 folders.
+[2017.04.07-15.44.53:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.07-15.44.53:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0023 seconds. Added 0 classes and 0 folders.
+[2017.04.07-15.44.53:790][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.04.07-15.44.53:860][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.07-15.44.53:873][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.07-15.44.53:980][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.04.07-15.44.53:980][  0]LogLoad: (Engine Initialization) Total time: 32.04 seconds
+[2017.04.07-15.44.53:980][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.19 seconds
+[2017.04.07-15.44.53:980][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.04.07-15.44.54:321][  0]LogOcInput: OculusInput pre-init called
+[2017.04.07-15.44.54:359][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.07-15.44.54:565][  0]LogRenderer: Reallocating scene render targets to support 1208x616 NumSamples 1 (Frame:2).
+[2017.04.07-15.44.54:660][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' took 0.32s
+[2017.04.07-15.44.55:421][  3]LogAssetRegistry: Asset discovery search completed in 18.3947 seconds
+[2017.04.07-15.44.55:421][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.07-15.44.55:421][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2017.04.07-15.45.11:280][543]LogAIModule: Creating AISystem for world TutoDefinitiu
+[2017.04.07-15.45.11:347][543]Cmd: MAP LOAD FILE="../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/TutoDefinitiu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.07-15.45.11:348][543]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.11:348][543]LoadErrors: New page: Loading map: TutoDefinitiu.umap
+[2017.04.07-15.45.11:349][543]MapCheck: New page: Map Check
+[2017.04.07-15.45.11:350][543]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.11:393][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.07-15.45.11:478][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.07-15.45.11:580][543]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 101.711ms to complete.
+[2017.04.07-15.45.11:581][543]LogFileHelpers: Loading map 'TutoDefinitiu' took 0.235
+[2017.04.07-15.45.14:618][792]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.45.14:657][792]Cmd: MAP LOAD FILE="../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.07-15.45.14:657][792]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.14:658][792]LoadErrors: New page: Loading map: PuzzleTest.umap
+[2017.04.07-15.45.14:659][792]MapCheck: New page: Map Check
+[2017.04.07-15.45.14:659][792]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.14:695][792]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.07-15.45.14:782][792]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.07-15.45.14:876][792]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 93.74ms to complete.
+[2017.04.07-15.45.14:878][792]LogFileHelpers: Loading map 'PuzzleTest' took 0.223
+[2017.04.07-15.45.33:395][121]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.33:396][121]MapCheck: New page: Map Check
+[2017.04.07-15.45.33:396][121]LightingResults: New page: Lighting Build
+[2017.04.07-15.45.33:444][121]LogAIModule: Creating AISystem for world Untitled
+[2017.04.07-15.45.33:455][121]LoadErrors: New page: New Map
+[2017.04.07-15.45.33:478][121]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.45.39:347][207]LogAIModule: Creating AISystem for world TutoDefinitiu
+[2017.04.07-15.45.48:651][268]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: PuzzleTest, Actor: /Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.TutoDefinitiu_C_1
+[2017.04.07-15.45.48:734][268]LogMetaData: Removing '/Game/Levels/PuzzleTest.PuzzleTest_C' ref from Metadata '/Game/Levels/TutoDefinitiu.PackageMetaData'
+[2017.04.07-15.45.48:734][268]LogMetaData: Removing '/Game/Levels/PuzzleTest.SKEL_PuzzleTest_C' ref from Metadata '/Game/Levels/TutoDefinitiu.PackageMetaData'
+[2017.04.07-15.45.48:897][268]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: PuzzleTest, Actor: /Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest_C_0
+[2017.04.07-15.45.49:052][268]LogSavePackage: Save=157.90ms
+[2017.04.07-15.45.49:052][268]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTestCEF437064434DEED3DD23F9A58995475.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-15.45.49:057][268]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-15.45.49:072][268]LogFileHelpers: Saving map 'PuzzleTest' took 0.312
+[2017.04.07-15.45.53:872][735]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: PuzzleTest, Actor: /Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest_C_1
+[2017.04.07-15.45.54:032][735]LogSavePackage: Save=163.78ms
+[2017.04.07-15.45.54:032][735]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest6EB5CA9A4BFF8646EF34ED9A3396C37C.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-15.45.54:038][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-15.45.54:051][735]LogFileHelpers: Saving map 'PuzzleTest' took 0.340
+[2017.04.07-15.45.57:793][113]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: PuzzleTest, Actor: /Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest_C_0
+[2017.04.07-15.45.57:946][113]LogSavePackage: Save=156.49ms
+[2017.04.07-15.45.57:947][113]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTestF57B61224AD3186345B1218DBD8BF1C4.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-15.45.57:951][113]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-15.45.57:963][113]LogFileHelpers: Saving map 'PuzzleTest' took 0.323
+[2017.04.07-15.46.00:162][186]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: PuzzleTest, Actor: /Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest_C_1
+[2017.04.07-15.46.00:315][186]LogSavePackage: Save=155.63ms
+[2017.04.07-15.46.00:315][186]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTestCDA4435843E232C3FDAB74A08459ABAA.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-15.46.00:320][186]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-15.46.00:332][186]LogFileHelpers: Saving map 'PuzzleTest' took 0.324
+[2017.04.07-15.46.00:344][186]Cmd: MAP LOAD FILE="../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.07-15.46.00:344][186]LightingResults: New page: Lighting Build
+[2017.04.07-15.46.00:345][186]LoadErrors: New page: Loading map: PuzzleTest.umap
+[2017.04.07-15.46.00:346][186]MapCheck: New page: Map Check
+[2017.04.07-15.46.00:346][186]LightingResults: New page: Lighting Build
+[2017.04.07-15.46.00:388][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.07-15.46.00:477][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.07-15.46.00:570][186]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 93.467ms to complete.
+[2017.04.07-15.46.00:571][186]LogFileHelpers: Loading map 'PuzzleTest' took 0.229
+[2017.04.07-15.46.03:167][377]LogSavePackage: Save=166.83ms
+[2017.04.07-15.46.03:167][377]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest9E7E11A04D5ED91EF91F4F921C65B0FD.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-15.46.03:173][377]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-15.46.03:282][377]LogFileHelpers: Saving map 'PuzzleTest' took 0.414
+[2017.04.07-15.52.12:464][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.52.31:486][982]Cmd: EDIT COPY
+[2017.04.07-15.52.31:692][993]Cmd: EDIT PASTE
+[2017.04.07-15.52.39:535][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.52.55:311][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.52.56:146][858]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.54.12:006][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.54.30:899][335]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.04.07-15.54.33:448][505]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.54.33:497][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.54.33:497][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.54.33:498][505]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:54:33 PM)
+[2017.04.07-15.54.33:498][505]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.54.33:517][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019087s)
+[2017.04.07-15.54.33:518][505]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.54.33:519][505]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2017.04.07-15.54.33:519][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.020888s)
+[2017.04.07-15.54.33:605][505]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.54.33:622][505]LogInit: FAudioDevice initialized.
+[2017.04.07-15.54.33:675][505]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.54.33:680][505]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.54.33
+[2017.04.07-15.54.33:681][505]LogWorld: Bringing up level for play took: 0.004323
+[2017.04.07-15.54.33:755][505]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.04.07-15.54.33:757][505]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.685
+[2017.04.07-15.54.33:757][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.55.27:675][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.55.27:796][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.55.29:848][491]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.55.32:636][704]Cmd: DELETE
+[2017.04.07-15.55.32:637][704]Cmd: ACTOR DELETE
+[2017.04.07-15.55.32:637][704]LogEditorActor: Deleted Actor: InteractiveSwitch_C
+[2017.04.07-15.55.32:676][704]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2017.04.07-15.55.55:709][525]Cmd: TRANSACTION UNDO
+[2017.04.07-15.55.55:709][525]LogEditorTransaction: Undo Move Actors
+[2017.04.07-15.56.14:956][  7]Cmd: TRANSACTION UNDO
+[2017.04.07-15.56.14:956][  7]LogEditorTransaction: Undo Move Components
+[2017.04.07-15.56.34:743][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.56.36:040][690]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.56.36:090][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.56.36:091][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.56.36:091][690]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:56:36 PM)
+[2017.04.07-15.56.36:091][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.56.36:113][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021906s)
+[2017.04.07-15.56.36:114][690]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.56.36:114][690]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2017.04.07-15.56.36:115][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.023664s)
+[2017.04.07-15.56.36:205][690]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.56.36:219][690]LogInit: FAudioDevice initialized.
+[2017.04.07-15.56.36:254][690]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.56.36:258][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.56.36
+[2017.04.07-15.56.36:275][690]LogWorld: Bringing up level for play took: 0.021436
+[2017.04.07-15.56.36:277][690]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.795
+[2017.04.07-15.56.36:277][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.56.58:573][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.56.58:658][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.57.00:459][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.57.13:921][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.57.14:656][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.57.15:222][145]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.57.32:184][453]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.57.32:229][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.57.32:229][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.57.32:230][453]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:57:32 PM)
+[2017.04.07-15.57.32:230][453]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.57.32:248][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018618s)
+[2017.04.07-15.57.32:249][453]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.57.32:250][453]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2017.04.07-15.57.32:250][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.020427s)
+[2017.04.07-15.57.32:311][453]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.57.32:325][453]LogInit: FAudioDevice initialized.
+[2017.04.07-15.57.32:359][453]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.57.32:363][453]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.57.32
+[2017.04.07-15.57.32:364][453]LogWorld: Bringing up level for play took: 0.004085
+[2017.04.07-15.57.32:366][453]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.706
+[2017.04.07-15.57.32:366][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.57.57:970][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.57.58:033][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.12:582][ 23]LogEditorViewport: Clicking on Actor (LMB): Mirror_C (Mirror3)
+[2017.04.07-15.58.16:950][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.58.17:768][401]LogEditorViewport: Clicking on Actor (LMB): Mirror_C (Mirror3)
+[2017.04.07-15.58.30:740][458]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.58.30:790][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.30:790][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.58.30:790][458]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:58:30 PM)
+[2017.04.07-15.58.30:790][458]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.58.30:808][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017677s)
+[2017.04.07-15.58.30:809][458]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.58.30:809][458]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2017.04.07-15.58.30:809][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.019281s)
+[2017.04.07-15.58.30:846][458]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.58.30:859][458]LogInit: FAudioDevice initialized.
+[2017.04.07-15.58.30:895][458]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.58.30:899][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.58.30
+[2017.04.07-15.58.30:900][458]LogWorld: Bringing up level for play took: 0.004255
+[2017.04.07-15.58.30:901][458]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.17
+[2017.04.07-15.58.30:902][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.35:125][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.35:191][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.36:704][805]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.58.36:749][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.36:750][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.58.36:750][805]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:58:36 PM)
+[2017.04.07-15.58.36:750][805]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.58.36:769][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019270s)
+[2017.04.07-15.58.36:787][805]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.58.36:787][805]LogPlayLevel: PIE: World Init took: (0.017866s)
+[2017.04.07-15.58.36:787][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.037473s)
+[2017.04.07-15.58.36:835][805]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.58.36:849][805]LogInit: FAudioDevice initialized.
+[2017.04.07-15.58.36:888][805]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.58.36:892][805]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.58.36
+[2017.04.07-15.58.36:892][805]LogWorld: Bringing up level for play took: 0.004163
+[2017.04.07-15.58.36:893][805]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.178
+[2017.04.07-15.58.36:894][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.37:943][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.38:011][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.58.39:430][972]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.58.46:785][508]Cmd: TRANSACTION UNDO
+[2017.04.07-15.58.46:786][508]LogEditorTransaction: Undo Move Actors
+[2017.04.07-15.58.58:207][389]Cmd: TRANSACTION UNDO
+[2017.04.07-15.58.58:207][389]LogEditorTransaction: Undo Create Actors
+[2017.04.07-15.59.04:831][904]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.59.04:878][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.04:878][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.59.04:878][904]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:59:04 PM)
+[2017.04.07-15.59.04:878][904]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.59.04:896][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018057s)
+[2017.04.07-15.59.04:897][904]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.59.04:897][904]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2017.04.07-15.59.04:898][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.019498s)
+[2017.04.07-15.59.04:947][904]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.59.04:960][904]LogInit: FAudioDevice initialized.
+[2017.04.07-15.59.05:001][904]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.59.05:005][904]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.59.05
+[2017.04.07-15.59.05:006][904]LogWorld: Bringing up level for play took: 0.004540
+[2017.04.07-15.59.05:007][904]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.065
+[2017.04.07-15.59.05:007][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.15:541][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.15:606][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.20:342][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-15.59.20:785][834]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.59.30:978][660]Cmd: DELETE
+[2017.04.07-15.59.30:979][660]Cmd: ACTOR DELETE
+[2017.04.07-15.59.30:979][660]LogEditorActor: Deleted Actor: InteractiveSwitch_C
+[2017.04.07-15.59.31:013][660]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.04.07-15.59.33:621][821]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.59.33:666][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.33:666][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.59.33:666][821]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:59:33 PM)
+[2017.04.07-15.59.33:666][821]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.59.33:684][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018145s)
+[2017.04.07-15.59.33:686][821]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.59.33:686][821]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2017.04.07-15.59.33:686][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.019999s)
+[2017.04.07-15.59.33:735][821]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.59.33:751][821]LogInit: FAudioDevice initialized.
+[2017.04.07-15.59.33:786][821]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.59.33:790][821]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.59.33
+[2017.04.07-15.59.33:790][821]LogWorld: Bringing up level for play took: 0.004139
+[2017.04.07-15.59.33:792][821]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.72
+[2017.04.07-15.59.33:792][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.40:712][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.40:782][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.41:865][265]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-15.59.45:478][515]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-15.59.45:533][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.45:533][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-15.59.45:533][515]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 7:59:45 PM)
+[2017.04.07-15.59.45:533][515]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-15.59.45:550][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017335s)
+[2017.04.07-15.59.45:551][515]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-15.59.45:552][515]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2017.04.07-15.59.45:552][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.018779s)
+[2017.04.07-15.59.45:594][515]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-15.59.45:610][515]LogInit: FAudioDevice initialized.
+[2017.04.07-15.59.45:655][515]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-15.59.45:660][515]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-17.59.45
+[2017.04.07-15.59.45:660][515]LogWorld: Bringing up level for play took: 0.005174
+[2017.04.07-15.59.45:661][515]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.59
+[2017.04.07-15.59.45:662][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.53:172][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-15.59.53:241][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.00.02:654][586]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-16.00.04:521][647]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 111 classes and 0 folders.
+[2017.04.07-16.01.10:786][469]LogEditorTransaction: Undo Modify Component(s)
+[2017.04.07-16.02.00:759][736]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.02.00:822][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.00:823][736]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-16.02.00:823][736]LogPlayLevel: [PlayLevel] Compiling InteractiveSwitch before play...
+[2017.04.07-16.02.01:231][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 408 ms (1 blueprints)
+[2017.04.07-16.02.01:231][736]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:02:01 PM)
+[2017.04.07-16.02.01:231][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.02.01:249][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017663s)
+[2017.04.07-16.02.01:250][736]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.02.01:250][736]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2017.04.07-16.02.01:251][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.019555s)
+[2017.04.07-16.02.01:313][736]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.02.01:330][736]LogInit: FAudioDevice initialized.
+[2017.04.07-16.02.01:373][736]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.02.01:378][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.02.01
+[2017.04.07-16.02.01:379][736]LogWorld: Bringing up level for play took: 0.005448
+[2017.04.07-16.02.01:380][736]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.309
+[2017.04.07-16.02.01:381][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.08:035][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.08:131][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.09:496][ 60]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-16.02.17:920][450]Cmd: TRANSACTION UNDO
+[2017.04.07-16.02.17:920][450]LogEditorTransaction: Undo Rotate Components
+[2017.04.07-16.02.45:195][737]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.02.45:247][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.45:247][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.02.45:248][737]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:02:45 PM)
+[2017.04.07-16.02.45:248][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.02.45:266][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018011s)
+[2017.04.07-16.02.45:267][737]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.02.45:267][737]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2017.04.07-16.02.45:268][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.019978s)
+[2017.04.07-16.02.45:324][737]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.02.45:339][737]LogInit: FAudioDevice initialized.
+[2017.04.07-16.02.45:370][737]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.02.45:376][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.02.45
+[2017.04.07-16.02.45:377][737]LogWorld: Bringing up level for play took: 0.006256
+[2017.04.07-16.02.45:378][737]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.306
+[2017.04.07-16.02.45:379][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.53:121][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.53:217][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.02.53:577][ 66]Cmd: SELECT NONE
+[2017.04.07-16.04.06:126][579]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.04.06:173][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.06:173][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-16.04.06:173][579]LogPlayLevel: [PlayLevel] Compiling InteractiveSwitch before play...
+[2017.04.07-16.04.06:481][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 307 ms (1 blueprints)
+[2017.04.07-16.04.06:481][579]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:04:06 PM)
+[2017.04.07-16.04.06:481][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.04.06:498][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017061s)
+[2017.04.07-16.04.06:499][579]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.04.06:500][579]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2017.04.07-16.04.06:500][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.018509s)
+[2017.04.07-16.04.06:556][579]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.04.06:571][579]LogInit: FAudioDevice initialized.
+[2017.04.07-16.04.06:615][579]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.04.06:619][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.04.06
+[2017.04.07-16.04.06:620][579]LogWorld: Bringing up level for play took: 0.004642
+[2017.04.07-16.04.06:621][579]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.451
+[2017.04.07-16.04.06:622][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.15:612][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.15:701][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.40:097][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.04.40:689][220]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-16.04.43:491][347]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.04.43:539][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.43:539][347]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-16.04.43:539][347]LogPlayLevel: [PlayLevel] Compiling InteractiveSwitch before play...
+[2017.04.07-16.04.44:237][347]LogPlayLevel: PlayLevel: Blueprint regeneration took 697 ms (1 blueprints)
+[2017.04.07-16.04.44:237][347]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:04:44 PM)
+[2017.04.07-16.04.44:237][347]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.04.44:253][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016000s)
+[2017.04.07-16.04.44:254][347]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.04.44:254][347]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2017.04.07-16.04.44:255][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.017649s)
+[2017.04.07-16.04.44:306][347]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.04.44:320][347]LogInit: FAudioDevice initialized.
+[2017.04.07-16.04.44:360][347]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.04.44:364][347]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.04.44
+[2017.04.07-16.04.44:365][347]LogWorld: Bringing up level for play took: 0.004753
+[2017.04.07-16.04.44:367][347]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 1.295
+[2017.04.07-16.04.44:367][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.53:447][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.04.53:538][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.05.53:285][359]LogSavePackage: Save=217.30ms
+[2017.04.07-16.05.53:285][359]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto1350600FD45E5479C788F5B87F19BEB71.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto1.umap'
+[2017.04.07-16.05.53:288][359]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto1.umap
+[2017.04.07-16.05.53:302][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.290
+[2017.04.07-16.05.53:302][359]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2017.04.07-16.05.53:306][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch] ([1] browsable assets)...
+[2017.04.07-16.05.53:362][359]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch.InteractiveSwitch]
+[2017.04.07-16.05.53:362][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch]
+[2017.04.07-16.05.53:469][359]LogSavePackage: Save=91.62ms
+[2017.04.07-16.05.53:469][359]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitch_Auto1C237D4DA4FBE5256AF6CB98BDBA1B56B.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch_Auto1.uasset'
+[2017.04.07-16.05.53:473][359]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch_Auto1.uasset
+[2017.04.07-16.05.53:474][359]LogFileHelpers: Auto-saving content packages took 0.171
+[2017.04.07-16.05.56:826][496]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.05.56:875][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.05.56:875][496]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-16.05.56:875][496]LogPlayLevel: [PlayLevel] Compiling InteractiveSwitch before play...
+[2017.04.07-16.05.57:211][496]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2017.04.07-16.05.57:211][496]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:05:57 PM)
+[2017.04.07-16.05.57:212][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.05.57:228][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016561s)
+[2017.04.07-16.05.57:229][496]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.05.57:229][496]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2017.04.07-16.05.57:230][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.018089s)
+[2017.04.07-16.05.57:284][496]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.05.57:298][496]LogInit: FAudioDevice initialized.
+[2017.04.07-16.05.57:345][496]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.05.57:349][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.05.57
+[2017.04.07-16.05.57:350][496]LogWorld: Bringing up level for play took: 0.004430
+[2017.04.07-16.05.57:351][496]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.279
+[2017.04.07-16.05.57:352][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.06.07:915][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.06.07:988][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.06.31:234][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.06.33:606][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.06.34:596][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.06.35:152][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.06.35:623][ 44]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-16.07.35:922][453]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.07.35:977][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.07.35:977][453]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-16.07.35:977][453]LogPlayLevel: [PlayLevel] Compiling InteractiveSwitch before play...
+[2017.04.07-16.07.36:922][453]LogPlayLevel: PlayLevel: Blueprint regeneration took 944 ms (1 blueprints)
+[2017.04.07-16.07.36:922][453]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:07:36 PM)
+[2017.04.07-16.07.36:922][453]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.07.36:939][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017019s)
+[2017.04.07-16.07.36:940][453]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.07.36:941][453]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2017.04.07-16.07.36:941][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.018770s)
+[2017.04.07-16.07.37:001][453]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.07.37:018][453]LogInit: FAudioDevice initialized.
+[2017.04.07-16.07.37:057][453]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.07.37:061][453]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.07.37
+[2017.04.07-16.07.37:062][453]LogWorld: Bringing up level for play took: 0.004405
+[2017.04.07-16.07.37:063][453]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 1.991
+[2017.04.07-16.07.37:063][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.08.11:467][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.08.11:546][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.08.24:012][421]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.04.07-16.08.26:905][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.08.41:066][ 70]Cmd: TRANSACTION UNDO
+[2017.04.07-16.08.41:066][ 70]LogEditorTransaction: Undo Vertex Paint
+[2017.04.07-16.15.28:688][888]LogSavePackage: Save=218.63ms
+[2017.04.07-16.15.28:688][888]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest60F4BDD44CA9F7371A6D44B3DE35BC91.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-16.15.28:698][888]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-16.15.28:804][888]LogFileHelpers: Saving map 'PuzzleTest' took 0.512
+[2017.04.07-16.15.28:952][888]LogSavePackage: Save=96.79ms
+[2017.04.07-16.15.28:952][888]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitchEF04B1784C6CFECEE9408B9F635D4292.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset'
+[2017.04.07-16.15.28:958][888]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset
+[2017.04.07-16.22.55:089][286]BlueprintLog: New page: Compile MirrorSwitchART
+[2017.04.07-16.22.56:295][286]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  else
+[2017.04.07-16.23.02:871][561]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.23.02:920][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.23.02:920][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.23.02:920][561]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:23:02 PM)
+[2017.04.07-16.23.02:920][561]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.23.02:940][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019064s)
+[2017.04.07-16.23.02:941][561]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.23.02:941][561]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2017.04.07-16.23.02:942][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.021163s)
+[2017.04.07-16.23.03:009][561]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.23.03:023][561]LogInit: FAudioDevice initialized.
+[2017.04.07-16.23.03:058][561]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.23.03:062][561]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.23.03
+[2017.04.07-16.23.03:063][561]LogWorld: Bringing up level for play took: 0.005057
+[2017.04.07-16.23.03:065][561]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.007
+[2017.04.07-16.23.03:065][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.24.31:580][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.24.31:721][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.25.54:757][804]LogSavePackage: Save=113.94ms
+[2017.04.07-16.25.54:757][804]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitch84301A654D96E4B9FEB7C6A6E78BAB21.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset'
+[2017.04.07-16.25.54:762][804]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset
+[2017.04.07-16.26.01:005][ 77]LogSavePackage: Save=175.63ms
+[2017.04.07-16.26.01:005][ 77]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MirrorSwitchARTD76FDC244471087C09590B84F5FDBD69.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset'
+[2017.04.07-16.26.01:011][ 77]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset
+[2017.04.07-16.26.02:275][123]LogSavePackage: Save=94.32ms
+[2017.04.07-16.26.02:275][123]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/SimpleSwitch714D29DF42A85A1D9F7433B8B1B25A2F.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset'
+[2017.04.07-16.26.02:280][123]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset
+[2017.04.07-16.26.57:501][599]LogSavePackage: Save=254.40ms
+[2017.04.07-16.26.57:501][599]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto2114C3DAB49D23BEB0035179878E1543A.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto2.umap'
+[2017.04.07-16.26.57:502][599]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto2.umap
+[2017.04.07-16.26.57:505][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.353
+[2017.04.07-16.26.57:505][599]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2017.04.07-16.26.57:509][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Switches/TemporizeSwitch/TemporizeSwitch] ([1] browsable assets)...
+[2017.04.07-16.26.57:563][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Switches/TemporizeSwitch/TemporizeSwitch.TemporizeSwitch]
+[2017.04.07-16.26.57:563][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Switches/TemporizeSwitch/TemporizeSwitch]
+[2017.04.07-16.26.57:658][599]LogSavePackage: Save=80.95ms
+[2017.04.07-16.26.57:658][599]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/TemporizeSwitch_Auto2472E4E4246029DE4516179A71447FB0A.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/TemporizeSwitch/TemporizeSwitch_Auto2.uasset'
+[2017.04.07-16.26.57:660][599]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/TemporizeSwitch/TemporizeSwitch_Auto2.uasset
+[2017.04.07-16.26.57:660][599]LogFileHelpers: Auto-saving content packages took 0.153
+[2017.04.07-16.28.00:707][480]LogSavePackage: Save=94.81ms
+[2017.04.07-16.28.00:707][480]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/TemporizeSwitch67BF69AA486EE69250BED685A8036911.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/TemporizeSwitch/TemporizeSwitch.uasset'
+[2017.04.07-16.28.00:717][480]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/TemporizeSwitch/TemporizeSwitch.uasset
+[2017.04.07-16.28.17:227][226]LogSavePackage: Save=126.64ms
+[2017.04.07-16.28.17:227][226]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/TemporizeSwitchDFC8F7DA4C0872BC3E4AEE8AE140F1FD.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/TemporizeSwitch/TemporizeSwitch.uasset'
+[2017.04.07-16.28.17:232][226]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/TemporizeSwitch/TemporizeSwitch.uasset
+[2017.04.07-16.28.30:951][824]LogSavePackage: Save=99.00ms
+[2017.04.07-16.28.30:951][824]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/SimpleSwitchAEC0C945482A0C5D459E37B36F14F11B.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset'
+[2017.04.07-16.28.30:956][824]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset
+[2017.04.07-16.29.54:663][736]LogSavePackage: Save=200.89ms
+[2017.04.07-16.29.54:663][736]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MirrorSwitchARTB557E5EC49B44A9B86DDD090E6CF543C.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset'
+[2017.04.07-16.29.54:667][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset
+[2017.04.07-16.30.08:472][313]LogSavePackage: Save=113.64ms
+[2017.04.07-16.30.08:472][313]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitch7EF02DDB48F300E7D30768902CF9BCF2.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset'
+[2017.04.07-16.30.08:479][313]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset
+[2017.04.07-16.30.12:941][515]BlueprintLog: New page: Compile InteractiveSwitch
+[2017.04.07-16.30.15:117][556]BlueprintLog: New page: Compile MirrorSwitchART
+[2017.04.07-16.30.16:409][556]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  else
+[2017.04.07-16.30.21:108][761]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.30.21:168][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.30.21:168][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.30.21:168][761]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:30:21 PM)
+[2017.04.07-16.30.21:168][761]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.30.21:187][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018890s)
+[2017.04.07-16.30.21:188][761]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.30.21:189][761]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2017.04.07-16.30.21:189][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.020588s)
+[2017.04.07-16.30.21:266][761]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.30.21:285][761]LogInit: FAudioDevice initialized.
+[2017.04.07-16.30.21:322][761]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.30.21:326][761]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.30.21
+[2017.04.07-16.30.21:327][761]LogWorld: Bringing up level for play took: 0.005173
+[2017.04.07-16.30.21:329][761]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.257
+[2017.04.07-16.30.21:329][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.31.13:932][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.31.14:105][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.33.47:090][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.33.48:787][867]LogEditorViewport: Clicking on Actor (LMB): MirrorSwitchART_C (MirrorSwitchART2)
+[2017.04.07-16.35.55:934][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.37.59:178][926]LogSavePackage: Save=265.75ms
+[2017.04.07-16.37.59:178][926]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto373147EE64CEB44CA686380BEDF23A19D.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto3.umap'
+[2017.04.07-16.37.59:181][926]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto3.umap
+[2017.04.07-16.37.59:188][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.371
+[2017.04.07-16.37.59:188][926]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.371
+[2017.04.07-16.45.53:136][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.46.01:828][195]LogActorFactory: Actor Factory created cerca2
+[2017.04.07-16.46.03:373][253]LogActorFactory: Actor Factory created cerca2
+[2017.04.07-16.46.51:217][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.46.52:268][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca2)
+[2017.04.07-16.46.53:035][438]Cmd: EDIT COPY
+[2017.04.07-16.46.53:208][445]Cmd: EDIT PASTE
+[2017.04.07-16.46.57:319][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.46.58:674][688]Cmd: EDIT COPY
+[2017.04.07-16.46.58:986][688]Cmd: EDIT PASTE
+[2017.04.07-16.46.59:525][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca3)
+[2017.04.07-16.47.02:047][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.07-16.47.02:131][790]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2017.04.07-16.47.03:077][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca3)
+[2017.04.07-16.47.03:928][873]Cmd: EDIT COPY
+[2017.04.07-16.47.04:110][881]Cmd: EDIT PASTE
+[2017.04.07-16.47.15:469][381]Cmd: EDIT COPY
+[2017.04.07-16.47.15:671][390]Cmd: EDIT PASTE
+[2017.04.07-16.47.31:198][ 83]Cmd: EDIT COPY
+[2017.04.07-16.47.31:413][ 92]Cmd: EDIT PASTE
+[2017.04.07-16.47.35:356][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.36:346][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca6)
+[2017.04.07-16.47.39:232][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.40:314][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca6)
+[2017.04.07-16.47.40:998][511]Cmd: EDIT COPY
+[2017.04.07-16.47.41:193][519]Cmd: EDIT PASTE
+[2017.04.07-16.47.56:087][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.57:091][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.57:462][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.57:814][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.58:270][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.58:854][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.47.59:438][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca7)
+[2017.04.07-16.48.02:238][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.48.03:348][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca7)
+[2017.04.07-16.48.05:781][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.48.07:958][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.48.09:116][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca7)
+[2017.04.07-16.48.10:715][820]Cmd: EDIT COPY
+[2017.04.07-16.48.10:912][828]Cmd: EDIT PASTE
+[2017.04.07-16.48.19:386][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.48.21:632][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cerca8)
+[2017.04.07-16.48.22:365][340]Cmd: EDIT COPY
+[2017.04.07-16.48.22:542][347]Cmd: EDIT PASTE
+[2017.04.07-16.48.28:361][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.49.34:813][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.50.20:589][ 62]LogSavePackage: Save=275.63ms
+[2017.04.07-16.50.20:589][ 62]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto4C4D19C9649CDEED07D4913B9A50D46FF.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto4.umap'
+[2017.04.07-16.50.20:611][ 62]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto4.umap
+[2017.04.07-16.50.20:614][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.386
+[2017.04.07-16.50.20:614][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2017.04.07-16.51.26:448][630]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.51.26:475][630]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.51.26:476][630]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.51.37:523][114]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.51.37:525][114]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.51.37:588][114]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.54.57:075][983]Cmd: DELETE
+[2017.04.07-16.54.57:075][983]Cmd: ACTOR DELETE
+[2017.04.07-16.54.57:077][983]LogEditorActor: Deleted Actor: ReturnMonster_C
+[2017.04.07-16.54.57:142][983]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2017.04.07-16.54.59:091][ 60]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.54.59:093][ 60]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.54.59:094][ 60]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.00:313][111]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.00:315][111]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.00:379][111]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.42:816][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.55.43:790][ 21]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.55.43:866][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.55.43:866][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.55.43:866][ 21]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:55:43 PM)
+[2017.04.07-16.55.43:866][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.55.43:887][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020767s)
+[2017.04.07-16.55.43:888][ 21]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.55.43:888][ 21]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2017.04.07-16.55.43:888][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.022458s)
+[2017.04.07-16.55.43:957][ 21]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.55.43:975][ 21]LogInit: FAudioDevice initialized.
+[2017.04.07-16.55.44:012][ 21]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.55.44:016][ 21]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.44:017][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.55.44
+[2017.04.07-16.55.44:018][ 21]LogWorld: Bringing up level for play took: 0.006073
+[2017.04.07-16.55.44:020][ 21]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.948
+[2017.04.07-16.55.44:020][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.55.45:924][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.55.46:049][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.55.49:629][251]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.04.07-16.55.52:866][374]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.55.52:916][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.55.52:916][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.55.52:917][374]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:55:52 PM)
+[2017.04.07-16.55.52:917][374]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.55.52:936][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019656s)
+[2017.04.07-16.55.52:939][374]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.55.52:939][374]LogPlayLevel: PIE: World Init took: (0.002515s)
+[2017.04.07-16.55.52:939][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.022548s)
+[2017.04.07-16.55.53:012][374]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.55.53:024][374]LogInit: FAudioDevice initialized.
+[2017.04.07-16.55.53:058][374]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.55.53:064][374]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.55.53:064][374]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.55.53
+[2017.04.07-16.55.53:066][374]LogWorld: Bringing up level for play took: 0.006892
+[2017.04.07-16.55.53:068][374]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.004
+[2017.04.07-16.55.53:068][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.02:597][773]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=36.07 Y=-28.59 Z=0.00 Location: X=3673.76 Y=54.88 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.485 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (0 other events since notify)
+[2017.04.07-16.56.03:606][816]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=153.50 Y=-133.74 Z=0.00 Location: X=3673.28 Y=52.15 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.485 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (41 other events since notify)
+[2017.04.07-16.56.04:632][860]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=37.50 Y=-26.38 Z=0.00 Location: X=3672.80 Y=49.39 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.486 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (23 other events since notify)
+[2017.04.07-16.56.05:633][903]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=37.49 Y=-26.38 Z=0.00 Location: X=3672.80 Y=49.39 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.486 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (20 other events since notify)
+[2017.04.07-16.56.06:664][947]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=38.01 Y=-26.74 Z=0.00 Location: X=3672.80 Y=49.39 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.486 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (21 other events since notify)
+[2017.04.07-16.56.07:666][990]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=38.14 Y=-26.83 Z=0.00 Location: X=3672.80 Y=49.39 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.486 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (20 other events since notify)
+[2017.04.07-16.56.08:689][ 34]LogCharacterMovement: ZoneMonster_184 is stuck and failed to move! Velocity: X=38.79 Y=-27.29 Z=0.00 Location: X=3672.80 Y=49.39 Z=90.13 Normal: X=-0.99 Y=0.17 Z=0.00 PenetrationDepth:26.486 Actor:SimpleSwitch_1402 Component:GateR BoneName:None (21 other events since notify)
+[2017.04.07-16.56.09:370][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.09:527][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.11:095][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.56.11:989][154]LogEditorViewport: Clicking on Actor (LMB): SimpleSwitch_C (SimpleSwitch)
+[2017.04.07-16.56.27:216][809]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.56.27:262][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.27:262][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.56.27:262][809]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:56:27 PM)
+[2017.04.07-16.56.27:262][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.56.27:282][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019509s)
+[2017.04.07-16.56.27:283][809]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.56.27:283][809]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2017.04.07-16.56.27:283][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.021038s)
+[2017.04.07-16.56.27:349][809]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.56.27:364][809]LogInit: FAudioDevice initialized.
+[2017.04.07-16.56.27:401][809]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.56.27:405][809]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.56.27:406][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.56.27
+[2017.04.07-16.56.27:407][809]LogWorld: Bringing up level for play took: 0.005768
+[2017.04.07-16.56.27:409][809]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.337
+[2017.04.07-16.56.27:409][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.40:064][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.40:169][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.42:569][437]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.56.42:623][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.56.42:623][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.56.42:623][437]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:56:42 PM)
+[2017.04.07-16.56.42:623][437]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.56.42:644][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020904s)
+[2017.04.07-16.56.42:645][437]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.56.42:646][437]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2017.04.07-16.56.42:646][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.022791s)
+[2017.04.07-16.56.42:719][437]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.56.42:736][437]LogInit: FAudioDevice initialized.
+[2017.04.07-16.56.42:777][437]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.56.42:782][437]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.56.42:782][437]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.56.42
+[2017.04.07-16.56.42:783][437]LogWorld: Bringing up level for play took: 0.005349
+[2017.04.07-16.56.42:784][437]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest -0.287
+[2017.04.07-16.56.42:785][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.57.28:834][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.57.28:947][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.57.44:090][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.57.45:043][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-16.57.45:636][169]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2017.04.07-16.58.15:775][539]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-16.58.15:822][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.58.15:823][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-16.58.15:823][539]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 8:58:15 PM)
+[2017.04.07-16.58.15:823][539]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-16.58.15:844][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020888s)
+[2017.04.07-16.58.15:845][539]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-16.58.15:845][539]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2017.04.07-16.58.15:845][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.022526s)
+[2017.04.07-16.58.15:912][539]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-16.58.15:928][539]LogInit: FAudioDevice initialized.
+[2017.04.07-16.58.15:966][539]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-16.58.15:972][539]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-16.58.15:972][539]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-18.58.15
+[2017.04.07-16.58.15:973][539]LogWorld: Bringing up level for play took: 0.006457
+[2017.04.07-16.58.15:989][539]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.918
+[2017.04.07-16.58.15:990][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.59.01:288][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.59.01:392][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-16.59.44:454][476]LogSavePackage: Save=187.59ms
+[2017.04.07-16.59.44:454][476]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/MirrorSwitchART15AE79544561C856477BFBB8CC5E12A8.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset'
+[2017.04.07-16.59.44:459][476]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/MirrorSwitchART.uasset
+[2017.04.07-17.00.29:903][520]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.00.29:952][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.00.29:953][520]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-17.00.29:953][520]LogPlayLevel: [PlayLevel] Compiling Mirror before play...
+[2017.04.07-17.00.30:151][520]LogPlayLevel: [PlayLevel] Compiling MirrorSwitchART before play...
+[2017.04.07-17.00.30:723][520]LogPlayLevel: PlayLevel: Blueprint regeneration took 770 ms (2 blueprints)
+[2017.04.07-17.00.30:723][520]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 9:00:30 PM)
+[2017.04.07-17.00.30:723][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-17.00.30:743][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019559s)
+[2017.04.07-17.00.30:743][520]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-17.00.30:744][520]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2017.04.07-17.00.30:744][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.021049s)
+[2017.04.07-17.00.30:810][520]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-17.00.30:823][520]LogInit: FAudioDevice initialized.
+[2017.04.07-17.00.30:862][520]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-17.00.30:867][520]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-17.00.30:867][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-19.00.30
+[2017.04.07-17.00.30:869][520]LogWorld: Bringing up level for play took: 0.006506
+[2017.04.07-17.00.30:884][520]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 1.812
+[2017.04.07-17.00.30:884][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.02.56:810][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.02.56:981][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.05:517][602]LogSavePackage: Save=281.70ms
+[2017.04.07-17.05.05:517][602]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto5DD7488984D57B34649DA3A9BD9F83877.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto5.umap'
+[2017.04.07-17.05.05:520][602]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto5.umap
+[2017.04.07-17.05.05:523][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.379
+[2017.04.07-17.05.05:523][602]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.379
+[2017.04.07-17.05.05:525][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Mirrors/Mirror] ([1] browsable assets)...
+[2017.04.07-17.05.05:551][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Mirrors/Mirror.Mirror]
+[2017.04.07-17.05.05:551][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Mirrors/Mirror]
+[2017.04.07-17.05.05:632][602]LogSavePackage: Save=62.91ms
+[2017.04.07-17.05.05:632][602]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Mirror_Auto5E3481CAA4D3FC0C8D368B09CC9F7A390.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/Mirror_Auto5.uasset'
+[2017.04.07-17.05.05:634][602]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Mirrors/Mirror_Auto5.uasset
+[2017.04.07-17.05.05:635][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Switches/SimpleSwitch/SimpleSwitch] ([1] browsable assets)...
+[2017.04.07-17.05.05:663][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Switches/SimpleSwitch/SimpleSwitch.SimpleSwitch]
+[2017.04.07-17.05.05:663][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Switches/SimpleSwitch/SimpleSwitch]
+[2017.04.07-17.05.05:779][602]LogSavePackage: Save=99.01ms
+[2017.04.07-17.05.05:779][602]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/SimpleSwitch_Auto50116775340FABC6987BDD7946C5921DE.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/SimpleSwitch/SimpleSwitch_Auto5.uasset'
+[2017.04.07-17.05.05:781][602]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/SimpleSwitch/SimpleSwitch_Auto5.uasset
+[2017.04.07-17.05.05:781][602]LogFileHelpers: Auto-saving content packages took 0.257
+[2017.04.07-17.05.32:923][876]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_11:PersistentLevel.SimpleSwitch_C_0.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.32:923][876]LogActorComponent: ReregisterComponent: (/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.SimpleSwitch_1402.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.32:923][876]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_10:PersistentLevel.SimpleSwitch_C_1.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.35:170][978]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_10:PersistentLevel.SimpleSwitch_C_1.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.35:170][978]LogActorComponent: ReregisterComponent: (/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.SimpleSwitch_1402.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.35:170][978]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_11:PersistentLevel.SimpleSwitch_C_0.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.05.39:442][175]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.05.39:493][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.39:493][175]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-17.05.39:493][175]LogPlayLevel: [PlayLevel] Compiling SimpleSwitch before play...
+[2017.04.07-17.05.39:796][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 302 ms (1 blueprints)
+[2017.04.07-17.05.39:796][175]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 9:05:39 PM)
+[2017.04.07-17.05.39:796][175]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-17.05.39:813][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017087s)
+[2017.04.07-17.05.39:814][175]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-17.05.39:815][175]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2017.04.07-17.05.39:815][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.018602s)
+[2017.04.07-17.05.39:888][175]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-17.05.39:902][175]LogInit: FAudioDevice initialized.
+[2017.04.07-17.05.39:940][175]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-17.05.39:946][175]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-17.05.39:946][175]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-19.05.39
+[2017.04.07-17.05.39:947][175]LogWorld: Bringing up level for play took: 0.006989
+[2017.04.07-17.05.39:964][175]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.892
+[2017.04.07-17.05.39:964][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.44:596][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.44:776][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.53:220][743]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.04.07-17.05.57:631][926]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.05.57:681][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.57:681][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.05.57:681][926]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 9:05:57 PM)
+[2017.04.07-17.05.57:682][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-17.05.57:702][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020136s)
+[2017.04.07-17.05.57:703][926]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-17.05.57:703][926]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2017.04.07-17.05.57:703][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.021565s)
+[2017.04.07-17.05.57:781][926]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-17.05.57:793][926]LogInit: FAudioDevice initialized.
+[2017.04.07-17.05.57:833][926]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-17.05.57:839][926]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-17.05.57:839][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-19.05.57
+[2017.04.07-17.05.57:840][926]LogWorld: Bringing up level for play took: 0.007317
+[2017.04.07-17.05.57:854][926]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.782
+[2017.04.07-17.05.57:854][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.58:285][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.05.58:416][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.06.06:494][271]LogEditorViewport: Clicking on Actor (LMB): VAN_C (VAN)
+[2017.04.07-17.06.09:280][387]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.06.09:334][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.06.09:334][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.06.09:334][387]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 9:06:09 PM)
+[2017.04.07-17.06.09:334][387]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-17.06.09:356][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021695s)
+[2017.04.07-17.06.09:357][387]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-17.06.09:357][387]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2017.04.07-17.06.09:358][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.023372s)
+[2017.04.07-17.06.09:429][387]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-17.06.09:442][387]LogInit: FAudioDevice initialized.
+[2017.04.07-17.06.09:477][387]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-17.06.09:482][387]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-17.06.09:482][387]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-19.06.09
+[2017.04.07-17.06.09:483][387]LogWorld: Bringing up level for play took: 0.005342
+[2017.04.07-17.06.09:497][387]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.425
+[2017.04.07-17.06.09:497][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.06.42:109][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.06.42:244][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.06.43:800][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-17.06.44:321][890]LogEditorViewport: Clicking on Actor (LMB): InteractiveSwitch_C (InteractiveSwitch)
+[2017.04.07-17.07.13:040][206]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_8:PersistentLevel.InteractiveSwitch_C_1.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.13:040][206]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.InteractiveSwitch_C_56.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.13:040][206]LogActorComponent: ReregisterComponent: (/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.InteractiveSwitch_18085.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.15:051][296]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_8:PersistentLevel.InteractiveSwitch_C_1.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.15:051][296]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.InteractiveSwitch_C_56.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.15:051][296]LogActorComponent: ReregisterComponent: (/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.InteractiveSwitch_18085.TriggerVolume) Not currently registered. Aborting.
+[2017.04.07-17.07.19:103][480]BlueprintLog: New page: Compile InteractiveSwitch
+[2017.04.07-17.07.21:056][540]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.07.21:109][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.07.21:109][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.07.21:109][540]PIE: New page: PIE session: PuzzleTest (Apr 7, 2017, 9:07:21 PM)
+[2017.04.07-17.07.21:110][540]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PuzzleTest
+[2017.04.07-17.07.21:134][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024086s)
+[2017.04.07-17.07.21:136][540]LogAIModule: Creating AISystem for world PuzzleTest
+[2017.04.07-17.07.21:136][540]LogPlayLevel: PIE: World Init took: (0.002366s)
+[2017.04.07-17.07.21:136][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PuzzleTest.PuzzleTest to /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest (0.026881s)
+[2017.04.07-17.07.21:211][540]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.07-17.07.21:225][540]LogInit: FAudioDevice initialized.
+[2017.04.07-17.07.21:257][540]LogLoad: Game class is 'GameModeBase'
+[2017.04.07-17.07.21:262][540]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: CharacterMesh0
+[2017.04.07-17.07.21:262][540]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PuzzleTest.PuzzleTest up for play (max tick rate 0) at 2017.04.07-19.07.21
+[2017.04.07-17.07.21:263][540]LogWorld: Bringing up level for play took: 0.005687
+[2017.04.07-17.07.21:278][540]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_PuzzleTest 0.206
+[2017.04.07-17.07.21:279][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.07.47:627][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.07.47:720][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest' with GeneratedClass '/Game/Levels/PuzzleTest.PuzzleTest_C' with ClassGeneratedBy '/Game/Levels/PuzzleTest.PuzzleTest:PersistentLevel.PuzzleTest'
+[2017.04.07-17.11.41:051][662]LogTexture:Display: Building textures: WhiteSquareTexture (AutoDXT)
+[2017.04.07-17.11.41:087][662]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.04.07-17.11.41:218][662]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.04.07-17.11.41:257][662]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.04.07-17.11.41:310][662]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.04.07-17.11.41:349][662]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.04.07-17.11.41:428][662]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.04.07-17.11.41:453][662]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.04.07-17.11.41:489][662]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.04.07-17.11.41:530][662]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.04.07-17.11.41:566][662]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.04.07-17.11.41:604][662]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.04.07-17.11.41:637][662]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.04.07-17.11.41:710][662]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2017.04.07-17.11.41:723][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:724][662]LogMaterial:Warning: Failed to compile Material /Game/Textures/GrassMaterialLandscape.GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:724][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:727][662]LogTexture:Display: Building textures: LandscapeThumbnailWeightmap (BGRA8)
+[2017.04.07-17.11.41:731][662]LogTexture:Display: Building textures: LandscapeThumbnailHeightmap (BGRA8)
+[2017.04.07-17.11.41:735][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:736][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_13 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:736][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:741][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:742][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_13 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:742][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:744][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:745][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_13 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:745][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:748][662]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 1 with static permutations.
+[2017.04.07-17.11.41:760][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:761][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_14 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:761][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:768][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:769][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_14 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:769][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:771][662]LogMaterial: Missing cached shader map for material GrassMaterialLandscape, compiling. 
+[2017.04.07-17.11.41:772][662]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_14 with Base GrassMaterialLandscape for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-17.11.41:772][662]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.07-17.11.41:775][662]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 1 with static permutations.
+[2017.04.07-17.11.41:893][662]LogTexture:Display: Building textures: Landscape (BGRA8)
+[2017.04.07-17.12.13:354][781]LogTexture:Display: Building textures: grass_alpha_rgm (AutoDXT)
+[2017.04.07-17.12.14:137][781]LogTexture:Display: Building textures: grass_alpha_bsm (AutoDXT)
+[2017.04.07-17.12.15:329][781]LogTexture:Display: Building textures: grass_alpha_nrm (BC5)
+[2017.04.07-17.12.15:848][781]LogMaterial: Missing cached shader map for material master_foliage, compiling. 
+[2017.04.07-17.12.16:211][781]LogTexture:Display: Building textures: leaves_fern_bsm (AutoDXT)
+[2017.04.07-17.12.19:998][781]LogTexture:Display: Building textures: leaves_fern_nrm (BC5)
+[2017.04.07-17.12.20:862][781]LogTexture:Display: Building textures: leaves_fern_rgm (AutoDXT)
+[2017.04.07-17.12.23:010][781]LogMaterial: Missing cached shader map for material master_foliage, compiling. 
+[2017.04.07-17.12.23:168][781]LogStaticMesh: Building static mesh leaves_fern_01...
+[2017.04.07-17.12.23:277][781]LogStaticMesh: Built static mesh [0.11s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.leaves_fern_01
+[2017.04.07-17.12.24:305][806]LogActorFactory: Actor Factory created leaves_fern_01
+[2017.04.07-17.12.25:835][846]LogActorFactory: Actor Factory created leaves_fern_01
+[2017.04.07-17.12.38:447][186]LogStaticMesh: Building static mesh grass_small_01...
+[2017.04.07-17.12.38:458][186]LogStaticMesh: Built static mesh [0.01s] /Game/ProceduralNaturePack/Meshes/grass/grass_small_01.grass_small_01
+[2017.04.07-17.12.38:467][186]LogMaterial: Missing cached shader map for material master_foliage, compiling. 
+[2017.04.07-17.12.38:623][186]LogMaterial: Missing cached shader map for material master_foliage, compiling. 
+[2017.04.07-17.12.47:648][438]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2017.04.07-17.12.56:296][675]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.04.07-17.12.57:250][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-17.12.58:468][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (leaves_fern_01)
+[2017.04.07-17.12.59:463][755]Cmd: DELETE
+[2017.04.07-17.12.59:463][755]Cmd: ACTOR DELETE
+[2017.04.07-17.12.59:464][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.07-17.12.59:574][755]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2017.04.07-17.13.00:220][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.07-17.16.11:633][594]LogSavePackage: Save=285.43ms
+[2017.04.07-17.16.11:633][594]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest_Auto6D2CE46FA48976673FC5F1998B34EB3AA.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto6.umap'
+[2017.04.07-17.16.11:636][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Levels/PuzzleTest_Auto6.umap
+[2017.04.07-17.16.11:639][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PuzzleTest' took 0.389
+[2017.04.07-17.16.11:639][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2017.04.07-17.16.11:644][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch] ([1] browsable assets)...
+[2017.04.07-17.16.11:700][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch.InteractiveSwitch]
+[2017.04.07-17.16.11:701][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch]
+[2017.04.07-17.16.11:816][594]LogSavePackage: Save=101.05ms
+[2017.04.07-17.16.11:816][594]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitch_Auto66F60A52C4BA12A448A8532BFEB97AA8A.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch_Auto6.uasset'
+[2017.04.07-17.16.11:818][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/InteractiveSwitch/InteractiveSwitch_Auto6.uasset
+[2017.04.07-17.16.11:820][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Elements/Switches/SimpleSwitch/SimpleSwitch] ([1] browsable assets)...
+[2017.04.07-17.16.11:875][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Elements/Switches/SimpleSwitch/SimpleSwitch.SimpleSwitch]
+[2017.04.07-17.16.11:875][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Elements/Switches/SimpleSwitch/SimpleSwitch]
+[2017.04.07-17.16.12:011][594]LogSavePackage: Save=119.86ms
+[2017.04.07-17.16.12:011][594]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/SimpleSwitch_Auto61602C737423AA14AF4885A901E11A107.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/SimpleSwitch/SimpleSwitch_Auto6.uasset'
+[2017.04.07-17.16.12:014][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Autosaves/Game/Elements/Switches/SimpleSwitch/SimpleSwitch_Auto6.uasset
+[2017.04.07-17.16.12:014][594]LogFileHelpers: Auto-saving content packages took 0.372
+[2017.04.07-17.17.00:399][855]LogSavePackage: Save=300.61ms
+[2017.04.07-17.17.00:399][855]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/PuzzleTest2412226343696736C04D679FF79C893C.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap'
+[2017.04.07-17.17.00:414][855]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Levels/PuzzleTest.umap
+[2017.04.07-17.17.00:522][855]LogFileHelpers: Saving map 'PuzzleTest' took 0.616
+[2017.04.07-17.17.00:639][855]LogSavePackage: Save=103.43ms
+[2017.04.07-17.17.00:639][855]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/InteractiveSwitch1026014845E2E6CB517295BDEEE86F1F.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset'
+[2017.04.07-17.17.00:658][855]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/InteractiveSwitch/InteractiveSwitch.uasset
+[2017.04.07-17.17.00:663][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elements/Mirrors/Mirror" FILE="../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/Mirror.uasset" SILENT=true
+[2017.04.07-17.17.00:724][855]LogSavePackage: Save=43.75ms
+[2017.04.07-17.17.00:724][855]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Mirror2BF901194F1F049E81F6D1ACC8B96A5E.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/Mirror.uasset'
+[2017.04.07-17.17.00:733][855]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Mirrors/Mirror.uasset
+[2017.04.07-17.17.00:832][855]LogSavePackage: Save=85.00ms
+[2017.04.07-17.17.00:832][855]LogSavePackage: Moving '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/SimpleSwitch60598ED84995EFE122AAB0B311C6DAA6.tmp' to '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset'
+[2017.04.07-17.17.00:837][855]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Elements/Switches/SimpleSwitch/SimpleSwitch.uasset
+[2017.04.07-17.17.03:749][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.17.03:836][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.17.03:925][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.17.04:042][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.17.04:115][962]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.07-17.17.04:490][963]Cmd: QUIT_EDITOR
+[2017.04.07-17.17.04:504][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.04.07-17.17.04:790][963]LogExit: Preparing to exit.
+[2017.04.07-17.17.05:438][963]LogDirectoryWatcher: A directory notification for 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2017.04.07-17.17.05:540][963]LogExit: Editor shut down
+[2017.04.07-17.17.05:541][963]LogExit: Transaction tracking system shut down
+[2017.04.07-17.17.05:958][963]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.07-17.17.05:958][963]LogExit: Object subsystem successfully closed.
+[2017.04.07-17.17.05:982][963]LogD3D11RHI: Shutdown
+[2017.04.07-17.17.05:982][963]LogD3D11RHI: CleanupD3DDevice
+[2017.04.07-17.17.06:207][963]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.07-17.17.06:231][963]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.07-17.17.06:232][963]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB45FFC3B-4FD4-3AE9-6895-B4A81B1040FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=a5dd296f4465423d14943ab8a8e87865%7C2b96ea3f579d47e6bbc473ce50562fcb%7C6c5b9553-4c91-441d-8a7f-4ef32a791c4c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.07-17.17.06:235][963]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.07-17.17.06:235][963]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.07-17.17.06:239][963]LogDirectoryWatcher: A directory notification for 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Collections/' was aborted.
+[2017.04.07-17.17.06:239][963]LogDirectoryWatcher: A directory notification for 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/Developers/Ferry/Collections/' was aborted.
+[2017.04.07-17.17.06:239][963]LogDirectoryWatcher: A directory notification for 'C:/Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Saved/Collections/' was aborted.
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.07-17.17.06:239][963]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.07-17.17.06:240][963]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.07-17.17.06:652][963]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.07-17.17.06:653][963]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.07-17.17.06:696][963]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.07-17.17.06:697][963]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.07-17.17.06:697][963]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.07-17.17.06:697][963]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.07-17.17.06:712][963]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.07-17.17.06:712][963]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.07-17.17.06:714][963]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.07-17.17.06:714][963]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.07-17.17.06:714][963]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.07-17.17.06:715][963]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.07-17.17.06:716][963]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.07-17.17.06:717][963]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.07-17.17.06:718][963]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.07-17.17.06:718][963]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.07-17.17.06:720][963]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.07-17.17.06:721][963]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.07-17.17.06:721][963]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.07-17.17.06:822][963]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.07-17.17.06:922][963]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.07-17.17.06:922][963]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.07-17.17.06:922][963]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.07-17.17.06:922][963]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.07-17.17.06:923][963]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.07-17.17.06:924][963]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.07-17.17.06:924][963]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.07-17.17.06:924][963]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.07-17.17.06:924][963]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.07-17.17.06:928][963]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.07-17.17.06:928][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.07-17.17.06:929][963]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ferry/Desktop/VANsGame/Mechanics/BasicMechanics/Content/' was aborted.
+[2017.04.07-17.17.06:929][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.07-17.17.06:931][963]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.07-17.17.07:075][963]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.07-17.17.07:089][963]LogDerivedDataCache: Shutdown
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.07-17.17.07:089][963]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.07-17.17.07:090][963]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.07-17.17.07:090][963]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.07-17.17.07:092][963]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.07-17.17.07:099][963]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.07-17.17.07:101][963]LogExit: Exiting.
+[2017.04.07-17.17.07:103][963]Log file closed, 04/07/17 19:17:07
